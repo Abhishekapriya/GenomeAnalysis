@@ -1,0 +1,185 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -R /home/abhis/raw_data/GCF_001750885.1_ASM175088v1_genomic.fna.gz /home/abhis/GenomeAnalysis/EF_Canu/EF.contigs.fasta /home/abhis/GenomeAnalysis/Spades/spades_outdir/contigs.fasta
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-17 18:51:56
+
+Logging to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/quast.log
+NOTICE: Maximum number of threads is set to 5 (use --threads option to set it manually)
+
+CWD: /domus/h1/abhis/GenomeAnalysis
+Main parameters: 
+  Threads: 5, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/abhis/raw_data/GCF_001750885.1_ASM175088v1_genomic.fna.gz ==> GCF_001750885.1_ASM175088v1_genomic
+
+Contigs:
+  Pre-processing...
+  1  /home/abhis/GenomeAnalysis/EF_Canu/EF.contigs.fasta ==> EF.contigs
+  2  /home/abhis/GenomeAnalysis/Spades/spades_outdir/contigs.fasta ==> contigs
+
+2020-04-17 18:51:58
+Running Basic statistics processor...
+  Reference genome:
+    GCF_001750885.1_ASM175088v1_genomic.fna, length = 3168410, num fragments = 7, GC % = 37.70
+  Contig files: 
+    1  EF.contigs
+    2  contigs
+  Calculating N50 and L50...
+    1  EF.contigs, N50 = 2772839, L50 = 1, Total length = 3153250, GC % = 37.76, # N's per 100 kbp =  0.00
+    2  contigs, N50 = 179830, L50 = 5, Total length = 3076511, GC % = 37.63, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/GC_content_plot.pdf
+  Drawing EF.contigs GC content plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/EF.contigs_GC_content_plot.pdf
+  Drawing contigs GC content plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/contigs_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 6x)...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/coverage_histogram.pdf
+  Drawing contigs coverage histogram (bin size: 6x)...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/basic_stats/contigs_coverage_histogram.pdf
+Done.
+
+2020-04-17 18:52:03
+Running Contig analyzer...
+  1  EF.contigs
+  2  contigs
+  1  Logging to files /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stdout and contigs_report_EF-contigs.stderr...
+  1  Aligning contigs to the reference
+  2  Logging to files /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stdout and contigs_report_contigs.stderr...
+  2  Aligning contigs to the reference
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+     -c 65 -l 65 --maxmatch -p quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs \
+     --emem -t 2 quast_results/results_2020_04_17_18_51_56/quast_corrected_input/GCF_001750885.1_ASM175088v1_genomic.fna \
+     quast_results/results_2020_04_17_18_51_56/quast_corrected_input/EF-contigs.fasta \
+     >> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stdout \
+     2>> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+     -c 65 -l 65 --maxmatch -p quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs \
+     --emem -t 2 quast_results/results_2020_04_17_18_51_56/quast_corrected_input/GCF_001750885.1_ASM175088v1_genomic.fna \
+     quast_results/results_2020_04_17_18_51_56/quast_corrected_input/contigs.fasta \
+     >> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stdout \
+     2>> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+     -i 95.0 -l 0 quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.fdelta \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+     --html --layout -p quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stdout \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.gp \
+     > /dev/null 2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  2  MUMmer plot saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_mummerplot.html
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.coords_tmp \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  2  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+     -S -T -H quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.delta \
+     < quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.coords.headless \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.all_snps \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_contigs.stderr
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+     -i 95.0 -l 0 quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.fdelta \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+     --html --layout -p quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stdout \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.gp \
+     > /dev/null 2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  1  MUMmer plot saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/EF-contigs_mummerplot.html
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+     quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.delta \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.coords_tmp \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  1  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+     -S -T -H quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.delta \
+     < quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.coords.headless \
+     > quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.all_snps \
+     2> quast_results/results_2020_04_17_18_51_56/contigs_reports/contigs_report_EF-contigs.stderr
+  2  Analysis is finished.
+
+  Gzipping /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.all_snps to reduce disk space usage...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/contigs.all_snps.gz
+  1  Analysis is finished.
+
+  Gzipping /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.all_snps to reduce disk space usage...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/nucmer_output/EF-contigs.all_snps.gz
+  Creating total report...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-17 18:52:31
+Running NA-NGA calculation...
+  1  EF.contigs, Largest alignment = 2772839, NA50 = 2772839, NGA50 = 2772839, LA50 = 1, LGA50 = 1
+  2  contigs, Largest alignment = 542117, NA50 = 179830, NGA50 = 179830, LA50 = 5, LGA50 = 5
+  Drawing cumulative plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-17 18:52:33
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  1  EF.contigs
+  2  contigs
+  2  Analysis is finished.
+  1  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-17 18:52:37
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-17 18:52:40
+RESULTS:
+  Text versions of total report are saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/report.html
+  PDF version (tables and plots) is saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/report.pdf
+  Icarus (contig browser) is saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/icarus.html
+  Log saved to /domus/h1/abhis/GenomeAnalysis/quast_results/results_2020_04_17_18_51_56/quast.log
+
+Finished: 2020-04-17 18:52:40
+Elapsed time: 0:00:44.011515
+NOTICEs: 4; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

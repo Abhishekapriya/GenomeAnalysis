@@ -1,0 +1,5 @@
+Database	Resistance gene	Identity	Query / Template length	Contig	Position in contig	Predicted phenotype	Accession number
+aminoglycoside	aac(6')-Ii	99.64	549 / 549	tig00000582_pilon	2723934..2724482	Warning: gene is missing from Notes file. Please inform curator.	L12710
+glycopeptide	VanHAX	100.0	2607 / 2607	tig00000032_pilon	4980..7586	Warning: gene is missing from Notes file. Please inform curator.	M97297
+glycopeptide	VanHAX	99.88	2608 / 2607	tig00000032_pilon	37403..40008	Warning: gene is missing from Notes file. Please inform curator.	M97297
+macrolide	msr(C)	98.99	1479 / 1479	tig00000582_pilon	1686394..1687872	Macrolide, Lincosamide and Streptogramin B resistance	AY004350

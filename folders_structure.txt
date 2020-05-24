@@ -1,0 +1,12 @@
+The folders included are : Codes, Images and Reports
+
+* The file "Codes" contains all the shell script files which were run as batch jobs.
+
+* The file "Images" contains all the images and snapshots taken at various stages in the project. 
+	These have been used to descirbe the differnet steps in the analysis process in the various wiki pages of this repository.
+
+* The file "Reports" contians sub-folders each labelled with the different software or piping tool used in differnt phases of the project.
+	Only those methods or steps have been included which:
+		- gave an output that was in a discernable format (and of small file size);
+		- (or) has been mentioned about in the wiki;
+		- (or) used in further analysis steps;

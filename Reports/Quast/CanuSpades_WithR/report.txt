@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     EF.contigs  contigs   
+# contigs (>= 0 bp)          12          189       
+# contigs (>= 1000 bp)       12          49        
+# contigs (>= 5000 bp)       10          32        
+# contigs (>= 10000 bp)      8           23        
+# contigs (>= 25000 bp)      5           17        
+# contigs (>= 50000 bp)      2           16        
+Total length (>= 0 bp)       3153250     3098278   
+Total length (>= 1000 bp)    3153250     3073892   
+Total length (>= 5000 bp)    3144227     3025806   
+Total length (>= 10000 bp)   3124517     2961855   
+Total length (>= 25000 bp)   3086414     2867451   
+Total length (>= 50000 bp)   2991823     2831946   
+# contigs                    12          53        
+Largest contig               2772839     542117    
+Total length                 3153250     3076511   
+Reference length             3168410     3168410   
+GC (%)                       37.76       37.63     
+Reference GC (%)             37.70       37.70     
+N50                          2772839     179830    
+NG50                         2772839     179830    
+N75                          2772839     132475    
+NG75                         2772839     125623    
+L50                          1           5         
+LG50                         1           5         
+L75                          1           10        
+LG75                         1           11        
+# misassemblies              5           1         
+# misassembled contigs       4           1         
+Misassembled contigs length  287004      19277     
+# local misassemblies        1           0         
+# unaligned mis. contigs     0           0         
+# unaligned contigs          0 + 0 part  1 + 1 part
+Unaligned length             0           6126      
+Genome fraction (%)          98.189      96.797    
+Duplication ratio            1.014       1.001     
+# N's per 100 kbp            0.00        0.00      
+# mismatches per 100 kbp     1.96        10.73     
+# indels per 100 kbp         15.72       4.53      
+Largest alignment            2772839     542117    
+Total aligned length         3153250     3070385   
+NA50                         2772839     179830    
+NGA50                        2772839     179830    
+NA75                         2772839     132475    
+NGA75                        2772839     125623    
+LA50                         1           5         
+LGA50                        1           5         
+LA75                         1           10        
+LGA75                        1           11        

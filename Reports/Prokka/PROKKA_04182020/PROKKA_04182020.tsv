@@ -1,0 +1,3165 @@
+locus_tag	ftype	gene	EC_number	product
+IFCPCJBP_00001	CDS			hypothetical protein
+IFCPCJBP_00002	CDS			hypothetical protein
+IFCPCJBP_00003	CDS			hypothetical protein
+IFCPCJBP_00004	CDS	walR_1		Transcriptional regulatory protein WalR
+IFCPCJBP_00005	CDS	walK_1	2.7.13.3	Sensor protein kinase WalK
+IFCPCJBP_00006	CDS	vanH_1	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+IFCPCJBP_00007	CDS	vanA_1	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+IFCPCJBP_00008	CDS	vanX_1	3.4.13.22	D-alanyl-D-alanine dipeptidase
+IFCPCJBP_00009	CDS			hypothetical protein
+IFCPCJBP_00010	CDS			hypothetical protein
+IFCPCJBP_00011	CDS			hypothetical protein
+IFCPCJBP_00012	CDS			hypothetical protein
+IFCPCJBP_00013	CDS			hypothetical protein
+IFCPCJBP_00014	CDS			hypothetical protein
+IFCPCJBP_00015	CDS	bin3_1		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00016	CDS			hypothetical protein
+IFCPCJBP_00017	CDS			hypothetical protein
+IFCPCJBP_00018	CDS			hypothetical protein
+IFCPCJBP_00019	CDS			hypothetical protein
+IFCPCJBP_00020	CDS			hypothetical protein
+IFCPCJBP_00021	CDS			hypothetical protein
+IFCPCJBP_00022	CDS	bin3_2		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00023	CDS	ligA_1	6.5.1.2	DNA ligase
+IFCPCJBP_00024	CDS			hypothetical protein
+IFCPCJBP_00025	CDS	bin3_3		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00026	CDS			hypothetical protein
+IFCPCJBP_00027	CDS			hypothetical protein
+IFCPCJBP_00028	CDS			hypothetical protein
+IFCPCJBP_00029	CDS	repD		Replication initiation protein
+IFCPCJBP_00030	CDS			hypothetical protein
+IFCPCJBP_00031	CDS			hypothetical protein
+IFCPCJBP_00032	CDS			hypothetical protein
+IFCPCJBP_00033	CDS			hypothetical protein
+IFCPCJBP_00034	CDS			hypothetical protein
+IFCPCJBP_00035	CDS			hypothetical protein
+IFCPCJBP_00036	CDS	repN		Replication initiation protein
+IFCPCJBP_00037	CDS			hypothetical protein
+IFCPCJBP_00038	CDS			hypothetical protein
+IFCPCJBP_00039	CDS			hypothetical protein
+IFCPCJBP_00040	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_00041	CDS			hypothetical protein
+IFCPCJBP_00042	CDS			hypothetical protein
+IFCPCJBP_00043	CDS			hypothetical protein
+IFCPCJBP_00044	CDS	walR_2		Transcriptional regulatory protein WalR
+IFCPCJBP_00045	CDS			hypothetical protein
+IFCPCJBP_00046	CDS	walK_2	2.7.13.3	Sensor protein kinase WalK
+IFCPCJBP_00047	CDS	vanH_2	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+IFCPCJBP_00048	CDS	vanA_2	6.1.2.1	Vancomycin/teicoplanin A-type resistance protein VanA
+IFCPCJBP_00049	CDS	vanX_2	3.4.13.22	D-alanyl-D-alanine dipeptidase
+IFCPCJBP_00050	CDS			hypothetical protein
+IFCPCJBP_00051	CDS			hypothetical protein
+IFCPCJBP_00052	CDS			hypothetical protein
+IFCPCJBP_00053	CDS	tee6		Trypsin-resistant surface T6 protein
+IFCPCJBP_00054	CDS			hypothetical protein
+IFCPCJBP_00055	CDS			hypothetical protein
+IFCPCJBP_00056	CDS			hypothetical protein
+IFCPCJBP_00057	CDS			hypothetical protein
+IFCPCJBP_00058	CDS			hypothetical protein
+IFCPCJBP_00059	CDS			hypothetical protein
+IFCPCJBP_00060	CDS			hypothetical protein
+IFCPCJBP_00061	CDS			hypothetical protein
+IFCPCJBP_00062	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_00063	CDS			hypothetical protein
+IFCPCJBP_00064	CDS			hypothetical protein
+IFCPCJBP_00065	CDS			hypothetical protein
+IFCPCJBP_00066	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+IFCPCJBP_00067	CDS	bin3_4		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00068	CDS	pemK	3.1.-.-	Endoribonuclease PemK
+IFCPCJBP_00069	CDS	mazE		Antitoxin MazE
+IFCPCJBP_00070	CDS			hypothetical protein
+IFCPCJBP_00071	CDS			hypothetical protein
+IFCPCJBP_00072	CDS			hypothetical protein
+IFCPCJBP_00073	CDS			hypothetical protein
+IFCPCJBP_00074	CDS			hypothetical protein
+IFCPCJBP_00075	CDS			hypothetical protein
+IFCPCJBP_00076	CDS			hypothetical protein
+IFCPCJBP_00077	CDS			hypothetical protein
+IFCPCJBP_00078	CDS	ssb_1		Single-stranded DNA-binding protein
+IFCPCJBP_00079	CDS			hypothetical protein
+IFCPCJBP_00080	CDS			hypothetical protein
+IFCPCJBP_00081	CDS			hypothetical protein
+IFCPCJBP_00082	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+IFCPCJBP_00083	CDS			hypothetical protein
+IFCPCJBP_00084	CDS			hypothetical protein
+IFCPCJBP_00085	CDS			hypothetical protein
+IFCPCJBP_00086	CDS			hypothetical protein
+IFCPCJBP_00087	CDS			hypothetical protein
+IFCPCJBP_00088	CDS			hypothetical protein
+IFCPCJBP_00089	CDS			hypothetical protein
+IFCPCJBP_00090	CDS			hypothetical protein
+IFCPCJBP_00091	CDS			hypothetical protein
+IFCPCJBP_00092	CDS			hypothetical protein
+IFCPCJBP_00093	CDS			hypothetical protein
+IFCPCJBP_00094	CDS			hypothetical protein
+IFCPCJBP_00095	CDS			hypothetical protein
+IFCPCJBP_00096	CDS			hypothetical protein
+IFCPCJBP_00097	CDS			hypothetical protein
+IFCPCJBP_00098	CDS			hypothetical protein
+IFCPCJBP_00099	CDS	yxdL_1		ABC transporter ATP-binding protein YxdL
+IFCPCJBP_00100	CDS	ecfA2_1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+IFCPCJBP_00101	CDS			hypothetical protein
+IFCPCJBP_00102	CDS			hypothetical protein
+IFCPCJBP_00103	CDS			hypothetical protein
+IFCPCJBP_00104	CDS			hypothetical protein
+IFCPCJBP_00105	CDS			hypothetical protein
+IFCPCJBP_00106	CDS			hypothetical protein
+IFCPCJBP_00107	CDS			hypothetical protein
+IFCPCJBP_00108	CDS	immR		HTH-type transcriptional regulator ImmR
+IFCPCJBP_00109	CDS			hypothetical protein
+IFCPCJBP_00110	CDS			hypothetical protein
+IFCPCJBP_00111	CDS	yxdL_2		ABC transporter ATP-binding protein YxdL
+IFCPCJBP_00112	CDS			hypothetical protein
+IFCPCJBP_00113	CDS			hypothetical protein
+IFCPCJBP_00114	CDS			hypothetical protein
+IFCPCJBP_00115	CDS			hypothetical protein
+IFCPCJBP_00116	CDS			hypothetical protein
+IFCPCJBP_00117	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+IFCPCJBP_00118	CDS	dinB_3	2.7.7.7	DNA polymerase IV
+IFCPCJBP_00119	CDS	bin3_5		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00120	CDS			hypothetical protein
+IFCPCJBP_00121	CDS	yoeB	3.1.-.-	Toxin YoeB
+IFCPCJBP_00122	CDS			hypothetical protein
+IFCPCJBP_00123	CDS			hypothetical protein
+IFCPCJBP_00124	CDS			hypothetical protein
+IFCPCJBP_00125	CDS			hypothetical protein
+IFCPCJBP_00126	CDS			hypothetical protein
+IFCPCJBP_00127	CDS			hypothetical protein
+IFCPCJBP_00128	CDS			hypothetical protein
+IFCPCJBP_00129	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_00130	CDS			hypothetical protein
+IFCPCJBP_00131	CDS			hypothetical protein
+IFCPCJBP_00132	CDS			hypothetical protein
+IFCPCJBP_00133	CDS	dinB_4	2.7.7.7	DNA polymerase IV
+IFCPCJBP_00134	CDS	bin3_6		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_00135	CDS			hypothetical protein
+IFCPCJBP_00136	CDS			hypothetical protein
+IFCPCJBP_00137	CDS			hypothetical protein
+IFCPCJBP_00138	CDS			hypothetical protein
+IFCPCJBP_00139	CDS			hypothetical protein
+IFCPCJBP_00140	CDS	ftsL_1		Cell division protein FtsL
+IFCPCJBP_00141	CDS	iap_1	3.4.-.-	putative endopeptidase p60
+IFCPCJBP_00142	CDS			hypothetical protein
+IFCPCJBP_00143	CDS			hypothetical protein
+IFCPCJBP_00144	CDS			hypothetical protein
+IFCPCJBP_00145	CDS			hypothetical protein
+IFCPCJBP_00146	CDS			hypothetical protein
+IFCPCJBP_00147	CDS			hypothetical protein
+IFCPCJBP_00148	CDS			hypothetical protein
+IFCPCJBP_00149	CDS			hypothetical protein
+IFCPCJBP_00150	CDS	ltrA_1		Group II intron-encoded protein LtrA
+IFCPCJBP_00151	CDS			hypothetical protein
+IFCPCJBP_00152	CDS			hypothetical protein
+IFCPCJBP_00153	CDS			hypothetical protein
+IFCPCJBP_00154	CDS			hypothetical protein
+IFCPCJBP_00155	CDS			hypothetical protein
+IFCPCJBP_00156	CDS			hypothetical protein
+IFCPCJBP_00157	CDS			hypothetical protein
+IFCPCJBP_00158	CDS			hypothetical protein
+IFCPCJBP_00159	CDS			hypothetical protein
+IFCPCJBP_00160	CDS			Putative conjugal transfer protein
+IFCPCJBP_00161	CDS			hypothetical protein
+IFCPCJBP_00162	CDS			hypothetical protein
+IFCPCJBP_00163	CDS			hypothetical protein
+IFCPCJBP_00164	CDS			hypothetical protein
+IFCPCJBP_00165	CDS	sinR		HTH-type transcriptional regulator SinR
+IFCPCJBP_00166	CDS			hypothetical protein
+IFCPCJBP_00167	CDS			hypothetical protein
+IFCPCJBP_00168	CDS			hypothetical protein
+IFCPCJBP_00169	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+IFCPCJBP_00170	CDS	toxN	3.1.-.-	Endoribonuclease ToxN
+IFCPCJBP_00171	CDS			hypothetical protein
+IFCPCJBP_00172	CDS			hypothetical protein
+IFCPCJBP_00173	CDS	soj_4	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_00174	CDS			hypothetical protein
+IFCPCJBP_00175	CDS			hypothetical protein
+IFCPCJBP_00176	CDS			hypothetical protein
+IFCPCJBP_00177	CDS			hypothetical protein
+IFCPCJBP_00178	CDS			hypothetical protein
+IFCPCJBP_00179	CDS	iadA_1	3.4.19.-	Isoaspartyl dipeptidase
+IFCPCJBP_00180	CDS	iadA_2	3.4.19.-	Isoaspartyl dipeptidase
+IFCPCJBP_00181	CDS			hypothetical protein
+IFCPCJBP_00182	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_00183	CDS			hypothetical protein
+IFCPCJBP_00184	CDS	rnj2_1	3.1.-.-	Ribonuclease J 2
+IFCPCJBP_00185	CDS	ybaK_1	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IFCPCJBP_00186	CDS			hypothetical protein
+IFCPCJBP_00187	CDS			hypothetical protein
+IFCPCJBP_00188	CDS	iadA_3	3.4.19.-	Isoaspartyl dipeptidase
+IFCPCJBP_00189	CDS			hypothetical protein
+IFCPCJBP_00190	CDS	lolD_1	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IFCPCJBP_00191	CDS			hypothetical protein
+IFCPCJBP_00192	CDS	rnj2_2	3.1.-.-	Ribonuclease J 2
+IFCPCJBP_00193	CDS	ybaK_2	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IFCPCJBP_00194	CDS			hypothetical protein
+IFCPCJBP_00195	CDS		3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+IFCPCJBP_00196	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+IFCPCJBP_00197	CDS			hypothetical protein
+IFCPCJBP_00198	CDS			hypothetical protein
+IFCPCJBP_00199	CDS			hypothetical protein
+IFCPCJBP_00200	CDS			hypothetical protein
+IFCPCJBP_00201	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+IFCPCJBP_00202	CDS			hypothetical protein
+IFCPCJBP_00203	CDS	lrp		Leucine-rich protein
+IFCPCJBP_00204	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+IFCPCJBP_00205	CDS			hypothetical protein
+IFCPCJBP_00206	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+IFCPCJBP_00207	CDS			hypothetical protein
+IFCPCJBP_00208	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+IFCPCJBP_00209	CDS			hypothetical protein
+IFCPCJBP_00210	CDS			hypothetical protein
+IFCPCJBP_00211	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+IFCPCJBP_00212	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+IFCPCJBP_00213	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+IFCPCJBP_00214	CDS	yugI_1		General stress protein 13
+IFCPCJBP_00215	CDS			hypothetical protein
+IFCPCJBP_00216	rRNA			16S ribosomal RNA
+IFCPCJBP_00217	rRNA			23S ribosomal RNA
+IFCPCJBP_00218	rRNA			5S ribosomal RNA
+IFCPCJBP_00219	tRNA			tRNA-Asn(gtt)
+IFCPCJBP_00220	CDS			hypothetical protein
+IFCPCJBP_00221	CDS			hypothetical protein
+IFCPCJBP_00222	CDS			hypothetical protein
+IFCPCJBP_00223	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IFCPCJBP_00224	tRNA			tRNA-Thr(ggt)
+IFCPCJBP_00225	tRNA			tRNA-Asn(gtt)
+IFCPCJBP_00226	CDS			hypothetical protein
+IFCPCJBP_00227	CDS	pepC	3.4.22.40	Aminopeptidase C
+IFCPCJBP_00228	CDS			hypothetical protein
+IFCPCJBP_00229	CDS			hypothetical protein
+IFCPCJBP_00230	CDS	ansA	3.5.1.1	L-asparaginase
+IFCPCJBP_00231	CDS			hypothetical protein
+IFCPCJBP_00232	CDS	yhaX		Stress response protein YhaX
+IFCPCJBP_00233	CDS			hypothetical protein
+IFCPCJBP_00234	CDS	ezrA		Septation ring formation regulator EzrA
+IFCPCJBP_00235	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+IFCPCJBP_00236	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+IFCPCJBP_00237	CDS	rex_1		Redox-sensing transcriptional repressor Rex
+IFCPCJBP_00238	CDS	valS	6.1.1.9	Valine--tRNA ligase
+IFCPCJBP_00239	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+IFCPCJBP_00240	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+IFCPCJBP_00241	CDS			hypothetical protein
+IFCPCJBP_00242	CDS	cspLA_1		Cold shock-like protein CspLA
+IFCPCJBP_00243	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+IFCPCJBP_00244	CDS			hypothetical protein
+IFCPCJBP_00245	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_00246	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_00247	CDS			hypothetical protein
+IFCPCJBP_00248	CDS		2.3.1.-	Putative acetyltransferase
+IFCPCJBP_00249	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+IFCPCJBP_00250	CDS			hypothetical protein
+IFCPCJBP_00251	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+IFCPCJBP_00252	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+IFCPCJBP_00253	CDS	hflX		GTPase HflX
+IFCPCJBP_00254	CDS			hypothetical protein
+IFCPCJBP_00255	CDS	cdr_1	1.8.1.14	Coenzyme A disulfide reductase
+IFCPCJBP_00256	CDS	adaA	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+IFCPCJBP_00257	CDS	araN_1		putative arabinose-binding protein
+IFCPCJBP_00258	CDS	lacF_1		Lactose transport system permease protein LacF
+IFCPCJBP_00259	CDS	lacG_1		Lactose transport system permease protein LacG
+IFCPCJBP_00260	CDS	ugl_1	3.2.1.179	Unsaturated glucuronyl hydrolase
+IFCPCJBP_00261	CDS			hypothetical protein
+IFCPCJBP_00262	CDS	ugl_2	3.2.1.180	Unsaturated chondroitin disaccharide hydrolase
+IFCPCJBP_00263	CDS	yheS_1		putative ABC transporter ATP-binding protein YheS
+IFCPCJBP_00264	CDS	rex_2		Redox-sensing transcriptional repressor Rex
+IFCPCJBP_00265	CDS	trxA_1		Thioredoxin
+IFCPCJBP_00266	CDS			Putative two-component membrane permease complex subunit SMU_747c
+IFCPCJBP_00267	CDS			Putative two-component membrane permease complex subunit SMU_746c
+IFCPCJBP_00268	CDS	agrA_1		Accessory gene regulator A
+IFCPCJBP_00269	CDS	natA_1		ABC transporter ATP-binding protein NatA
+IFCPCJBP_00270	CDS			hypothetical protein
+IFCPCJBP_00271	CDS			hypothetical protein
+IFCPCJBP_00272	CDS			hypothetical protein
+IFCPCJBP_00273	tRNA			tRNA-Gly(ccc)
+IFCPCJBP_00274	CDS	endA	3.1.30.-	DNA-entry nuclease
+IFCPCJBP_00275	CDS			hypothetical protein
+IFCPCJBP_00276	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+IFCPCJBP_00277	CDS			hypothetical protein
+IFCPCJBP_00278	CDS	Int-Tn_1		Transposase from transposon Tn916
+IFCPCJBP_00279	CDS			hypothetical protein
+IFCPCJBP_00280	CDS			hypothetical protein
+IFCPCJBP_00281	CDS			hypothetical protein
+IFCPCJBP_00282	CDS			hypothetical protein
+IFCPCJBP_00283	CDS			hypothetical protein
+IFCPCJBP_00284	CDS			hypothetical protein
+IFCPCJBP_00285	CDS			hypothetical protein
+IFCPCJBP_00286	CDS			hypothetical protein
+IFCPCJBP_00287	CDS			hypothetical protein
+IFCPCJBP_00288	CDS			hypothetical protein
+IFCPCJBP_00289	CDS			hypothetical protein
+IFCPCJBP_00290	CDS			hypothetical protein
+IFCPCJBP_00291	CDS			hypothetical protein
+IFCPCJBP_00292	CDS			hypothetical protein
+IFCPCJBP_00293	CDS			hypothetical protein
+IFCPCJBP_00294	CDS			hypothetical protein
+IFCPCJBP_00295	CDS			hypothetical protein
+IFCPCJBP_00296	CDS			hypothetical protein
+IFCPCJBP_00297	CDS			hypothetical protein
+IFCPCJBP_00298	CDS			hypothetical protein
+IFCPCJBP_00299	CDS			hypothetical protein
+IFCPCJBP_00300	CDS	citS		Citrate-sodium symporter
+IFCPCJBP_00301	CDS	mleS	4.1.1.101	Malolactic enzyme
+IFCPCJBP_00302	CDS			hypothetical protein
+IFCPCJBP_00303	CDS	hmo	1.1.3.46	4-hydroxymandelate oxidase
+IFCPCJBP_00304	CDS			hypothetical protein
+IFCPCJBP_00305	CDS			hypothetical protein
+IFCPCJBP_00306	CDS			hypothetical protein
+IFCPCJBP_00307	CDS			hypothetical protein
+IFCPCJBP_00308	CDS			hypothetical protein
+IFCPCJBP_00309	CDS	nox_1	1.6.99.3	NADH oxidase
+IFCPCJBP_00310	CDS			putative ABC transporter permease
+IFCPCJBP_00311	CDS	hrtA_1	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+IFCPCJBP_00312	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+IFCPCJBP_00313	CDS	cwlC	3.5.1.28	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+IFCPCJBP_00314	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+IFCPCJBP_00315	CDS	zapA		Cell division protein ZapA
+IFCPCJBP_00316	CDS			hypothetical protein
+IFCPCJBP_00317	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+IFCPCJBP_00318	CDS	trxA_2		Thioredoxin
+IFCPCJBP_00319	CDS	uvrC_1		UvrABC system protein C
+IFCPCJBP_00320	CDS	natA_2		ABC transporter ATP-binding protein NatA
+IFCPCJBP_00321	CDS			hypothetical protein
+IFCPCJBP_00322	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+IFCPCJBP_00323	CDS	puuD	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+IFCPCJBP_00324	CDS			hypothetical protein
+IFCPCJBP_00325	CDS			hypothetical protein
+IFCPCJBP_00326	CDS	ntpK		V-type sodium ATPase subunit K
+IFCPCJBP_00327	CDS	atpE_1		V-type proton ATPase subunit E
+IFCPCJBP_00328	CDS	ntpC		V-type sodium ATPase subunit C
+IFCPCJBP_00329	CDS	ntpG		V-type sodium ATPase subunit G
+IFCPCJBP_00330	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+IFCPCJBP_00331	CDS	ntpB		V-type sodium ATPase subunit B
+IFCPCJBP_00332	CDS	ntpD		V-type sodium ATPase subunit D
+IFCPCJBP_00333	CDS	ntpJ_1		Potassium/sodium uptake protein NtpJ
+IFCPCJBP_00334	CDS	gabR		HTH-type transcriptional regulatory protein GabR
+IFCPCJBP_00335	CDS	lhpI	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+IFCPCJBP_00336	CDS	yddE	5.1.-.-	putative isomerase YddE
+IFCPCJBP_00337	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+IFCPCJBP_00338	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+IFCPCJBP_00339	CDS	yidA_1	3.1.3.23	Sugar phosphatase YidA
+IFCPCJBP_00340	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+IFCPCJBP_00341	CDS	lipL	2.3.1.204	Octanoyl-[GcvH]:protein N-octanoyltransferase
+IFCPCJBP_00342	CDS	ywiB		putative beta-barrel protein YwiB
+IFCPCJBP_00343	CDS	rpoE		putative DNA-directed RNA polymerase subunit delta
+IFCPCJBP_00344	CDS	sigV		RNA polymerase sigma factor SigV
+IFCPCJBP_00345	CDS	rsiV		Anti-sigma-V factor RsiV
+IFCPCJBP_00346	CDS	pgdA	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+IFCPCJBP_00347	tRNA			tRNA-Arg(ccg)
+IFCPCJBP_00348	CDS	rpoN1		RNA polymerase sigma-54 factor 1
+IFCPCJBP_00349	CDS	cggR		Central glycolytic genes regulator
+IFCPCJBP_00350	CDS	gap_1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+IFCPCJBP_00351	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+IFCPCJBP_00352	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+IFCPCJBP_00353	CDS	eno	4.2.1.11	Enolase
+IFCPCJBP_00354	CDS			hypothetical protein
+IFCPCJBP_00355	CDS			hypothetical protein
+IFCPCJBP_00356	CDS			hypothetical protein
+IFCPCJBP_00357	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+IFCPCJBP_00358	CDS			hypothetical protein
+IFCPCJBP_00359	CDS	rihB	3.2.2.8	Pyrimidine-specific ribonucleoside hydrolase RihB
+IFCPCJBP_00360	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IFCPCJBP_00361	CDS			hypothetical protein
+IFCPCJBP_00362	CDS	secG		putative protein-export membrane protein SecG
+IFCPCJBP_00363	CDS	est	3.1.1.1	Carboxylesterase
+IFCPCJBP_00364	CDS	rnr	3.1.13.1	Ribonuclease R
+IFCPCJBP_00365	CDS	smpB		SsrA-binding protein
+IFCPCJBP_00366	CDS	atpB		ATP synthase subunit a
+IFCPCJBP_00367	CDS	atpE_2		ATP synthase subunit c
+IFCPCJBP_00368	CDS	atpF		ATP synthase subunit b
+IFCPCJBP_00369	CDS	atpH		ATP synthase subunit delta
+IFCPCJBP_00370	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+IFCPCJBP_00371	CDS	atpG		ATP synthase gamma chain
+IFCPCJBP_00372	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+IFCPCJBP_00373	CDS	atpC		ATP synthase epsilon chain
+IFCPCJBP_00374	CDS			hypothetical protein
+IFCPCJBP_00375	CDS	murA1_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+IFCPCJBP_00376	CDS			hypothetical protein
+IFCPCJBP_00377	CDS			Putative membrane protein insertion efficiency factor
+IFCPCJBP_00378	CDS	yvbK	2.3.1.-	putative N-acetyltransferase YvbK
+IFCPCJBP_00379	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+IFCPCJBP_00380	CDS			hypothetical protein
+IFCPCJBP_00381	tRNA			tRNA-Tyr(gta)
+IFCPCJBP_00382	tRNA			tRNA-Gln(ttg)
+IFCPCJBP_00383	CDS			hypothetical protein
+IFCPCJBP_00384	CDS	yvoA_1		HTH-type transcriptional repressor YvoA
+IFCPCJBP_00385	CDS	yigZ		IMPACT family member YigZ
+IFCPCJBP_00386	CDS			hypothetical protein
+IFCPCJBP_00387	CDS	celA_1	2.7.1.205	PTS system cellobiose-specific EIIB component
+IFCPCJBP_00388	CDS	comFA	3.6.4.12	ComF operon protein 1
+IFCPCJBP_00389	CDS			hypothetical protein
+IFCPCJBP_00390	CDS	hpf		Ribosome hibernation promotion factor
+IFCPCJBP_00391	CDS	secA		Protein translocase subunit SecA
+IFCPCJBP_00392	CDS	prfB		Peptide chain release factor 2
+IFCPCJBP_00393	CDS	ftsE		Cell division ATP-binding protein FtsE
+IFCPCJBP_00394	CDS	ftsX		Cell division protein FtsX
+IFCPCJBP_00395	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+IFCPCJBP_00396	CDS	pstS1_1		Phosphate-binding protein PstS 1
+IFCPCJBP_00397	CDS	pstC1		Phosphate transport system permease protein PstC 1
+IFCPCJBP_00398	CDS	pstA		Phosphate transport system permease protein PstA
+IFCPCJBP_00399	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+IFCPCJBP_00400	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+IFCPCJBP_00401	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+IFCPCJBP_00402	CDS			hypothetical protein
+IFCPCJBP_00403	CDS			hypothetical protein
+IFCPCJBP_00404	CDS	smc_1		Chromosome partition protein Smc
+IFCPCJBP_00405	CDS			hypothetical protein
+IFCPCJBP_00406	CDS			hypothetical protein
+IFCPCJBP_00407	CDS			hypothetical protein
+IFCPCJBP_00408	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+IFCPCJBP_00409	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+IFCPCJBP_00410	CDS	gpsA_1	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IFCPCJBP_00411	CDS	gtaB_1	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+IFCPCJBP_00412	CDS			hypothetical protein
+IFCPCJBP_00413	CDS			hypothetical protein
+IFCPCJBP_00414	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+IFCPCJBP_00415	CDS	ccpA_1		Catabolite control protein A
+IFCPCJBP_00416	CDS	ponA_1		Penicillin-binding protein 1A/1B
+IFCPCJBP_00417	CDS	nfo_1	3.1.21.2	putative endonuclease 4
+IFCPCJBP_00418	CDS			hypothetical protein
+IFCPCJBP_00419	CDS			hypothetical protein
+IFCPCJBP_00420	CDS	mntH		Divalent metal cation transporter MntH
+IFCPCJBP_00421	CDS			hypothetical protein
+IFCPCJBP_00422	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+IFCPCJBP_00423	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+IFCPCJBP_00424	CDS	licT_1		Transcription antiterminator LicT
+IFCPCJBP_00425	CDS	bglF_1		PTS system beta-glucoside-specific EIIBCA component
+IFCPCJBP_00426	CDS	murR_1		HTH-type transcriptional regulator MurR
+IFCPCJBP_00427	CDS	licH	3.2.1.86	putative 6-phospho-beta-glucosidase
+IFCPCJBP_00428	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+IFCPCJBP_00429	CDS	trxB	1.8.1.9	Thioredoxin reductase
+IFCPCJBP_00430	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+IFCPCJBP_00431	CDS	czrA		HTH-type transcriptional repressor CzrA
+IFCPCJBP_00432	CDS	yqfL	2.7.11.32	Putative pyruvate, phosphate dikinase regulatory protein
+IFCPCJBP_00433	CDS	zur		Zinc-specific metallo-regulatory protein
+IFCPCJBP_00434	CDS	rpsU		30S ribosomal protein S21
+IFCPCJBP_00435	CDS			hypothetical protein
+IFCPCJBP_00436	CDS	brnQ_1		Branched-chain amino acid transport system 2 carrier protein
+IFCPCJBP_00437	CDS			PhoH-like protein
+IFCPCJBP_00438	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+IFCPCJBP_00439	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+IFCPCJBP_00440	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+IFCPCJBP_00441	CDS	era		GTPase Era
+IFCPCJBP_00442	CDS	recO		DNA repair protein RecO
+IFCPCJBP_00443	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+IFCPCJBP_00444	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+IFCPCJBP_00445	CDS			hypothetical protein
+IFCPCJBP_00446	CDS	lytR_1		Transcriptional regulator LytR
+IFCPCJBP_00447	CDS	ywqC		putative capsular polysaccharide biosynthesis protein YwqC
+IFCPCJBP_00448	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+IFCPCJBP_00449	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+IFCPCJBP_00450	CDS	pglF	4.2.1.135	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+IFCPCJBP_00451	CDS	ddl_1	6.3.2.4	D-alanine--D-alanine ligase
+IFCPCJBP_00452	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+IFCPCJBP_00453	CDS	epsN	2.6.1.-	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+IFCPCJBP_00454	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+IFCPCJBP_00455	CDS	pglA	2.4.1.290	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+IFCPCJBP_00456	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+IFCPCJBP_00457	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+IFCPCJBP_00458	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+IFCPCJBP_00459	CDS	pglH_1	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+IFCPCJBP_00460	CDS			hypothetical protein
+IFCPCJBP_00461	CDS			hypothetical protein
+IFCPCJBP_00462	CDS			hypothetical protein
+IFCPCJBP_00463	CDS			hypothetical protein
+IFCPCJBP_00464	CDS	wbgU_1	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+IFCPCJBP_00465	CDS	ugd	1.1.1.22	UDP-glucose 6-dehydrogenase
+IFCPCJBP_00466	CDS	glvR		HTH-type transcriptional regulator GlvR
+IFCPCJBP_00467	CDS	pfkB	2.7.1.11	ATP-dependent 6-phosphofructokinase isozyme 2
+IFCPCJBP_00468	CDS	fruA_1		PTS system fructose-specific EIIABC component
+IFCPCJBP_00469	CDS	mngA		PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+IFCPCJBP_00470	CDS	lacD2	4.1.2.40	Tagatose 1,6-diphosphate aldolase 2
+IFCPCJBP_00471	CDS	yidC		Membrane protein insertase YidC
+IFCPCJBP_00472	CDS	acyP	3.6.1.7	Acylphosphatase
+IFCPCJBP_00473	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+IFCPCJBP_00474	CDS	rny_1	3.1.-.-	Ribonuclease Y
+IFCPCJBP_00475	CDS			hypothetical protein
+IFCPCJBP_00476	CDS	eriC		Chloride/fluoride channel protein
+IFCPCJBP_00477	CDS			hypothetical protein
+IFCPCJBP_00478	CDS	dacA	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+IFCPCJBP_00479	CDS			hypothetical protein
+IFCPCJBP_00480	CDS			hypothetical protein
+IFCPCJBP_00481	CDS			hypothetical protein
+IFCPCJBP_00482	CDS			hypothetical protein
+IFCPCJBP_00483	CDS	cspLA_2		Cold shock-like protein CspLA
+IFCPCJBP_00484	CDS	dinG_1	3.6.4.12	putative ATP-dependent helicase DinG 
+IFCPCJBP_00485	CDS			hypothetical protein
+IFCPCJBP_00486	CDS		2.6.1.1	Aspartate aminotransferase
+IFCPCJBP_00487	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+IFCPCJBP_00488	CDS	axe2	3.1.1.72	Acetylxylan esterase
+IFCPCJBP_00489	CDS			hypothetical protein
+IFCPCJBP_00490	CDS	yccF		Inner membrane protein YccF
+IFCPCJBP_00491	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+IFCPCJBP_00492	CDS	ycaM		Inner membrane transporter YcaM
+IFCPCJBP_00493	CDS			hypothetical protein
+IFCPCJBP_00494	CDS			hypothetical protein
+IFCPCJBP_00495	CDS	copY		Transcriptional repressor CopY
+IFCPCJBP_00496	CDS	copZ		Copper chaperone CopZ
+IFCPCJBP_00497	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+IFCPCJBP_00498	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+IFCPCJBP_00499	CDS			hypothetical protein
+IFCPCJBP_00500	CDS			hypothetical protein
+IFCPCJBP_00501	CDS			hypothetical protein
+IFCPCJBP_00502	CDS			hypothetical protein
+IFCPCJBP_00503	CDS			hypothetical protein
+IFCPCJBP_00504	CDS			hypothetical protein
+IFCPCJBP_00505	CDS			hypothetical protein
+IFCPCJBP_00506	CDS			hypothetical protein
+IFCPCJBP_00507	CDS	lytA_1	3.5.1.28	Autolysin
+IFCPCJBP_00508	CDS			hypothetical protein
+IFCPCJBP_00509	CDS			hypothetical protein
+IFCPCJBP_00510	CDS			hypothetical protein
+IFCPCJBP_00511	CDS			hypothetical protein
+IFCPCJBP_00512	CDS			hypothetical protein
+IFCPCJBP_00513	CDS			hypothetical protein
+IFCPCJBP_00514	CDS			hypothetical protein
+IFCPCJBP_00515	CDS			hypothetical protein
+IFCPCJBP_00516	CDS			hypothetical protein
+IFCPCJBP_00517	CDS			hypothetical protein
+IFCPCJBP_00518	CDS	cbh_1	3.5.1.24	Choloylglycine hydrolase
+IFCPCJBP_00519	CDS			hypothetical protein
+IFCPCJBP_00520	CDS			hypothetical protein
+IFCPCJBP_00521	CDS			hypothetical protein
+IFCPCJBP_00522	CDS			hypothetical protein
+IFCPCJBP_00523	CDS			hypothetical protein
+IFCPCJBP_00524	CDS	pstS1_2		Phosphate-binding protein PstS 1
+IFCPCJBP_00525	CDS			hypothetical protein
+IFCPCJBP_00526	CDS			hypothetical protein
+IFCPCJBP_00527	CDS	ctpE_1	3.6.3.-	putative cation-transporting ATPase E
+IFCPCJBP_00528	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IFCPCJBP_00529	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+IFCPCJBP_00530	CDS			hypothetical protein
+IFCPCJBP_00531	CDS			hypothetical protein
+IFCPCJBP_00532	CDS	ffh		Signal recognition particle protein
+IFCPCJBP_00533	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+IFCPCJBP_00534	CDS	folA_1	1.5.1.3	Dihydrofolate reductase
+IFCPCJBP_00535	CDS	chrR	1.6.5.2	Chromate reductase
+IFCPCJBP_00536	CDS	rpsP		30S ribosomal protein S16
+IFCPCJBP_00537	CDS			hypothetical protein
+IFCPCJBP_00538	CDS			hypothetical protein
+IFCPCJBP_00539	CDS	rimM		Ribosome maturation factor RimM
+IFCPCJBP_00540	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+IFCPCJBP_00541	CDS	rplS		50S ribosomal protein L19
+IFCPCJBP_00542	CDS			hypothetical protein
+IFCPCJBP_00543	CDS			hypothetical protein
+IFCPCJBP_00544	CDS			hypothetical protein
+IFCPCJBP_00545	CDS			hypothetical protein
+IFCPCJBP_00546	CDS			hypothetical protein
+IFCPCJBP_00547	CDS	ftsK_1		DNA translocase FtsK
+IFCPCJBP_00548	CDS	ltrA_2		Group II intron-encoded protein LtrA
+IFCPCJBP_00549	CDS			hypothetical protein
+IFCPCJBP_00550	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+IFCPCJBP_00551	CDS			hypothetical protein
+IFCPCJBP_00552	CDS			hypothetical protein
+IFCPCJBP_00553	CDS			hypothetical protein
+IFCPCJBP_00554	CDS	ltrA_3		Group II intron-encoded protein LtrA
+IFCPCJBP_00555	CDS			hypothetical protein
+IFCPCJBP_00556	CDS			hypothetical protein
+IFCPCJBP_00557	CDS			hypothetical protein
+IFCPCJBP_00558	CDS			hypothetical protein
+IFCPCJBP_00559	CDS			hypothetical protein
+IFCPCJBP_00560	CDS			hypothetical protein
+IFCPCJBP_00561	CDS			hypothetical protein
+IFCPCJBP_00562	CDS	iap_2	3.4.-.-	putative endopeptidase p60
+IFCPCJBP_00563	CDS			hypothetical protein
+IFCPCJBP_00564	CDS			Insertion sequence IS5376 putative ATP-binding protein
+IFCPCJBP_00565	CDS			hypothetical protein
+IFCPCJBP_00566	CDS			hypothetical protein
+IFCPCJBP_00567	CDS			hypothetical protein
+IFCPCJBP_00568	CDS			hypothetical protein
+IFCPCJBP_00569	CDS			hypothetical protein
+IFCPCJBP_00570	CDS			hypothetical protein
+IFCPCJBP_00571	CDS	degA_1		HTH-type transcriptional regulator DegA
+IFCPCJBP_00572	CDS	bfrA	3.2.1.26	Beta-fructosidase
+IFCPCJBP_00573	CDS	treP_1		PTS system trehalose-specific EIIBC component
+IFCPCJBP_00574	CDS	crr_1	2.7.1.199	PTS system glucose-specific EIIA component
+IFCPCJBP_00575	CDS	gmuE_1	2.7.1.4	Putative fructokinase
+IFCPCJBP_00576	CDS	dgaR_1		Transcriptional regulatory protein DagR
+IFCPCJBP_00577	CDS	sorC_1		PTS system sorbose-specific EIIC component
+IFCPCJBP_00578	CDS	manZ_1		PTS system mannose-specific EIID component
+IFCPCJBP_00579	CDS	manX_1	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_00580	CDS	sorF	2.7.1.206	PTS system sorbose-specific EIIA component
+IFCPCJBP_00581	CDS	sacA	3.2.1.26	Sucrose-6-phosphate hydrolase
+IFCPCJBP_00582	CDS			hypothetical protein
+IFCPCJBP_00583	CDS			hypothetical protein
+IFCPCJBP_00584	CDS			hypothetical protein
+IFCPCJBP_00585	CDS			hypothetical protein
+IFCPCJBP_00586	CDS			hypothetical protein
+IFCPCJBP_00587	CDS			hypothetical protein
+IFCPCJBP_00588	CDS			hypothetical protein
+IFCPCJBP_00589	CDS			hypothetical protein
+IFCPCJBP_00590	CDS	xerC_1		Tyrosine recombinase XerC
+IFCPCJBP_00591	CDS			hypothetical protein
+IFCPCJBP_00592	CDS			hypothetical protein
+IFCPCJBP_00593	CDS			hypothetical protein
+IFCPCJBP_00594	CDS			hypothetical protein
+IFCPCJBP_00595	CDS			hypothetical protein
+IFCPCJBP_00596	CDS			Fimbrial subunit type 1
+IFCPCJBP_00597	CDS			hypothetical protein
+IFCPCJBP_00598	CDS			hypothetical protein
+IFCPCJBP_00599	CDS			hypothetical protein
+IFCPCJBP_00600	CDS			hypothetical protein
+IFCPCJBP_00601	CDS	yjhB_1		Putative metabolite transport protein YjhB
+IFCPCJBP_00602	CDS	adhR		HTH-type transcriptional regulator AdhR
+IFCPCJBP_00603	CDS	catM		HTH-type transcriptional regulator CatM
+IFCPCJBP_00604	CDS			hypothetical protein
+IFCPCJBP_00605	CDS			hypothetical protein
+IFCPCJBP_00606	CDS	araQ_1		L-arabinose transport system permease protein AraQ
+IFCPCJBP_00607	CDS			hypothetical protein
+IFCPCJBP_00608	CDS			hypothetical protein
+IFCPCJBP_00609	CDS	alsS	2.2.1.6	Acetolactate synthase
+IFCPCJBP_00610	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+IFCPCJBP_00611	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+IFCPCJBP_00612	CDS			hypothetical protein
+IFCPCJBP_00613	CDS			hypothetical protein
+IFCPCJBP_00614	CDS			hypothetical protein
+IFCPCJBP_00615	tRNA			tRNA-Met(cat)
+IFCPCJBP_00616	CDS			hypothetical protein
+IFCPCJBP_00617	CDS			hypothetical protein
+IFCPCJBP_00618	CDS			hypothetical protein
+IFCPCJBP_00619	tmRNA	ssrA		transfer-messenger RNA, SsrA
+IFCPCJBP_00620	CDS		3.1.3.-	Putative phosphatase
+IFCPCJBP_00621	CDS			hypothetical protein
+IFCPCJBP_00622	CDS	srrA_1		Transcriptional regulatory protein SrrA
+IFCPCJBP_00623	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IFCPCJBP_00624	CDS			hypothetical protein
+IFCPCJBP_00625	CDS			hypothetical protein
+IFCPCJBP_00626	CDS	ltaS1_1		Lipoteichoic acid synthase 1
+IFCPCJBP_00627	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+IFCPCJBP_00628	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+IFCPCJBP_00629	CDS	ybaK_3	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IFCPCJBP_00630	CDS	mnmG_1		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IFCPCJBP_00631	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+IFCPCJBP_00632	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+IFCPCJBP_00633	CDS			hypothetical protein
+IFCPCJBP_00634	CDS			hypothetical protein
+IFCPCJBP_00635	CDS			hypothetical protein
+IFCPCJBP_00636	CDS			hypothetical protein
+IFCPCJBP_00637	CDS			hypothetical protein
+IFCPCJBP_00638	CDS			hypothetical protein
+IFCPCJBP_00639	CDS			hypothetical protein
+IFCPCJBP_00640	CDS			hypothetical protein
+IFCPCJBP_00641	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+IFCPCJBP_00642	CDS			hypothetical protein
+IFCPCJBP_00643	CDS			hypothetical protein
+IFCPCJBP_00644	CDS			hypothetical protein
+IFCPCJBP_00645	CDS			hypothetical protein
+IFCPCJBP_00646	CDS			hypothetical protein
+IFCPCJBP_00647	CDS			hypothetical protein
+IFCPCJBP_00648	CDS			hypothetical protein
+IFCPCJBP_00649	tRNA			tRNA-Ser(cga)
+IFCPCJBP_00650	CDS	intQ_1		Putative defective protein IntQ
+IFCPCJBP_00651	CDS			hypothetical protein
+IFCPCJBP_00652	CDS			hypothetical protein
+IFCPCJBP_00653	CDS	immA	3.4.-.-	Metallopeptidase ImmA
+IFCPCJBP_00654	CDS	xre		HTH-type transcriptional regulator Xre
+IFCPCJBP_00655	CDS			hypothetical protein
+IFCPCJBP_00656	CDS			hypothetical protein
+IFCPCJBP_00657	CDS			hypothetical protein
+IFCPCJBP_00658	CDS			hypothetical protein
+IFCPCJBP_00659	CDS			hypothetical protein
+IFCPCJBP_00660	CDS			hypothetical protein
+IFCPCJBP_00661	CDS			hypothetical protein
+IFCPCJBP_00662	CDS			hypothetical protein
+IFCPCJBP_00663	CDS			hypothetical protein
+IFCPCJBP_00664	CDS			hypothetical protein
+IFCPCJBP_00665	CDS			hypothetical protein
+IFCPCJBP_00666	CDS			hypothetical protein
+IFCPCJBP_00667	CDS			hypothetical protein
+IFCPCJBP_00668	CDS			hypothetical protein
+IFCPCJBP_00669	CDS			hypothetical protein
+IFCPCJBP_00670	CDS			hypothetical protein
+IFCPCJBP_00671	CDS			hypothetical protein
+IFCPCJBP_00672	CDS			hypothetical protein
+IFCPCJBP_00673	CDS			hypothetical protein
+IFCPCJBP_00674	CDS			hypothetical protein
+IFCPCJBP_00675	CDS			hypothetical protein
+IFCPCJBP_00676	CDS			hypothetical protein
+IFCPCJBP_00677	CDS			hypothetical protein
+IFCPCJBP_00678	CDS			hypothetical protein
+IFCPCJBP_00679	CDS			hypothetical protein
+IFCPCJBP_00680	CDS			hypothetical protein
+IFCPCJBP_00681	CDS			hypothetical protein
+IFCPCJBP_00682	CDS			hypothetical protein
+IFCPCJBP_00683	CDS			hypothetical protein
+IFCPCJBP_00684	CDS			hypothetical protein
+IFCPCJBP_00685	CDS			hypothetical protein
+IFCPCJBP_00686	CDS			hypothetical protein
+IFCPCJBP_00687	CDS			hypothetical protein
+IFCPCJBP_00688	CDS			hypothetical protein
+IFCPCJBP_00689	CDS			hypothetical protein
+IFCPCJBP_00690	CDS			hypothetical protein
+IFCPCJBP_00691	CDS	smc_2		Chromosome partition protein Smc
+IFCPCJBP_00692	CDS			hypothetical protein
+IFCPCJBP_00693	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+IFCPCJBP_00694	CDS			hypothetical protein
+IFCPCJBP_00695	CDS			hypothetical protein
+IFCPCJBP_00696	CDS			hypothetical protein
+IFCPCJBP_00697	CDS			hypothetical protein
+IFCPCJBP_00698	CDS			hypothetical protein
+IFCPCJBP_00699	CDS			hypothetical protein
+IFCPCJBP_00700	CDS			hypothetical protein
+IFCPCJBP_00701	CDS	lytA_2	3.5.1.28	Autolysin
+IFCPCJBP_00702	CDS			hypothetical protein
+IFCPCJBP_00703	CDS			hypothetical protein
+IFCPCJBP_00704	CDS	cbh_2	3.5.1.24	Choloylglycine hydrolase
+IFCPCJBP_00705	CDS			hypothetical protein
+IFCPCJBP_00706	CDS	cbh_3	3.5.1.24	Choloylglycine hydrolase
+IFCPCJBP_00707	CDS			hypothetical protein
+IFCPCJBP_00708	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+IFCPCJBP_00709	CDS			hypothetical protein
+IFCPCJBP_00710	CDS	rpmGA_1		50S ribosomal protein L33 1
+IFCPCJBP_00711	CDS	folA_2	1.5.1.3	Dihydrofolate reductase
+IFCPCJBP_00712	CDS	yfiY		putative siderophore-binding lipoprotein YfiY
+IFCPCJBP_00713	CDS	fepC		Ferric enterobactin transport ATP-binding protein FepC
+IFCPCJBP_00714	CDS	feuB_1		Iron-uptake system permease protein FeuB
+IFCPCJBP_00715	CDS	feuC		Iron-uptake system permease protein FeuC
+IFCPCJBP_00716	CDS	ygfA	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+IFCPCJBP_00717	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+IFCPCJBP_00718	CDS			hypothetical protein
+IFCPCJBP_00719	CDS	glcK	2.7.1.2	Glucokinase
+IFCPCJBP_00720	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IFCPCJBP_00721	CDS			hypothetical protein
+IFCPCJBP_00722	CDS			hypothetical protein
+IFCPCJBP_00723	CDS			hypothetical protein
+IFCPCJBP_00724	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+IFCPCJBP_00725	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+IFCPCJBP_00726	CDS	exuR_1		putative HTH-type transcriptional repressor ExuR
+IFCPCJBP_00727	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+IFCPCJBP_00728	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+IFCPCJBP_00729	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+IFCPCJBP_00730	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+IFCPCJBP_00731	CDS	ntcA		Global nitrogen regulator
+IFCPCJBP_00732	CDS	arcA	3.5.3.6	Arginine deiminase
+IFCPCJBP_00733	CDS	arcB	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+IFCPCJBP_00734	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+IFCPCJBP_00735	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+IFCPCJBP_00736	CDS	phnX_1	3.11.1.1	Phosphonoacetaldehyde hydrolase
+IFCPCJBP_00737	CDS	phnX_2	3.11.1.1	Phosphonoacetaldehyde hydrolase
+IFCPCJBP_00738	CDS	phnW	2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase
+IFCPCJBP_00739	CDS	argR_1		Arginine repressor
+IFCPCJBP_00740	CDS	rpsB		30S ribosomal protein S2
+IFCPCJBP_00741	CDS	tsf		Elongation factor Ts
+IFCPCJBP_00742	CDS	pyrH	2.7.4.22	Uridylate kinase
+IFCPCJBP_00743	CDS	frr		Ribosome-recycling factor
+IFCPCJBP_00744	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+IFCPCJBP_00745	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+IFCPCJBP_00746	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+IFCPCJBP_00747	CDS	proS	6.1.1.15	Proline--tRNA ligase
+IFCPCJBP_00748	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+IFCPCJBP_00749	CDS	rimP		Ribosome maturation factor RimP
+IFCPCJBP_00750	CDS	nusA		Transcription termination/antitermination protein NusA
+IFCPCJBP_00751	CDS			hypothetical protein
+IFCPCJBP_00752	CDS	rplGA		putative ribosomal protein YlxQ
+IFCPCJBP_00753	CDS	infB		Translation initiation factor IF-2
+IFCPCJBP_00754	CDS	rbfA		Ribosome-binding factor A
+IFCPCJBP_00755	CDS	xpkA_1	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+IFCPCJBP_00756	CDS	xpkA_2	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+IFCPCJBP_00757	CDS	xpkA_3	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+IFCPCJBP_00758	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+IFCPCJBP_00759	CDS	ribF		Riboflavin biosynthesis protein RibF
+IFCPCJBP_00760	CDS	gdhIV	1.1.1.47	Glucose 1-dehydrogenase 4
+IFCPCJBP_00761	CDS	glcU_1		Glucose uptake protein GlcU
+IFCPCJBP_00762	CDS			hypothetical protein
+IFCPCJBP_00763	CDS	fra		Intracellular iron chaperone frataxin
+IFCPCJBP_00764	CDS	proX_1		Prolyl-tRNA editing protein ProX
+IFCPCJBP_00765	CDS	mccF		Microcin C7 self-immunity protein MccF
+IFCPCJBP_00766	CDS			hypothetical protein
+IFCPCJBP_00767	CDS	ydeA	3.2.-.-	putative protease YdeA
+IFCPCJBP_00768	CDS			hypothetical protein
+IFCPCJBP_00769	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+IFCPCJBP_00770	CDS	hrcA		Heat-inducible transcription repressor HrcA
+IFCPCJBP_00771	CDS	grpE		Protein GrpE
+IFCPCJBP_00772	CDS	dnaK		Chaperone protein DnaK
+IFCPCJBP_00773	CDS	dnaJ		Chaperone protein DnaJ
+IFCPCJBP_00774	CDS	cdaR_1		Carbohydrate diacid regulator
+IFCPCJBP_00775	CDS	artM_1		Arginine transport ATP-binding protein ArtM
+IFCPCJBP_00776	CDS	glnM_1		putative glutamine ABC transporter permease protein GlnM
+IFCPCJBP_00777	CDS	uvrB		UvrABC system protein B
+IFCPCJBP_00778	CDS	uvrA		UvrABC system protein A
+IFCPCJBP_00779	CDS		6.3.1.12	D-aspartate ligase
+IFCPCJBP_00780	CDS		5.1.1.13	Aspartate racemase
+IFCPCJBP_00781	CDS	yvcJ		Nucleotide-binding protein YvcJ
+IFCPCJBP_00782	CDS			Putative gluconeogenesis factor
+IFCPCJBP_00783	CDS	whiA		Putative sporulation transcription regulator WhiA
+IFCPCJBP_00784	CDS			hypothetical protein
+IFCPCJBP_00785	CDS			hypothetical protein
+IFCPCJBP_00786	CDS			hypothetical protein
+IFCPCJBP_00787	CDS			hypothetical protein
+IFCPCJBP_00788	CDS			hypothetical protein
+IFCPCJBP_00789	CDS			hypothetical protein
+IFCPCJBP_00790	CDS			hypothetical protein
+IFCPCJBP_00791	CDS			hypothetical protein
+IFCPCJBP_00792	CDS			hypothetical protein
+IFCPCJBP_00793	CDS	por_1	1.2.7.1	Pyruvate synthase
+IFCPCJBP_00794	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+IFCPCJBP_00795	CDS	cdaR_2		CdaA regulatory protein CdaR
+IFCPCJBP_00796	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+IFCPCJBP_00797	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFCPCJBP_00798	CDS			hypothetical protein
+IFCPCJBP_00799	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+IFCPCJBP_00800	CDS			hypothetical protein
+IFCPCJBP_00801	CDS			hypothetical protein
+IFCPCJBP_00802	CDS	tig	5.2.1.8	Trigger factor
+IFCPCJBP_00803	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+IFCPCJBP_00804	CDS	engB		putative GTP-binding protein EngB
+IFCPCJBP_00805	CDS			hypothetical protein
+IFCPCJBP_00806	CDS			hypothetical protein
+IFCPCJBP_00807	CDS			hypothetical protein
+IFCPCJBP_00808	CDS	glcR_1		HTH-type transcriptional repressor GlcR
+IFCPCJBP_00809	CDS	lacC_1	2.7.1.144	Tagatose-6-phosphate kinase
+IFCPCJBP_00810	CDS	fruA_2		PTS system fructose-specific EIIABC component
+IFCPCJBP_00811	CDS	clcA		H(+)/Cl(-) exchange transporter ClcA
+IFCPCJBP_00812	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+IFCPCJBP_00813	CDS	ligA_2	6.5.1.2	DNA ligase
+IFCPCJBP_00814	CDS	gatC_1	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+IFCPCJBP_00815	CDS	gatA_1	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IFCPCJBP_00816	CDS	gatB_1	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IFCPCJBP_00817	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+IFCPCJBP_00818	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+IFCPCJBP_00819	CDS			hypothetical protein
+IFCPCJBP_00820	CDS	aes_1	3.1.1.-	Acetyl esterase
+IFCPCJBP_00821	CDS	lacR_1		HTH-type transcriptional regulator LacR
+IFCPCJBP_00822	CDS	agaSK_1		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+IFCPCJBP_00823	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+IFCPCJBP_00824	CDS	lacM	3.2.1.23	Beta-galactosidase small subunit
+IFCPCJBP_00825	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+IFCPCJBP_00826	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+IFCPCJBP_00827	CDS	aroC	4.2.3.5	Chorismate synthase
+IFCPCJBP_00828	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+IFCPCJBP_00829	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+IFCPCJBP_00830	CDS	aroK	2.7.1.71	Shikimate kinase
+IFCPCJBP_00831	CDS	pheA	4.2.1.51	Prephenate dehydratase
+IFCPCJBP_00832	CDS	yehU_1	2.7.13.3	Sensor histidine kinase YehU
+IFCPCJBP_00833	CDS	araC_1		Arabinose operon regulatory protein
+IFCPCJBP_00834	CDS			putative response regulatory protein
+IFCPCJBP_00835	CDS	lacE_1		Lactose-binding protein
+IFCPCJBP_00836	CDS	lacF_2		Lactose transport system permease protein LacF
+IFCPCJBP_00837	CDS	lacG_2		Lactose transport system permease protein LacG
+IFCPCJBP_00838	CDS			hypothetical protein
+IFCPCJBP_00839	CDS			hypothetical protein
+IFCPCJBP_00840	CDS			hypothetical protein
+IFCPCJBP_00841	CDS			hypothetical protein
+IFCPCJBP_00842	CDS			hypothetical protein
+IFCPCJBP_00843	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IFCPCJBP_00844	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+IFCPCJBP_00845	CDS			hypothetical protein
+IFCPCJBP_00846	CDS	tcyP		L-cystine uptake protein TcyP
+IFCPCJBP_00847	CDS			hypothetical protein
+IFCPCJBP_00848	CDS			hypothetical protein
+IFCPCJBP_00849	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IFCPCJBP_00850	CDS	pphA	3.1.3.16	Serine/threonine-protein phosphatase 1
+IFCPCJBP_00851	CDS	rpsA		30S ribosomal protein S1
+IFCPCJBP_00852	CDS			Protein SprT-like protein
+IFCPCJBP_00853	CDS			hypothetical protein
+IFCPCJBP_00854	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+IFCPCJBP_00855	CDS	phaJ	4.2.1.119	(R)-specific enoyl-CoA hydratase
+IFCPCJBP_00856	CDS	ybhL		Inner membrane protein YbhL
+IFCPCJBP_00857	CDS	polA	2.7.7.7	DNA polymerase I
+IFCPCJBP_00858	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+IFCPCJBP_00859	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+IFCPCJBP_00860	CDS			hypothetical protein
+IFCPCJBP_00861	CDS	nrdR		Transcriptional repressor NrdR
+IFCPCJBP_00862	CDS	dnaB		Replication initiation and membrane attachment protein
+IFCPCJBP_00863	CDS	dnaI		Primosomal protein DnaI
+IFCPCJBP_00864	CDS			hypothetical protein
+IFCPCJBP_00865	CDS			hypothetical protein
+IFCPCJBP_00866	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+IFCPCJBP_00867	CDS			GTP cyclohydrolase 1 type 2 
+IFCPCJBP_00868	CDS	pepT	3.4.11.4	Peptidase T
+IFCPCJBP_00869	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+IFCPCJBP_00870	CDS			hypothetical protein
+IFCPCJBP_00871	CDS			hypothetical protein
+IFCPCJBP_00872	CDS	clpB		Chaperone protein ClpB
+IFCPCJBP_00873	CDS			hypothetical protein
+IFCPCJBP_00874	CDS			hypothetical protein
+IFCPCJBP_00875	CDS			hypothetical protein
+IFCPCJBP_00876	CDS	lepA	3.6.5.-	Elongation factor 4
+IFCPCJBP_00877	CDS	xerC_2		Tyrosine recombinase XerC
+IFCPCJBP_00878	CDS			hypothetical protein
+IFCPCJBP_00879	CDS			hypothetical protein
+IFCPCJBP_00880	CDS			18 kDa heat shock protein
+IFCPCJBP_00881	CDS			hypothetical protein
+IFCPCJBP_00882	CDS			hypothetical protein
+IFCPCJBP_00883	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IFCPCJBP_00884	CDS	licR_1		putative licABCH operon regulator
+IFCPCJBP_00885	CDS			hypothetical protein
+IFCPCJBP_00886	CDS	srlA		PTS system glucitol/sorbitol-specific EIIC component
+IFCPCJBP_00887	CDS	srlE	2.7.1.198	PTS system glucitol/sorbitol-specific EIIB component
+IFCPCJBP_00888	CDS			hypothetical protein
+IFCPCJBP_00889	CDS	srlB	2.7.1.198	PTS system glucitol/sorbitol-specific EIIA component
+IFCPCJBP_00890	CDS	fsaA	4.1.2.-	Fructose-6-phosphate aldolase 1
+IFCPCJBP_00891	CDS	prsA_1	5.2.1.8	Foldase protein PrsA
+IFCPCJBP_00892	CDS			hypothetical protein
+IFCPCJBP_00893	CDS			hypothetical protein
+IFCPCJBP_00894	CDS			hypothetical protein
+IFCPCJBP_00895	CDS			hypothetical protein
+IFCPCJBP_00896	CDS	spxA_1		Regulatory protein Spx
+IFCPCJBP_00897	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+IFCPCJBP_00898	CDS			hypothetical protein
+IFCPCJBP_00899	CDS	aes_2	3.1.1.-	Acetyl esterase
+IFCPCJBP_00900	CDS			hypothetical protein
+IFCPCJBP_00901	CDS	murR_2		HTH-type transcriptional regulator MurR
+IFCPCJBP_00902	CDS		1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+IFCPCJBP_00903	CDS	fldH_1	1.1.1.-	Phenyllactate dehydrogenase
+IFCPCJBP_00904	CDS			hypothetical protein
+IFCPCJBP_00905	CDS	ybdH	1.1.-.-	putative oxidoreductase YbdH
+IFCPCJBP_00906	CDS	sorA_1		PTS system sorbose-specific EIIC component
+IFCPCJBP_00907	CDS	manZ_2		PTS system mannose-specific EIID component
+IFCPCJBP_00908	CDS	sorB_1	2.7.1.206	PTS system sorbose-specific EIIB component
+IFCPCJBP_00909	CDS			hypothetical protein
+IFCPCJBP_00910	CDS			hypothetical protein
+IFCPCJBP_00911	CDS	manX_2	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_00912	CDS	uxuA_1	4.2.1.8	Mannonate dehydratase
+IFCPCJBP_00913	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+IFCPCJBP_00914	CDS			hypothetical protein
+IFCPCJBP_00915	CDS	cspL		Cold shock protein 2
+IFCPCJBP_00916	CDS			hypothetical protein
+IFCPCJBP_00917	CDS			hypothetical protein
+IFCPCJBP_00918	CDS			hypothetical protein
+IFCPCJBP_00919	CDS			hypothetical protein
+IFCPCJBP_00920	CDS			hypothetical protein
+IFCPCJBP_00921	tRNA			tRNA-Met(cat)
+IFCPCJBP_00922	CDS			hypothetical protein
+IFCPCJBP_00923	CDS	yidA_2	3.1.3.23	Sugar phosphatase YidA
+IFCPCJBP_00924	CDS	gspA_1		General stress protein A
+IFCPCJBP_00925	CDS	gspA_2		General stress protein A
+IFCPCJBP_00926	CDS			hypothetical protein
+IFCPCJBP_00927	CDS	corA_1		Cobalt/magnesium transport protein CorA
+IFCPCJBP_00928	CDS	yghA	1.-.-.-	putative oxidoreductase YghA
+IFCPCJBP_00929	CDS			hypothetical protein
+IFCPCJBP_00930	CDS			hypothetical protein
+IFCPCJBP_00931	CDS			Stress response regulator gls24 
+IFCPCJBP_00932	CDS			hypothetical protein
+IFCPCJBP_00933	CDS			hypothetical protein
+IFCPCJBP_00934	CDS			hypothetical protein
+IFCPCJBP_00935	CDS			hypothetical protein
+IFCPCJBP_00936	CDS			hypothetical protein
+IFCPCJBP_00937	CDS			hypothetical protein
+IFCPCJBP_00938	CDS			hypothetical protein
+IFCPCJBP_00939	CDS			Stress response regulator gls24 
+IFCPCJBP_00940	CDS			hypothetical protein
+IFCPCJBP_00941	CDS			hypothetical protein
+IFCPCJBP_00942	CDS	amt		Ammonia channel
+IFCPCJBP_00943	CDS	gadC_1		Glutamate/gamma-aminobutyrate antiporter
+IFCPCJBP_00944	CDS	glsA	3.5.1.2	Glutaminase
+IFCPCJBP_00945	CDS			hypothetical protein
+IFCPCJBP_00946	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IFCPCJBP_00947	CDS			hypothetical protein
+IFCPCJBP_00948	CDS	nanE_1	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+IFCPCJBP_00949	CDS			hypothetical protein
+IFCPCJBP_00950	CDS			hypothetical protein
+IFCPCJBP_00951	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+IFCPCJBP_00952	CDS	msrR_1		Regulatory protein MsrR
+IFCPCJBP_00953	CDS	pbp		Beta-lactam-inducible penicillin-binding protein
+IFCPCJBP_00954	CDS	napA		Na(+)/H(+) antiporter
+IFCPCJBP_00955	CDS			hypothetical protein
+IFCPCJBP_00956	CDS			hypothetical protein
+IFCPCJBP_00957	CDS	ahpF	1.6.99.3	NADH dehydrogenase
+IFCPCJBP_00958	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+IFCPCJBP_00959	CDS	rspR_1		HTH-type transcriptional repressor RspR
+IFCPCJBP_00960	CDS	por_2	1.1.1.-	Polyol:NADP oxidoreductase
+IFCPCJBP_00961	CDS	uxuA_2	4.2.1.8	Mannonate dehydratase
+IFCPCJBP_00962	CDS			hypothetical protein
+IFCPCJBP_00963	CDS			hypothetical protein
+IFCPCJBP_00964	CDS			hypothetical protein
+IFCPCJBP_00965	CDS	ohrR		Organic hydroperoxide resistance transcriptional regulator
+IFCPCJBP_00966	CDS	ohrA		Organic hydroperoxide resistance protein OhrA
+IFCPCJBP_00967	CDS			hypothetical protein
+IFCPCJBP_00968	CDS			hypothetical protein
+IFCPCJBP_00969	CDS	bbmA	3.2.1.-	Intracellular maltogenic amylase
+IFCPCJBP_00970	CDS	mdxE		Maltodextrin-binding protein MdxE
+IFCPCJBP_00971	CDS	malF		Maltose transport system permease protein MalF
+IFCPCJBP_00972	CDS	malG		Maltose transport system permease protein MalG
+IFCPCJBP_00973	CDS			hypothetical protein
+IFCPCJBP_00974	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+IFCPCJBP_00975	CDS			hypothetical protein
+IFCPCJBP_00976	CDS	pyrDA	1.3.98.1	Dihydroorotate dehydrogenase A (fumarate)
+IFCPCJBP_00977	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+IFCPCJBP_00978	CDS	yckB		putative ABC transporter extracellular-binding protein YckB
+IFCPCJBP_00979	CDS	yecS_1		L-cystine transport system permease protein YecS
+IFCPCJBP_00980	CDS			hypothetical protein
+IFCPCJBP_00981	CDS			hypothetical protein
+IFCPCJBP_00982	CDS			hypothetical protein
+IFCPCJBP_00983	CDS	gmk_1	2.7.4.8	Guanylate kinase
+IFCPCJBP_00984	CDS	nupC		Nucleoside permease NupC
+IFCPCJBP_00985	CDS			hypothetical protein
+IFCPCJBP_00986	CDS			hypothetical protein
+IFCPCJBP_00987	CDS			hypothetical protein
+IFCPCJBP_00988	CDS			hypothetical protein
+IFCPCJBP_00989	CDS			hypothetical protein
+IFCPCJBP_00990	CDS			hypothetical protein
+IFCPCJBP_00991	CDS	zitB		Zinc transporter ZitB
+IFCPCJBP_00992	CDS	ygaZ_1		Inner membrane protein YgaZ
+IFCPCJBP_00993	CDS			hypothetical protein
+IFCPCJBP_00994	CDS	murJ_1		Lipid II flippase MurJ
+IFCPCJBP_00995	CDS			DegV domain-containing protein
+IFCPCJBP_00996	CDS			hypothetical protein
+IFCPCJBP_00997	CDS			hypothetical protein
+IFCPCJBP_00998	CDS	malL_1	3.2.1.10	Oligo-1,6-glucosidase
+IFCPCJBP_00999	CDS			hypothetical protein
+IFCPCJBP_01000	CDS	hmpT		Thiamine precursor transporter HmpT
+IFCPCJBP_01001	CDS	pdxK	2.7.1.35	Pyridoxine kinase
+IFCPCJBP_01002	CDS	fcbA1	6.2.1.33	4-chlorobenzoate--CoA ligase
+IFCPCJBP_01003	CDS	xerS_1		Tyrosine recombinase XerS
+IFCPCJBP_01004	CDS	ysnF		Stress response protein YsnF
+IFCPCJBP_01005	CDS	srrB	2.7.13.3	Sensor protein SrrB
+IFCPCJBP_01006	CDS	mprA		Response regulator MprA
+IFCPCJBP_01007	CDS			putative ABC transporter permease
+IFCPCJBP_01008	CDS	hrtA_2	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+IFCPCJBP_01009	CDS			hypothetical protein
+IFCPCJBP_01010	CDS			hypothetical protein
+IFCPCJBP_01011	CDS			hypothetical protein
+IFCPCJBP_01012	CDS			hypothetical protein
+IFCPCJBP_01013	CDS			hypothetical protein
+IFCPCJBP_01014	CDS			hypothetical protein
+IFCPCJBP_01015	CDS			hypothetical protein
+IFCPCJBP_01016	CDS	ybbH_1		putative HTH-type transcriptional regulator YbbH
+IFCPCJBP_01017	CDS	yhhX	1.-.-.-	putative oxidoreductase YhhX
+IFCPCJBP_01018	CDS			hypothetical protein
+IFCPCJBP_01019	CDS	ulaC	2.7.1.194	Ascorbate-specific PTS system EIIA component
+IFCPCJBP_01020	CDS			hypothetical protein
+IFCPCJBP_01021	CDS	ulaA_1		Ascorbate-specific PTS system EIIC component
+IFCPCJBP_01022	CDS			hypothetical protein
+IFCPCJBP_01023	CDS			hypothetical protein
+IFCPCJBP_01024	CDS	chbR		HTH-type transcriptional regulator ChbR
+IFCPCJBP_01025	CDS			hypothetical protein
+IFCPCJBP_01026	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+IFCPCJBP_01027	CDS	doc		Toxin Doc
+IFCPCJBP_01028	CDS			hypothetical protein
+IFCPCJBP_01029	CDS			hypothetical protein
+IFCPCJBP_01030	CDS	topB_3	5.99.1.2	DNA topoisomerase 3
+IFCPCJBP_01031	CDS			hypothetical protein
+IFCPCJBP_01032	CDS	msrR_2		Regulatory protein MsrR
+IFCPCJBP_01033	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+IFCPCJBP_01034	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+IFCPCJBP_01035	CDS	lsrC_1		Autoinducer 2 import system permease protein LsrC
+IFCPCJBP_01036	CDS			hypothetical protein
+IFCPCJBP_01037	CDS			hypothetical protein
+IFCPCJBP_01038	CDS			hypothetical protein
+IFCPCJBP_01039	CDS			hypothetical protein
+IFCPCJBP_01040	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+IFCPCJBP_01041	CDS	cah	4.2.1.1	Carbonic anhydrase
+IFCPCJBP_01042	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+IFCPCJBP_01043	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+IFCPCJBP_01044	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+IFCPCJBP_01045	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IFCPCJBP_01046	CDS	pyrK_1		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+IFCPCJBP_01047	CDS	pyrK_2		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+IFCPCJBP_01048	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+IFCPCJBP_01049	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+IFCPCJBP_01050	CDS	pyrC	3.5.2.3	Dihydroorotase
+IFCPCJBP_01051	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+IFCPCJBP_01052	CDS	pyrP		Uracil permease
+IFCPCJBP_01053	CDS	pyrR		Bifunctional protein pyrR
+IFCPCJBP_01054	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+IFCPCJBP_01055	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+IFCPCJBP_01056	CDS			hypothetical protein
+IFCPCJBP_01057	CDS			hypothetical protein
+IFCPCJBP_01058	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+IFCPCJBP_01059	CDS	csp		Cold shock-like protein
+IFCPCJBP_01060	CDS			hypothetical protein
+IFCPCJBP_01061	CDS	rnhA		14.7 kDa ribonuclease H-like protein
+IFCPCJBP_01062	CDS	fieF		Ferrous-iron efflux pump FieF
+IFCPCJBP_01063	CDS	panT_1		Pantothenate transporter PanT
+IFCPCJBP_01064	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+IFCPCJBP_01065	CDS		2.3.1.-	Acetyltransferase
+IFCPCJBP_01066	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+IFCPCJBP_01067	CDS			hypothetical protein
+IFCPCJBP_01068	CDS			hypothetical protein
+IFCPCJBP_01069	CDS	steT_1		Serine/threonine exchanger SteT
+IFCPCJBP_01070	CDS			putative epimerase/dehydratase
+IFCPCJBP_01071	CDS		2.3.1.-	Putative pyridoxal phosphate-dependent acyltransferase
+IFCPCJBP_01072	CDS			hypothetical protein
+IFCPCJBP_01073	CDS			hypothetical protein
+IFCPCJBP_01074	CDS	ypwA	3.4.17.19	Carboxypeptidase 1
+IFCPCJBP_01075	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+IFCPCJBP_01076	CDS	gpsB		Cell cycle protein GpsB
+IFCPCJBP_01077	CDS			hypothetical protein
+IFCPCJBP_01078	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+IFCPCJBP_01079	CDS	ponA_2		Penicillin-binding protein 1A
+IFCPCJBP_01080	CDS			hypothetical protein
+IFCPCJBP_01081	CDS			hypothetical protein
+IFCPCJBP_01082	CDS	nth	4.2.99.18	Endonuclease III
+IFCPCJBP_01083	CDS	dnaD		DNA replication protein DnaD
+IFCPCJBP_01084	CDS	tetA		Tetracycline resistance protein, class C
+IFCPCJBP_01085	CDS			hypothetical protein
+IFCPCJBP_01086	CDS			hypothetical protein
+IFCPCJBP_01087	CDS	nox_2	1.6.99.3	NADH oxidase
+IFCPCJBP_01088	CDS	perR		Peroxide operon regulator
+IFCPCJBP_01089	CDS	cysK	2.5.1.47	Cysteine synthase
+IFCPCJBP_01090	CDS		3.2.1.-	Autolysin
+IFCPCJBP_01091	CDS			hypothetical protein
+IFCPCJBP_01092	CDS	tkt	2.2.1.1	Transketolase
+IFCPCJBP_01093	CDS			hypothetical protein
+IFCPCJBP_01094	CDS	lexA	3.4.21.88	LexA repressor
+IFCPCJBP_01095	CDS			hypothetical protein
+IFCPCJBP_01096	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+IFCPCJBP_01097	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+IFCPCJBP_01098	CDS			hypothetical protein
+IFCPCJBP_01099	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IFCPCJBP_01100	CDS	rnz	3.1.26.11	Ribonuclease Z
+IFCPCJBP_01101	CDS			hypothetical protein
+IFCPCJBP_01102	CDS	obg	3.6.5.-	GTPase Obg
+IFCPCJBP_01103	CDS	gap_2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+IFCPCJBP_01104	CDS		3.1.1.23	Thermostable monoacylglycerol lipase
+IFCPCJBP_01105	CDS			hypothetical protein
+IFCPCJBP_01106	CDS			hypothetical protein
+IFCPCJBP_01107	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+IFCPCJBP_01108	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IFCPCJBP_01109	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+IFCPCJBP_01110	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+IFCPCJBP_01111	CDS	ykuT		putative MscS family protein YkuT
+IFCPCJBP_01112	CDS	ykuL		CBS domain-containing protein YkuL
+IFCPCJBP_01113	CDS		3.1.4.-	Putative metallophosphoesterase MG207 
+IFCPCJBP_01114	CDS	rph	2.7.7.56	Ribonuclease PH
+IFCPCJBP_01115	CDS	murI	5.1.1.3	Glutamate racemase
+IFCPCJBP_01116	CDS	glnP_1		putative glutamine ABC transporter permease protein GlnP
+IFCPCJBP_01117	CDS	glnM_2		putative glutamine ABC transporter permease protein GlnM
+IFCPCJBP_01118	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+IFCPCJBP_01119	CDS	glnQ_1	3.6.3.-	Glutamine transport ATP-binding protein GlnQ
+IFCPCJBP_01120	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+IFCPCJBP_01121	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+IFCPCJBP_01122	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+IFCPCJBP_01123	CDS	yodB		HTH-type transcriptional regulator YodB
+IFCPCJBP_01124	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+IFCPCJBP_01125	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+IFCPCJBP_01126	CDS			hypothetical protein
+IFCPCJBP_01127	CDS	dtpT_1		Di-/tripeptide transporter
+IFCPCJBP_01128	CDS	dtpT_2		Di-/tripeptide transporter
+IFCPCJBP_01129	CDS			hypothetical protein
+IFCPCJBP_01130	CDS			hypothetical protein
+IFCPCJBP_01131	CDS			hypothetical protein
+IFCPCJBP_01132	CDS			hypothetical protein
+IFCPCJBP_01133	CDS			hypothetical protein
+IFCPCJBP_01134	tRNA			tRNA-Gln(ctg)
+IFCPCJBP_01135	CDS			hypothetical protein
+IFCPCJBP_01136	CDS			hypothetical protein
+IFCPCJBP_01137	CDS			hypothetical protein
+IFCPCJBP_01138	CDS			hypothetical protein
+IFCPCJBP_01139	CDS			hypothetical protein
+IFCPCJBP_01140	CDS			hypothetical protein
+IFCPCJBP_01141	CDS			hypothetical protein
+IFCPCJBP_01142	CDS			Putative universal stress protein
+IFCPCJBP_01143	CDS			hypothetical protein
+IFCPCJBP_01144	tRNA			tRNA-Leu(cag)
+IFCPCJBP_01145	CDS			hypothetical protein
+IFCPCJBP_01146	CDS	mrp		Iron-sulfur cluster carrier protein
+IFCPCJBP_01147	CDS			hypothetical protein
+IFCPCJBP_01148	CDS			hypothetical protein
+IFCPCJBP_01149	CDS	dinG_2	3.6.4.12	putative ATP-dependent helicase DinG 
+IFCPCJBP_01150	CDS		3.-.-.-	putative metallo-hydrolase
+IFCPCJBP_01151	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+IFCPCJBP_01152	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+IFCPCJBP_01153	CDS	zosA	3.6.3.-	Zinc-transporting ATPase
+IFCPCJBP_01154	CDS			hypothetical protein
+IFCPCJBP_01155	CDS			hypothetical protein
+IFCPCJBP_01156	CDS	rpsT		30S ribosomal protein S20
+IFCPCJBP_01157	CDS			hypothetical protein
+IFCPCJBP_01158	CDS	comEC		ComE operon protein 3
+IFCPCJBP_01159	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+IFCPCJBP_01160	CDS			hypothetical protein
+IFCPCJBP_01161	CDS			hypothetical protein
+IFCPCJBP_01162	CDS	comEA		ComE operon protein 1
+IFCPCJBP_01163	CDS	lon	3.4.21.53	Lon protease
+IFCPCJBP_01164	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+IFCPCJBP_01165	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+IFCPCJBP_01166	CDS			hypothetical protein
+IFCPCJBP_01167	CDS			hypothetical protein
+IFCPCJBP_01168	CDS			hypothetical protein
+IFCPCJBP_01169	CDS	cfiB_1	6.4.1.7	2-oxoglutarate carboxylase small subunit
+IFCPCJBP_01170	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+IFCPCJBP_01171	CDS			hypothetical protein
+IFCPCJBP_01172	CDS	recQ_1	3.6.4.12	ATP-dependent DNA helicase RecQ
+IFCPCJBP_01173	CDS	typA		GTP-binding protein TypA/BipA
+IFCPCJBP_01174	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+IFCPCJBP_01175	CDS			hypothetical protein
+IFCPCJBP_01176	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+IFCPCJBP_01177	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+IFCPCJBP_01178	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+IFCPCJBP_01179	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+IFCPCJBP_01180	CDS	norG		HTH-type transcriptional regulator NorG
+IFCPCJBP_01181	CDS	guaC	1.7.1.7	GMP reductase
+IFCPCJBP_01182	CDS	xylH		Xylose transport system permease protein XylH
+IFCPCJBP_01183	CDS	xylG	3.6.3.17	Xylose import ATP-binding protein XylG
+IFCPCJBP_01184	CDS	chvE		Multiple sugar-binding periplasmic receptor ChvE
+IFCPCJBP_01185	CDS	ytfQ		ABC transporter periplasmic-binding protein YtfQ
+IFCPCJBP_01186	CDS	yehU_2	2.7.13.3	Sensor histidine kinase YehU
+IFCPCJBP_01187	CDS			putative response regulatory protein
+IFCPCJBP_01188	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+IFCPCJBP_01189	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+IFCPCJBP_01190	CDS	purH		Bifunctional purine biosynthesis protein PurH
+IFCPCJBP_01191	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+IFCPCJBP_01192	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+IFCPCJBP_01193	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+IFCPCJBP_01194	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IFCPCJBP_01195	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IFCPCJBP_01196	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+IFCPCJBP_01197	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IFCPCJBP_01198	CDS			hypothetical protein
+IFCPCJBP_01199	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+IFCPCJBP_01200	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+IFCPCJBP_01201	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+IFCPCJBP_01202	CDS	pucK		Uric acid permease PucK
+IFCPCJBP_01203	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+IFCPCJBP_01204	CDS	yteT	1.-.-.-	Putative oxidoreductase YteT
+IFCPCJBP_01205	CDS			hypothetical protein
+IFCPCJBP_01206	CDS	araQ_2		L-arabinose transport system permease protein AraQ
+IFCPCJBP_01207	CDS	lacF_3		Lactose transport system permease protein LacF
+IFCPCJBP_01208	CDS	yesO		Putative ABC transporter substrate-binding protein YesO
+IFCPCJBP_01209	CDS			hypothetical protein
+IFCPCJBP_01210	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+IFCPCJBP_01211	CDS	yodJ	3.4.-.-	Putative carboxypeptidase YodJ
+IFCPCJBP_01212	CDS			hypothetical protein
+IFCPCJBP_01213	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+IFCPCJBP_01214	CDS			hypothetical protein
+IFCPCJBP_01215	CDS			hypothetical protein
+IFCPCJBP_01216	CDS	yqiK		Inner membrane protein YqiK
+IFCPCJBP_01217	CDS	yuaF		putative membrane protein YuaF
+IFCPCJBP_01218	CDS	dcuS_1	2.7.13.3	Sensor histidine kinase DcuS
+IFCPCJBP_01219	CDS	dcuS_2	2.7.13.3	Sensor histidine kinase DcuS
+IFCPCJBP_01220	CDS	dcuR		Transcriptional regulatory protein DcuR
+IFCPCJBP_01221	CDS	fldH_2	1.1.1.-	Phenyllactate dehydrogenase
+IFCPCJBP_01222	CDS			hypothetical protein
+IFCPCJBP_01223	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+IFCPCJBP_01224	CDS			hypothetical protein
+IFCPCJBP_01225	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+IFCPCJBP_01226	CDS			hypothetical protein
+IFCPCJBP_01227	tRNA			tRNA-Leu(gag)
+IFCPCJBP_01228	CDS			hypothetical protein
+IFCPCJBP_01229	CDS			hypothetical protein
+IFCPCJBP_01230	CDS			hypothetical protein
+IFCPCJBP_01231	CDS			hypothetical protein
+IFCPCJBP_01232	CDS	fosX		Fosfomycin resistance protein FosX
+IFCPCJBP_01233	CDS			hypothetical protein
+IFCPCJBP_01234	CDS	smc_3		Chromosome partition protein Smc
+IFCPCJBP_01235	CDS			hypothetical protein
+IFCPCJBP_01236	CDS	dtd3_1	3.1.1.96	D-aminoacyl-tRNA deacylase
+IFCPCJBP_01237	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+IFCPCJBP_01238	CDS	thiY		Formylaminopyrimidine-binding protein
+IFCPCJBP_01239	CDS	ribX		Riboflavin transport system permease protein RibX
+IFCPCJBP_01240	CDS	garB	1.8.1.16	Glutathione amide reductase
+IFCPCJBP_01241	CDS			hypothetical protein
+IFCPCJBP_01242	CDS	opuCA_1	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+IFCPCJBP_01243	CDS	opuBB		Choline transport system permease protein OpuBB
+IFCPCJBP_01244	CDS			hypothetical protein
+IFCPCJBP_01245	CDS			hypothetical protein
+IFCPCJBP_01246	CDS			hypothetical protein
+IFCPCJBP_01247	CDS	exuR_2		putative HTH-type transcriptional repressor ExuR
+IFCPCJBP_01248	CDS		3.1.1.2	Arylesterase
+IFCPCJBP_01249	CDS			hypothetical protein
+IFCPCJBP_01250	CDS			hypothetical protein
+IFCPCJBP_01251	CDS			hypothetical protein
+IFCPCJBP_01252	CDS			hypothetical protein
+IFCPCJBP_01253	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+IFCPCJBP_01254	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+IFCPCJBP_01255	CDS	pflB	2.3.1.54	Formate acetyltransferase
+IFCPCJBP_01256	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+IFCPCJBP_01257	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+IFCPCJBP_01258	CDS			hypothetical protein
+IFCPCJBP_01259	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+IFCPCJBP_01260	CDS	galM_1	5.1.3.3	Aldose 1-epimerase
+IFCPCJBP_01261	CDS	codY		GTP-sensing transcriptional pleiotropic repressor CodY
+IFCPCJBP_01262	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+IFCPCJBP_01263	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+IFCPCJBP_01264	CDS	xerC_3		Tyrosine recombinase XerC
+IFCPCJBP_01265	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+IFCPCJBP_01266	CDS	topA	5.99.1.2	DNA topoisomerase 1
+IFCPCJBP_01267	CDS	dprA		DNA processing protein DprA
+IFCPCJBP_01268	CDS	rnhB	3.1.26.4	Ribonuclease HII
+IFCPCJBP_01269	CDS	rbgA		Ribosome biogenesis GTPase A
+IFCPCJBP_01270	CDS			hypothetical protein
+IFCPCJBP_01271	CDS	folT_1		Folate transporter FolT
+IFCPCJBP_01272	CDS	sipV	3.4.21.89	Signal peptidase I V
+IFCPCJBP_01273	CDS			hypothetical protein
+IFCPCJBP_01274	CDS	msrA_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+IFCPCJBP_01275	CDS			hypothetical protein
+IFCPCJBP_01276	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+IFCPCJBP_01277	CDS			DegV domain-containing protein
+IFCPCJBP_01278	CDS			hypothetical protein
+IFCPCJBP_01279	CDS	folA_3	1.5.1.3	Dihydrofolate reductase
+IFCPCJBP_01280	CDS	thyA	2.1.1.45	Thymidylate synthase
+IFCPCJBP_01281	CDS	ettA_1		Energy-dependent translational throttle protein EttA
+IFCPCJBP_01282	CDS	nhaK		Sodium, potassium, lithium and rubidium/H(+) antiporter
+IFCPCJBP_01283	CDS			hypothetical protein
+IFCPCJBP_01284	CDS			hypothetical protein
+IFCPCJBP_01285	CDS	cca	2.7.7.72	CCA-adding enzyme
+IFCPCJBP_01286	CDS			hypothetical protein
+IFCPCJBP_01287	CDS			hypothetical protein
+IFCPCJBP_01288	CDS			hypothetical protein
+IFCPCJBP_01289	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+IFCPCJBP_01290	CDS			hypothetical protein
+IFCPCJBP_01291	CDS	hupA		DNA-binding protein HU 1
+IFCPCJBP_01292	CDS	der_1		GTPase Der
+IFCPCJBP_01293	CDS	ypfD		30S ribosomal protein S1 
+IFCPCJBP_01294	CDS	cmk	2.7.4.25	Cytidylate kinase
+IFCPCJBP_01295	CDS	sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase sle1
+IFCPCJBP_01296	CDS	recQ_2	3.6.4.12	ATP-dependent DNA helicase RecQ
+IFCPCJBP_01297	CDS			hypothetical protein
+IFCPCJBP_01298	CDS			hypothetical protein
+IFCPCJBP_01299	CDS			hypothetical protein
+IFCPCJBP_01300	CDS		3.4.13.-	Putative dipeptidase
+IFCPCJBP_01301	CDS			hypothetical protein
+IFCPCJBP_01302	CDS	fmnP		Riboflavin transporter FmnP
+IFCPCJBP_01303	CDS	rluB_1	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+IFCPCJBP_01304	CDS	scpB		Segregation and condensation protein B
+IFCPCJBP_01305	CDS	scpA		Segregation and condensation protein A
+IFCPCJBP_01306	CDS			hypothetical protein
+IFCPCJBP_01307	CDS	xerD_1		Tyrosine recombinase XerD
+IFCPCJBP_01308	CDS			hypothetical protein
+IFCPCJBP_01309	CDS	fur		Ferric uptake regulation protein
+IFCPCJBP_01310	CDS	cvfB		Conserved virulence factor B
+IFCPCJBP_01311	CDS	mapZ		Mid-cell-anchored protein Z
+IFCPCJBP_01312	CDS			hypothetical protein
+IFCPCJBP_01313	CDS	sigA		RNA polymerase sigma factor SigA
+IFCPCJBP_01314	CDS	dnaG	2.7.7.-	DNA primase
+IFCPCJBP_01315	CDS	ctpE_2	3.6.3.-	putative cation-transporting ATPase E
+IFCPCJBP_01316	CDS			hypothetical protein
+IFCPCJBP_01317	CDS			hypothetical protein
+IFCPCJBP_01318	CDS	xylF	3.7.1.9	2-hydroxymuconate semialdehyde hydrolase
+IFCPCJBP_01319	CDS	mprF_1	2.3.2.3	Phosphatidylglycerol lysyltransferase
+IFCPCJBP_01320	CDS	tuf_1		Elongation factor Tu
+IFCPCJBP_01321	CDS			hypothetical protein
+IFCPCJBP_01322	CDS			hypothetical protein
+IFCPCJBP_01323	CDS	yvgN	1.1.1.-	Glyoxal reductase
+IFCPCJBP_01324	CDS			hypothetical protein
+IFCPCJBP_01325	CDS			hypothetical protein
+IFCPCJBP_01326	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IFCPCJBP_01327	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+IFCPCJBP_01328	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+IFCPCJBP_01329	CDS	ubiE_1	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+IFCPCJBP_01330	CDS		3.6.3.8	Calcium-transporting ATPase
+IFCPCJBP_01331	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+IFCPCJBP_01332	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+IFCPCJBP_01333	CDS			hypothetical protein
+IFCPCJBP_01334	CDS	spxA_2		Regulatory protein Spx
+IFCPCJBP_01335	CDS			hypothetical protein
+IFCPCJBP_01336	CDS			hypothetical protein
+IFCPCJBP_01337	CDS			Putative universal stress protein
+IFCPCJBP_01338	CDS	gmuD_1	3.2.1.86	6-phospho-beta-glucosidase GmuD
+IFCPCJBP_01339	CDS	gmuC_1		PTS system oligo-beta-mannoside-specific EIIC component
+IFCPCJBP_01340	CDS	gmuR		HTH-type transcriptional regulator GmuR
+IFCPCJBP_01341	CDS	mhqA	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+IFCPCJBP_01342	CDS	mhqD	3.1.-.-	Putative hydrolase MhqD
+IFCPCJBP_01343	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+IFCPCJBP_01344	CDS			hypothetical protein
+IFCPCJBP_01345	CDS	gatC_2		PTS system galactitol-specific EIIC component
+IFCPCJBP_01346	CDS	gatB_2	2.7.1.200	PTS system galactitol-specific EIIB component
+IFCPCJBP_01347	CDS	gatA_2	2.7.1.200	PTS system galactitol-specific EIIA component
+IFCPCJBP_01348	CDS	lacR_2		Lactose phosphotransferase system repressor
+IFCPCJBP_01349	CDS	lacC_2	2.7.1.144	Tagatose-6-phosphate kinase
+IFCPCJBP_01350	CDS			hypothetical protein
+IFCPCJBP_01351	CDS			putative HTH-type transcriptional regulator
+IFCPCJBP_01352	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+IFCPCJBP_01353	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+IFCPCJBP_01354	CDS	manR_1		Transcriptional regulator ManR
+IFCPCJBP_01355	CDS	manP		PTS system mannose-specific EIIBCA component
+IFCPCJBP_01356	CDS	dgaF	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+IFCPCJBP_01357	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+IFCPCJBP_01358	CDS		3.1.1.-	Deacetylase
+IFCPCJBP_01359	CDS			hypothetical protein
+IFCPCJBP_01360	CDS			hypothetical protein
+IFCPCJBP_01361	CDS			hypothetical protein
+IFCPCJBP_01362	CDS			hypothetical protein
+IFCPCJBP_01363	CDS			hypothetical protein
+IFCPCJBP_01364	CDS			hypothetical protein
+IFCPCJBP_01365	CDS	mtlR_1		Transcriptional regulator MtlR
+IFCPCJBP_01366	CDS			hypothetical protein
+IFCPCJBP_01367	CDS			hypothetical protein
+IFCPCJBP_01368	CDS			hypothetical protein
+IFCPCJBP_01369	CDS			hypothetical protein
+IFCPCJBP_01370	CDS	araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase AraD
+IFCPCJBP_01371	CDS	ulaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase UlaE
+IFCPCJBP_01372	CDS	ulaD	4.1.1.85	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+IFCPCJBP_01373	CDS	ulaB_1	2.7.1.194	Ascorbate-specific PTS system EIIB component
+IFCPCJBP_01374	CDS	ulaA_2		Ascorbate-specific PTS system EIIC component
+IFCPCJBP_01375	CDS	cmtB_1	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+IFCPCJBP_01376	CDS	ulaG	3.1.1.-	putative L-ascorbate-6-phosphate lactonase UlaG
+IFCPCJBP_01377	CDS	srlR		Glucitol operon repressor
+IFCPCJBP_01378	CDS			hypothetical protein
+IFCPCJBP_01379	CDS			hypothetical protein
+IFCPCJBP_01380	CDS			hypothetical protein
+IFCPCJBP_01381	CDS	licC_1		Lichenan permease IIC component
+IFCPCJBP_01382	CDS	ptsG_1	2.7.1.199	PTS system glucose-specific EIICBA component
+IFCPCJBP_01383	CDS	malH	3.2.1.122	Maltose-6'-phosphate glucosidase MalH
+IFCPCJBP_01384	CDS	nagE		PTS system N-acetylglucosamine-specific EIICBA component
+IFCPCJBP_01385	CDS		3.5.1.-	Carbohydrate deacetylase
+IFCPCJBP_01386	CDS	licT_2		Transcription antiterminator LicT
+IFCPCJBP_01387	tRNA			tRNA-Leu(caa)
+IFCPCJBP_01388	tRNA			tRNA-Gln(ttg)
+IFCPCJBP_01389	tRNA			tRNA-His(gtg)
+IFCPCJBP_01390	tRNA			tRNA-Leu(caa)
+IFCPCJBP_01391	tRNA			tRNA-Cys(gca)
+IFCPCJBP_01392	tRNA			tRNA-Gln(ttg)
+IFCPCJBP_01393	tRNA			tRNA-His(gtg)
+IFCPCJBP_01394	tRNA			tRNA-Trp(cca)
+IFCPCJBP_01395	tRNA			tRNA-Tyr(gta)
+IFCPCJBP_01396	tRNA			tRNA-Phe(gaa)
+IFCPCJBP_01397	tRNA			tRNA-Asp(gtc)
+IFCPCJBP_01398	tRNA			tRNA-Val(tac)
+IFCPCJBP_01399	tRNA			tRNA-Glu(ttc)
+IFCPCJBP_01400	tRNA			tRNA-Ser(gga)
+IFCPCJBP_01401	tRNA			tRNA-Asn(gtt)
+IFCPCJBP_01402	rRNA			5S ribosomal RNA
+IFCPCJBP_01403	rRNA			23S ribosomal RNA
+IFCPCJBP_01404	tRNA			tRNA-Ala(tgc)
+IFCPCJBP_01405	rRNA			16S ribosomal RNA
+IFCPCJBP_01406	CDS	arlS	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+IFCPCJBP_01407	CDS	arlR_1		Response regulator ArlR
+IFCPCJBP_01408	CDS	gnd	1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+IFCPCJBP_01409	CDS	rpmF_1		50S ribosomal protein L32
+IFCPCJBP_01410	CDS			hypothetical protein
+IFCPCJBP_01411	CDS	gltC_1		HTH-type transcriptional regulator GltC
+IFCPCJBP_01412	CDS	pyk	2.7.1.40	Pyruvate kinase
+IFCPCJBP_01413	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+IFCPCJBP_01414	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+IFCPCJBP_01415	CDS			hypothetical protein
+IFCPCJBP_01416	CDS	yjhB_2		Putative metabolite transport protein YjhB
+IFCPCJBP_01417	CDS			hypothetical protein
+IFCPCJBP_01418	CDS	pbuO		Guanine/hypoxanthine permease PbuO
+IFCPCJBP_01419	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+IFCPCJBP_01420	CDS			hypothetical protein
+IFCPCJBP_01421	CDS	penA		Penicillin-binding protein 2B
+IFCPCJBP_01422	CDS	ybbH_2		putative HTH-type transcriptional regulator YbbH
+IFCPCJBP_01423	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+IFCPCJBP_01424	CDS		5.3.2.-	putative tautomerase.1
+IFCPCJBP_01425	CDS	ziaA	3.6.3.5	Zinc-transporting ATPase
+IFCPCJBP_01426	CDS	helD_1	3.6.4.12	DNA helicase IV
+IFCPCJBP_01427	CDS			hypothetical protein
+IFCPCJBP_01428	CDS			hypothetical protein
+IFCPCJBP_01429	CDS			putative transcriptional regulatory protein
+IFCPCJBP_01430	CDS			hypothetical protein
+IFCPCJBP_01431	CDS		2.1.1.156	Glycine/sarcosine N-methyltransferase
+IFCPCJBP_01432	CDS	rsfS		Ribosomal silencing factor RsfS
+IFCPCJBP_01433	CDS			hypothetical protein
+IFCPCJBP_01434	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+IFCPCJBP_01435	CDS			RNA-binding protein
+IFCPCJBP_01436	CDS	der_2		GTPase Der
+IFCPCJBP_01437	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+IFCPCJBP_01438	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+IFCPCJBP_01439	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+IFCPCJBP_01440	CDS	cfiB_2	6.4.1.7	2-oxoglutarate carboxylase small subunit
+IFCPCJBP_01441	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IFCPCJBP_01442	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+IFCPCJBP_01443	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IFCPCJBP_01444	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IFCPCJBP_01445	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+IFCPCJBP_01446	CDS	acpA_1		Acyl carrier protein
+IFCPCJBP_01447	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IFCPCJBP_01448	CDS	marR		Multiple antibiotic resistance protein MarR
+IFCPCJBP_01449	CDS	uvrC_2		UvrABC system protein C
+IFCPCJBP_01450	CDS			hypothetical protein
+IFCPCJBP_01451	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+IFCPCJBP_01452	CDS		2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+IFCPCJBP_01453	CDS	dgs	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+IFCPCJBP_01454	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+IFCPCJBP_01455	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+IFCPCJBP_01456	CDS	clpE		ATP-dependent Clp protease ATP-binding subunit ClpE
+IFCPCJBP_01457	CDS			hypothetical protein
+IFCPCJBP_01458	CDS			hypothetical protein
+IFCPCJBP_01459	CDS	prfC		Peptide chain release factor 3
+IFCPCJBP_01460	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+IFCPCJBP_01461	CDS	tqsA_1		AI-2 transport protein TqsA
+IFCPCJBP_01462	CDS		2.3.1.-	Acetyltransferase
+IFCPCJBP_01463	CDS			hypothetical protein
+IFCPCJBP_01464	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+IFCPCJBP_01465	CDS	recX		Regulatory protein RecX
+IFCPCJBP_01466	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+IFCPCJBP_01467	CDS	gbpA		GlcNAc-binding protein A
+IFCPCJBP_01468	CDS	crtK-2		Tryptophan-rich protein TspO
+IFCPCJBP_01469	CDS	lytR_2		Transcriptional regulator LytR
+IFCPCJBP_01470	CDS	cspD		Cold shock protein CspD
+IFCPCJBP_01471	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+IFCPCJBP_01472	CDS			hypothetical protein
+IFCPCJBP_01473	CDS	czcD		Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+IFCPCJBP_01474	CDS			hypothetical protein
+IFCPCJBP_01475	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+IFCPCJBP_01476	CDS			hypothetical protein
+IFCPCJBP_01477	CDS			hypothetical protein
+IFCPCJBP_01478	CDS			hypothetical protein
+IFCPCJBP_01479	CDS			hypothetical protein
+IFCPCJBP_01480	CDS	ktrA		Ktr system potassium uptake protein A
+IFCPCJBP_01481	CDS	vraR		Response regulator protein VraR
+IFCPCJBP_01482	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+IFCPCJBP_01483	CDS			hypothetical protein
+IFCPCJBP_01484	CDS	greA		Transcription elongation factor GreA
+IFCPCJBP_01485	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+IFCPCJBP_01486	CDS	pbpX_1		Putative penicillin-binding protein PbpX
+IFCPCJBP_01487	CDS			hypothetical protein
+IFCPCJBP_01488	CDS	wbgU_2	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+IFCPCJBP_01489	CDS			hypothetical protein
+IFCPCJBP_01490	CDS	pglH_2	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+IFCPCJBP_01491	CDS			hypothetical protein
+IFCPCJBP_01492	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+IFCPCJBP_01493	CDS	epsJ_4	2.4.-.-	putative glycosyltransferase EpsJ
+IFCPCJBP_01494	CDS	rmd	1.1.1.281	GDP-6-deoxy-D-mannose reductase
+IFCPCJBP_01495	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+IFCPCJBP_01496	CDS			hypothetical protein
+IFCPCJBP_01497	CDS	wbbD	2.4.1.303	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+IFCPCJBP_01498	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+IFCPCJBP_01499	CDS			hypothetical protein
+IFCPCJBP_01500	CDS	kfoC		Chondroitin synthase
+IFCPCJBP_01501	CDS	rsmA_1	2.1.1.-	Ribosomal RNA small subunit methyltransferase A
+IFCPCJBP_01502	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+IFCPCJBP_01503	CDS	tagG		Teichoic acid translocation permease protein TagG
+IFCPCJBP_01504	CDS			hypothetical protein
+IFCPCJBP_01505	CDS			hypothetical protein
+IFCPCJBP_01506	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+IFCPCJBP_01507	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+IFCPCJBP_01508	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+IFCPCJBP_01509	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+IFCPCJBP_01510	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+IFCPCJBP_01511	CDS			hypothetical protein
+IFCPCJBP_01512	CDS	wbbL	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+IFCPCJBP_01513	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+IFCPCJBP_01514	CDS			hypothetical protein
+IFCPCJBP_01515	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+IFCPCJBP_01516	CDS			Flavodoxin
+IFCPCJBP_01517	CDS			hypothetical protein
+IFCPCJBP_01518	CDS	pepS	3.4.11.-	Aminopeptidase PepS
+IFCPCJBP_01519	CDS			hypothetical protein
+IFCPCJBP_01520	CDS			hypothetical protein
+IFCPCJBP_01521	CDS			hypothetical protein
+IFCPCJBP_01522	CDS			hypothetical protein
+IFCPCJBP_01523	CDS			hypothetical protein
+IFCPCJBP_01524	CDS			hypothetical protein
+IFCPCJBP_01525	CDS			hypothetical protein
+IFCPCJBP_01526	tRNA			tRNA-Met(cat)
+IFCPCJBP_01527	CDS	lytA_3	3.5.1.28	Autolysin
+IFCPCJBP_01528	CDS			hypothetical protein
+IFCPCJBP_01529	CDS			hypothetical protein
+IFCPCJBP_01530	CDS			hypothetical protein
+IFCPCJBP_01531	CDS			hypothetical protein
+IFCPCJBP_01532	CDS			hypothetical protein
+IFCPCJBP_01533	CDS			hypothetical protein
+IFCPCJBP_01534	CDS			hypothetical protein
+IFCPCJBP_01535	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+IFCPCJBP_01536	CDS			hypothetical protein
+IFCPCJBP_01537	CDS			hypothetical protein
+IFCPCJBP_01538	CDS			hypothetical protein
+IFCPCJBP_01539	CDS			hypothetical protein
+IFCPCJBP_01540	CDS			hypothetical protein
+IFCPCJBP_01541	CDS			hypothetical protein
+IFCPCJBP_01542	CDS			hypothetical protein
+IFCPCJBP_01543	CDS			hypothetical protein
+IFCPCJBP_01544	CDS			hypothetical protein
+IFCPCJBP_01545	CDS			hypothetical protein
+IFCPCJBP_01546	CDS			hypothetical protein
+IFCPCJBP_01547	CDS			hypothetical protein
+IFCPCJBP_01548	CDS			hypothetical protein
+IFCPCJBP_01549	CDS			hypothetical protein
+IFCPCJBP_01550	CDS			hypothetical protein
+IFCPCJBP_01551	CDS			hypothetical protein
+IFCPCJBP_01552	CDS			hypothetical protein
+IFCPCJBP_01553	CDS			hypothetical protein
+IFCPCJBP_01554	CDS			hypothetical protein
+IFCPCJBP_01555	CDS			hypothetical protein
+IFCPCJBP_01556	CDS			hypothetical protein
+IFCPCJBP_01557	CDS			hypothetical protein
+IFCPCJBP_01558	CDS			hypothetical protein
+IFCPCJBP_01559	CDS	cas2_1	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+IFCPCJBP_01560	CDS			hypothetical protein
+IFCPCJBP_01561	CDS			hypothetical protein
+IFCPCJBP_01562	CDS			hypothetical protein
+IFCPCJBP_01563	CDS			hypothetical protein
+IFCPCJBP_01564	CDS			hypothetical protein
+IFCPCJBP_01565	CDS			hypothetical protein
+IFCPCJBP_01566	CDS			hypothetical protein
+IFCPCJBP_01567	CDS			hypothetical protein
+IFCPCJBP_01568	CDS			hypothetical protein
+IFCPCJBP_01569	CDS			hypothetical protein
+IFCPCJBP_01570	CDS			hypothetical protein
+IFCPCJBP_01571	CDS			hypothetical protein
+IFCPCJBP_01572	CDS			hypothetical protein
+IFCPCJBP_01573	CDS			hypothetical protein
+IFCPCJBP_01574	CDS			hypothetical protein
+IFCPCJBP_01575	CDS			hypothetical protein
+IFCPCJBP_01576	CDS			hypothetical protein
+IFCPCJBP_01577	CDS			hypothetical protein
+IFCPCJBP_01578	CDS			hypothetical protein
+IFCPCJBP_01579	CDS			hypothetical protein
+IFCPCJBP_01580	CDS			hypothetical protein
+IFCPCJBP_01581	CDS			hypothetical protein
+IFCPCJBP_01582	CDS			hypothetical protein
+IFCPCJBP_01583	CDS			hypothetical protein
+IFCPCJBP_01584	CDS			hypothetical protein
+IFCPCJBP_01585	CDS			hypothetical protein
+IFCPCJBP_01586	CDS			hypothetical protein
+IFCPCJBP_01587	CDS			hypothetical protein
+IFCPCJBP_01588	CDS			hypothetical protein
+IFCPCJBP_01589	CDS			hypothetical protein
+IFCPCJBP_01590	CDS			hypothetical protein
+IFCPCJBP_01591	CDS			hypothetical protein
+IFCPCJBP_01592	CDS	xerD_2		Tyrosine recombinase XerD
+IFCPCJBP_01593	CDS	groL		60 kDa chaperonin
+IFCPCJBP_01594	CDS	groS		10 kDa chaperonin
+IFCPCJBP_01595	CDS			hypothetical protein
+IFCPCJBP_01596	CDS	gmuC_2		PTS system oligo-beta-mannoside-specific EIIC component
+IFCPCJBP_01597	CDS			hypothetical protein
+IFCPCJBP_01598	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+IFCPCJBP_01599	CDS	yycI		Two-component system WalR/WalK regulatory protein YycI
+IFCPCJBP_01600	CDS			hypothetical protein
+IFCPCJBP_01601	CDS	walK_3	2.7.13.3	Sensor histidine kinase WalK
+IFCPCJBP_01602	CDS	walR_3		Transcriptional regulatory protein WalR
+IFCPCJBP_01603	CDS			DegV domain-containing protein
+IFCPCJBP_01604	CDS			hypothetical protein
+IFCPCJBP_01605	tRNA			tRNA-Lys(ctt)
+IFCPCJBP_01606	CDS			hypothetical protein
+IFCPCJBP_01607	CDS			hypothetical protein
+IFCPCJBP_01608	CDS			hypothetical protein
+IFCPCJBP_01609	CDS			hypothetical protein
+IFCPCJBP_01610	CDS	pisA		Bacteriocin piscicolin-126
+IFCPCJBP_01611	CDS	gbuB		Glycine betaine/carnitine transport permease protein GbuB
+IFCPCJBP_01612	CDS	opuAA	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+IFCPCJBP_01613	CDS			hypothetical protein
+IFCPCJBP_01614	CDS			hypothetical protein
+IFCPCJBP_01615	CDS	feoB		Fe(2+) transporter FeoB
+IFCPCJBP_01616	CDS			hypothetical protein
+IFCPCJBP_01617	CDS	nrdH		Glutaredoxin-like protein NrdH
+IFCPCJBP_01618	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+IFCPCJBP_01619	CDS	nrdF	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+IFCPCJBP_01620	CDS	tqsA_2		AI-2 transport protein TqsA
+IFCPCJBP_01621	CDS			hypothetical protein
+IFCPCJBP_01622	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+IFCPCJBP_01623	CDS	ybiT_1		putative ABC transporter ATP-binding protein YbiT
+IFCPCJBP_01624	CDS			hypothetical protein
+IFCPCJBP_01625	CDS			putative transporter
+IFCPCJBP_01626	CDS			hypothetical protein
+IFCPCJBP_01627	CDS	rplL		50S ribosomal protein L7/L12
+IFCPCJBP_01628	CDS	rplJ		50S ribosomal protein L10
+IFCPCJBP_01629	CDS	rplA		50S ribosomal protein L1
+IFCPCJBP_01630	CDS	rplK		50S ribosomal protein L11
+IFCPCJBP_01631	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+IFCPCJBP_01632	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+IFCPCJBP_01633	CDS		1.13.12.4	Lactate 2-monooxygenase
+IFCPCJBP_01634	CDS			hypothetical protein
+IFCPCJBP_01635	CDS	nusG		Transcription termination/antitermination protein NusG
+IFCPCJBP_01636	CDS	secE		Protein translocase subunit SecE
+IFCPCJBP_01637	CDS	rpmG2		50S ribosomal protein L33 2
+IFCPCJBP_01638	CDS			hypothetical protein
+IFCPCJBP_01639	CDS	queT_1		Queuosine precursor transporter QueT
+IFCPCJBP_01640	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+IFCPCJBP_01641	CDS			hypothetical protein
+IFCPCJBP_01642	CDS			hypothetical protein
+IFCPCJBP_01643	CDS	ybhF		putative ABC transporter ATP-binding protein YbhF
+IFCPCJBP_01644	CDS	desK	2.7.13.3	Sensor histidine kinase DesK
+IFCPCJBP_01645	CDS	desR		Transcriptional regulatory protein DesR
+IFCPCJBP_01646	CDS			hypothetical protein
+IFCPCJBP_01647	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+IFCPCJBP_01648	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+IFCPCJBP_01649	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+IFCPCJBP_01650	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+IFCPCJBP_01651	CDS			CutC-like protein
+IFCPCJBP_01652	CDS	mgtE		Magnesium transporter MgtE
+IFCPCJBP_01653	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+IFCPCJBP_01654	CDS	ppnKA	2.7.1.23	NAD kinase 1
+IFCPCJBP_01655	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+IFCPCJBP_01656	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+IFCPCJBP_01657	CDS			hypothetical protein
+IFCPCJBP_01658	CDS			hypothetical protein
+IFCPCJBP_01659	CDS	pepF1_1	3.4.24.-	Oligoendopeptidase F, plasmid
+IFCPCJBP_01660	CDS	coiA		Competence protein CoiA
+IFCPCJBP_01661	CDS	mecA		Adapter protein MecA 1
+IFCPCJBP_01662	CDS	spxA_3		Regulatory protein Spx
+IFCPCJBP_01663	CDS	yfnB_1	3.-.-.-	Putative HAD-hydrolase YfnB
+IFCPCJBP_01664	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+IFCPCJBP_01665	CDS	sbcC		Nuclease SbcCD subunit C
+IFCPCJBP_01666	CDS	sbcD		Nuclease SbcCD subunit D
+IFCPCJBP_01667	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IFCPCJBP_01668	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+IFCPCJBP_01669	CDS			hypothetical protein
+IFCPCJBP_01670	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+IFCPCJBP_01671	CDS			hypothetical protein
+IFCPCJBP_01672	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+IFCPCJBP_01673	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+IFCPCJBP_01674	CDS	yhdN	1.1.1.-	General stress protein 69
+IFCPCJBP_01675	CDS	cypC	1.11.2.4	Fatty-acid peroxygenase
+IFCPCJBP_01676	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+IFCPCJBP_01677	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+IFCPCJBP_01678	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+IFCPCJBP_01679	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+IFCPCJBP_01680	CDS			hypothetical protein
+IFCPCJBP_01681	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+IFCPCJBP_01682	CDS			putative AAA domain-containing protein
+IFCPCJBP_01683	CDS			hypothetical protein
+IFCPCJBP_01684	CDS			Putative universal stress protein
+IFCPCJBP_01685	CDS			hypothetical protein
+IFCPCJBP_01686	CDS	ybiT_2		putative ABC transporter ATP-binding protein YbiT
+IFCPCJBP_01687	CDS	ackA	2.7.2.1	Acetate kinase
+IFCPCJBP_01688	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+IFCPCJBP_01689	CDS			hypothetical protein
+IFCPCJBP_01690	CDS			hypothetical protein
+IFCPCJBP_01691	CDS			hypothetical protein
+IFCPCJBP_01692	CDS			hypothetical protein
+IFCPCJBP_01693	CDS	comGC		ComG operon protein 3
+IFCPCJBP_01694	CDS	epsF		Type II secretion system protein F
+IFCPCJBP_01695	CDS	comGA		ComG operon protein 1
+IFCPCJBP_01696	CDS	adeC	3.5.4.2	Adenine deaminase
+IFCPCJBP_01697	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+IFCPCJBP_01698	CDS			hypothetical protein
+IFCPCJBP_01699	CDS			hypothetical protein
+IFCPCJBP_01700	CDS	ecsA_1		ABC-type transporter ATP-binding protein EcsA
+IFCPCJBP_01701	CDS			putative HIT-like protein
+IFCPCJBP_01702	CDS			hypothetical protein
+IFCPCJBP_01703	CDS	prsA_2	5.2.1.8	Foldase protein PrsA
+IFCPCJBP_01704	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+IFCPCJBP_01705	CDS			hypothetical protein
+IFCPCJBP_01706	CDS	yhaO		putative metallophosphoesterase YhaO
+IFCPCJBP_01707	CDS	ywpJ_1	3.1.3.-	Phosphatase YwpJ
+IFCPCJBP_01708	rRNA			5S ribosomal RNA
+IFCPCJBP_01709	rRNA			23S ribosomal RNA
+IFCPCJBP_01710	rRNA			16S ribosomal RNA
+IFCPCJBP_01711	CDS	pehX	3.2.1.82	Exo-poly-alpha-D-galacturonosidase
+IFCPCJBP_01712	CDS	yjmB		putative symporter YjmB
+IFCPCJBP_01713	CDS	xynB	3.2.1.37	Beta-xylosidase
+IFCPCJBP_01714	CDS			hypothetical protein
+IFCPCJBP_01715	CDS	pemA	3.1.1.11	Pectinesterase A
+IFCPCJBP_01716	CDS			hypothetical protein
+IFCPCJBP_01717	CDS	pgl_1	3.2.1.15	Polygalacturonase
+IFCPCJBP_01718	CDS	yteR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YteR
+IFCPCJBP_01719	CDS	lipO_1		Lipoprotein LipO
+IFCPCJBP_01720	CDS			hypothetical protein
+IFCPCJBP_01721	CDS	yteP_1		putative multiple-sugar transport system permease YteP
+IFCPCJBP_01722	CDS	araQ_3		L-arabinose transport system permease protein AraQ
+IFCPCJBP_01723	CDS	yesS		HTH-type transcriptional regulator YesS
+IFCPCJBP_01724	CDS	exuR_3		putative HTH-type transcriptional repressor ExuR
+IFCPCJBP_01725	CDS	uxaB	1.1.1.58	Altronate oxidoreductase
+IFCPCJBP_01726	CDS	uxaA	4.2.1.7	Altronate dehydratase
+IFCPCJBP_01727	CDS	uxaC	5.3.1.12	Uronate isomerase
+IFCPCJBP_01728	CDS	rhgT	3.1.1.-	Rhamnogalacturonan acetylesterase RhgT
+IFCPCJBP_01729	CDS	nfo_2	3.1.21.2	endonuclease 4
+IFCPCJBP_01730	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+IFCPCJBP_01731	CDS			hypothetical protein
+IFCPCJBP_01732	CDS	pbpF		Penicillin-binding protein 1F
+IFCPCJBP_01733	CDS	rluD_3	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+IFCPCJBP_01734	CDS	gmuE_2	2.7.1.4	Putative fructokinase
+IFCPCJBP_01735	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+IFCPCJBP_01736	CDS			hypothetical protein
+IFCPCJBP_01737	CDS	araR_1		Arabinose metabolism transcriptional repressor
+IFCPCJBP_01738	CDS			hypothetical protein
+IFCPCJBP_01739	CDS			putative response regulatory protein
+IFCPCJBP_01740	CDS	ypdA_1	2.7.13.3	Sensor histidine kinase YpdA
+IFCPCJBP_01741	CDS			hypothetical protein
+IFCPCJBP_01742	CDS			hypothetical protein
+IFCPCJBP_01743	CDS	araQ_4		L-arabinose transport system permease protein AraQ
+IFCPCJBP_01744	CDS	yteP_2		putative multiple-sugar transport system permease YteP
+IFCPCJBP_01745	CDS	rluB_2	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+IFCPCJBP_01746	CDS	murJ_2		Lipid II flippase MurJ
+IFCPCJBP_01747	CDS			hypothetical protein
+IFCPCJBP_01748	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+IFCPCJBP_01749	CDS	licC_2		Lichenan permease IIC component
+IFCPCJBP_01750	CDS			hypothetical protein
+IFCPCJBP_01751	CDS	licA_1	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+IFCPCJBP_01752	CDS	licR_2		putative licABCH operon regulator
+IFCPCJBP_01753	CDS	celA_2	2.7.1.205	PTS system cellobiose-specific EIIB component
+IFCPCJBP_01754	CDS			hypothetical protein
+IFCPCJBP_01755	CDS			hypothetical protein
+IFCPCJBP_01756	CDS	sdrD		Serine-aspartate repeat-containing protein D
+IFCPCJBP_01757	CDS			hypothetical protein
+IFCPCJBP_01758	CDS			hypothetical protein
+IFCPCJBP_01759	CDS			hypothetical protein
+IFCPCJBP_01760	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_01761	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_01762	CDS	hcf136		Ycf48-like protein
+IFCPCJBP_01763	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+IFCPCJBP_01764	CDS		3.2.1.17	Muramidase-2
+IFCPCJBP_01765	CDS	bcrC	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+IFCPCJBP_01766	CDS			hypothetical protein
+IFCPCJBP_01767	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+IFCPCJBP_01768	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_01769	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_01770	CDS	tetR		Tetracycline repressor protein class H
+IFCPCJBP_01771	CDS	frmB	3.1.2.12	S-formylglutathione hydrolase FrmB
+IFCPCJBP_01772	CDS	bmr3		Multidrug resistance protein 3
+IFCPCJBP_01773	CDS			hypothetical protein
+IFCPCJBP_01774	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+IFCPCJBP_01775	tRNA			tRNA-Glu(ttc)
+IFCPCJBP_01776	tRNA			tRNA-Ile(gat)
+IFCPCJBP_01777	tRNA			tRNA-Gly(tcc)
+IFCPCJBP_01778	tRNA			tRNA-Phe(gaa)
+IFCPCJBP_01779	tRNA			tRNA-Asp(gtc)
+IFCPCJBP_01780	tRNA			tRNA-Met(cat)
+IFCPCJBP_01781	tRNA			tRNA-Ser(tga)
+IFCPCJBP_01782	tRNA			tRNA-Glu(ttc)
+IFCPCJBP_01783	tRNA			tRNA-Ser(gct)
+IFCPCJBP_01784	tRNA			tRNA-Ile(gat)
+IFCPCJBP_01785	tRNA			tRNA-Gly(tcc)
+IFCPCJBP_01786	tRNA			tRNA-Asp(gtc)
+IFCPCJBP_01787	tRNA			tRNA-Met(cat)
+IFCPCJBP_01788	tRNA			tRNA-Ser(tga)
+IFCPCJBP_01789	tRNA			tRNA-Met(cat)
+IFCPCJBP_01790	tRNA			tRNA-Met(cat)
+IFCPCJBP_01791	tRNA			tRNA-Ala(tgc)
+IFCPCJBP_01792	tRNA			tRNA-Pro(tgg)
+IFCPCJBP_01793	tRNA			tRNA-Arg(acg)
+IFCPCJBP_01794	tRNA			tRNA-Leu(taa)
+IFCPCJBP_01795	tRNA			tRNA-Gly(gcc)
+IFCPCJBP_01796	tRNA			tRNA-Thr(tgt)
+IFCPCJBP_01797	tRNA			tRNA-Leu(tag)
+IFCPCJBP_01798	tRNA			tRNA-Lys(ttt)
+IFCPCJBP_01799	tRNA			tRNA-Val(tac)
+IFCPCJBP_01800	rRNA			5S ribosomal RNA
+IFCPCJBP_01801	rRNA			23S ribosomal RNA
+IFCPCJBP_01802	tRNA			tRNA-Ala(tgc)
+IFCPCJBP_01803	rRNA			16S ribosomal RNA
+IFCPCJBP_01804	CDS			hypothetical protein
+IFCPCJBP_01805	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+IFCPCJBP_01806	CDS	dus_1	1.3.1.-	putative tRNA-dihydrouridine synthase
+IFCPCJBP_01807	CDS	hslO		33 kDa chaperonin
+IFCPCJBP_01808	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+IFCPCJBP_01809	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+IFCPCJBP_01810	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+IFCPCJBP_01811	CDS	yugI_2		General stress protein 13
+IFCPCJBP_01812	CDS	ftsL_2		Cell division protein FtsL
+IFCPCJBP_01813	CDS	hslR		Heat shock protein 15
+IFCPCJBP_01814	CDS	murJ_3		Lipid II flippase MurJ
+IFCPCJBP_01815	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+IFCPCJBP_01816	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+IFCPCJBP_01817	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+IFCPCJBP_01818	CDS	ldtA	2.3.2.-	L,D-transpeptidase 1
+IFCPCJBP_01819	CDS			putative transcriptional regulatory protein
+IFCPCJBP_01820	CDS			hypothetical protein
+IFCPCJBP_01821	CDS	pepF1_2	3.4.24.-	Oligoendopeptidase F, plasmid
+IFCPCJBP_01822	CDS			Secreted 45 kDa protein
+IFCPCJBP_01823	CDS			hypothetical protein
+IFCPCJBP_01824	CDS	mreC		Cell shape-determining protein MreC
+IFCPCJBP_01825	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+IFCPCJBP_01826	CDS	rpe_1	5.1.3.1	Ribulose-phosphate 3-epimerase
+IFCPCJBP_01827	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+IFCPCJBP_01828	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+IFCPCJBP_01829	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+IFCPCJBP_01830	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+IFCPCJBP_01831	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+IFCPCJBP_01832	CDS	def_1	3.5.1.88	Peptide deformylase
+IFCPCJBP_01833	CDS	priA	3.6.4.-	Primosomal protein N'
+IFCPCJBP_01834	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+IFCPCJBP_01835	CDS	gmk_2	2.7.4.8	Guanylate kinase
+IFCPCJBP_01836	CDS			hypothetical protein
+IFCPCJBP_01837	CDS			hypothetical protein
+IFCPCJBP_01838	CDS			hypothetical protein
+IFCPCJBP_01839	CDS			hypothetical protein
+IFCPCJBP_01840	CDS			hypothetical protein
+IFCPCJBP_01841	CDS	thiT		Thiamine transporter ThiT
+IFCPCJBP_01842	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+IFCPCJBP_01843	CDS	glmU		Bifunctional protein GlmU
+IFCPCJBP_01844	CDS	purR_1		Pur operon repressor
+IFCPCJBP_01845	CDS	znuB		High-affinity zinc uptake system membrane protein ZnuB
+IFCPCJBP_01846	CDS	znuC_1	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+IFCPCJBP_01847	CDS	znuA_1		High-affinity zinc uptake system binding-protein ZnuA
+IFCPCJBP_01848	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IFCPCJBP_01849	CDS	mprF_2	2.3.2.3	Phosphatidylglycerol lysyltransferase
+IFCPCJBP_01850	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+IFCPCJBP_01851	CDS	rny_2	3.1.-.-	Ribonuclease Y
+IFCPCJBP_01852	CDS	recA		Protein RecA
+IFCPCJBP_01853	CDS	cinA		Putative competence-damage inducible protein
+IFCPCJBP_01854	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+IFCPCJBP_01855	CDS			hypothetical protein
+IFCPCJBP_01856	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+IFCPCJBP_01857	CDS		3.4.24.-	putative zinc protease
+IFCPCJBP_01858	CDS	mscL		Large-conductance mechanosensitive channel
+IFCPCJBP_01859	CDS		2.3.1.-	Acetyltransferase
+IFCPCJBP_01860	CDS			hypothetical protein
+IFCPCJBP_01861	CDS	sigH		RNA polymerase sigma-H factor
+IFCPCJBP_01862	CDS			hypothetical protein
+IFCPCJBP_01863	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+IFCPCJBP_01864	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+IFCPCJBP_01865	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+IFCPCJBP_01866	CDS	cysE	2.3.1.30	Serine acetyltransferase
+IFCPCJBP_01867	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+IFCPCJBP_01868	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+IFCPCJBP_01869	CDS	radA	3.6.4.-	DNA repair protein RadA
+IFCPCJBP_01870	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IFCPCJBP_01871	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+IFCPCJBP_01872	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+IFCPCJBP_01873	CDS			hypothetical protein
+IFCPCJBP_01874	CDS			hypothetical protein
+IFCPCJBP_01875	CDS	yfmO_1		Multidrug efflux protein YfmO
+IFCPCJBP_01876	CDS	yfmO_2		Multidrug efflux protein YfmO
+IFCPCJBP_01877	CDS			hypothetical protein
+IFCPCJBP_01878	CDS			hypothetical protein
+IFCPCJBP_01879	CDS	ettA_2		Energy-dependent translational throttle protein EttA
+IFCPCJBP_01880	CDS	yodC_1	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+IFCPCJBP_01881	CDS	yodC_2	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+IFCPCJBP_01882	CDS			putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+IFCPCJBP_01883	CDS		3.2.1.-	Autolysin
+IFCPCJBP_01884	CDS		1.-.-.-	putative oxidoreductase
+IFCPCJBP_01885	CDS		2.3.1.-	Putative acetyltransferase
+IFCPCJBP_01886	CDS	benM		HTH-type transcriptional regulator BenM
+IFCPCJBP_01887	CDS	sacY		Levansucrase and sucrase synthesis operon antiterminator
+IFCPCJBP_01888	CDS	ptsG_2	2.7.1.199	PTS system glucose-specific EIICBA component
+IFCPCJBP_01889	CDS			hypothetical protein
+IFCPCJBP_01890	CDS	qorB	1.6.5.2	Quinone oxidoreductase 2
+IFCPCJBP_01891	CDS	ywnA		Putative HTH-type transcriptional regulator YwnA
+IFCPCJBP_01892	CDS			hypothetical protein
+IFCPCJBP_01893	CDS	soxS		Regulatory protein SoxS
+IFCPCJBP_01894	CDS			hypothetical protein
+IFCPCJBP_01895	CDS	xylB_1	2.7.1.17	Xylulose kinase
+IFCPCJBP_01896	CDS	ygaZ_2		Inner membrane protein YgaZ
+IFCPCJBP_01897	CDS			hypothetical protein
+IFCPCJBP_01898	CDS			Zinc-type alcohol dehydrogenase-like protein
+IFCPCJBP_01899	CDS	dus_2	1.3.1.-	putative tRNA-dihydrouridine synthase
+IFCPCJBP_01900	CDS	yadH		Inner membrane transport permease YadH
+IFCPCJBP_01901	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IFCPCJBP_01902	CDS			hypothetical protein
+IFCPCJBP_01903	CDS	mutS_1		DNA mismatch repair protein MutS
+IFCPCJBP_01904	CDS	phoR_3	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IFCPCJBP_01905	CDS	arlR_2		Response regulator ArlR
+IFCPCJBP_01906	CDS			hypothetical protein
+IFCPCJBP_01907	CDS	rbbA		Ribosome-associated ATPase
+IFCPCJBP_01908	CDS			hypothetical protein
+IFCPCJBP_01909	CDS			hypothetical protein
+IFCPCJBP_01910	CDS			hypothetical protein
+IFCPCJBP_01911	CDS			hypothetical protein
+IFCPCJBP_01912	CDS			hypothetical protein
+IFCPCJBP_01913	CDS	ftsK_2		DNA translocase FtsK
+IFCPCJBP_01914	CDS	ltrA_4		Group II intron-encoded protein LtrA
+IFCPCJBP_01915	CDS			hypothetical protein
+IFCPCJBP_01916	CDS	pezT	2.7.1.176	Toxin PezT
+IFCPCJBP_01917	CDS			hypothetical protein
+IFCPCJBP_01918	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+IFCPCJBP_01919	CDS	banIM	2.1.1.37	Modification methylase BanI
+IFCPCJBP_01920	CDS			hypothetical protein
+IFCPCJBP_01921	CDS			hypothetical protein
+IFCPCJBP_01922	CDS			hypothetical protein
+IFCPCJBP_01923	CDS	ltrA_5		Group II intron-encoded protein LtrA
+IFCPCJBP_01924	CDS			hypothetical protein
+IFCPCJBP_01925	CDS			hypothetical protein
+IFCPCJBP_01926	CDS			hypothetical protein
+IFCPCJBP_01927	CDS			hypothetical protein
+IFCPCJBP_01928	CDS	pgdS	3.4.19.-	Gamma-DL-glutamyl hydrolase
+IFCPCJBP_01929	CDS			hypothetical protein
+IFCPCJBP_01930	CDS			hypothetical protein
+IFCPCJBP_01931	CDS	ribZ_1		Riboflavin transporter RibZ
+IFCPCJBP_01932	CDS			hypothetical protein
+IFCPCJBP_01933	CDS		3.2.1.-	Autolysin
+IFCPCJBP_01934	CDS	noxE	1.6.99.3	NADH oxidase
+IFCPCJBP_01935	CDS	bca		C protein alpha-antigen
+IFCPCJBP_01936	CDS			hypothetical protein
+IFCPCJBP_01937	CDS	araC_2		Arabinose operon regulatory protein
+IFCPCJBP_01938	CDS			hypothetical protein
+IFCPCJBP_01939	CDS			hypothetical protein
+IFCPCJBP_01940	CDS			hypothetical protein
+IFCPCJBP_01941	CDS			hypothetical protein
+IFCPCJBP_01942	CDS			hypothetical protein
+IFCPCJBP_01943	CDS	yciC		Putative metal chaperone YciC
+IFCPCJBP_01944	CDS			hypothetical protein
+IFCPCJBP_01945	CDS			hypothetical protein
+IFCPCJBP_01946	CDS	znuA_2		High-affinity zinc uptake system binding-protein ZnuA
+IFCPCJBP_01947	CDS			hypothetical protein
+IFCPCJBP_01948	CDS	yjiA		putative GTP-binding protein YjiA
+IFCPCJBP_01949	CDS	rpmGA_2		50S ribosomal protein L33 1
+IFCPCJBP_01950	CDS			hypothetical protein
+IFCPCJBP_01951	CDS	rpmF_2		50S ribosomal protein L32
+IFCPCJBP_01952	CDS	rpsN2_1		Alternate 30S ribosomal protein S14
+IFCPCJBP_01953	CDS	ndvA	3.6.3.42	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+IFCPCJBP_01954	CDS	irtA	3.6.3.-	Iron import ATP-binding/permease protein IrtA
+IFCPCJBP_01955	CDS			hypothetical protein
+IFCPCJBP_01956	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+IFCPCJBP_01957	CDS			hypothetical protein
+IFCPCJBP_01958	CDS			hypothetical protein
+IFCPCJBP_01959	CDS			hypothetical protein
+IFCPCJBP_01960	CDS	mntR		Transcriptional regulator MntR
+IFCPCJBP_01961	CDS	ssaB_1		Manganese ABC transporter substrate-binding lipoprotein
+IFCPCJBP_01962	CDS	mntB_1		Manganese transport system membrane protein MntB
+IFCPCJBP_01963	CDS			hypothetical protein
+IFCPCJBP_01964	CDS	znuC_2	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+IFCPCJBP_01965	CDS	xerD_3		Tyrosine recombinase XerD
+IFCPCJBP_01966	CDS	rpsI		30S ribosomal protein S9
+IFCPCJBP_01967	CDS	rplM		50S ribosomal protein L13
+IFCPCJBP_01968	CDS	dps	1.16.-.-	DNA protection during starvation protein
+IFCPCJBP_01969	CDS	xylB_2	2.7.1.17	Xylulose kinase
+IFCPCJBP_01970	CDS	comC		Type 4 prepilin-like proteins leader peptide-processing enzyme
+IFCPCJBP_01971	CDS	msrA_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+IFCPCJBP_01972	CDS	yvdM_1	5.4.2.6	Beta-phosphoglucomutase
+IFCPCJBP_01973	CDS	glxK	2.7.1.31	Glycerate kinase
+IFCPCJBP_01974	CDS	kojP	2.4.1.230	Kojibiose phosphorylase
+IFCPCJBP_01975	CDS	rifL	1.1.1.-	Putative UDP-kanosamine synthase oxidoreductase subunit
+IFCPCJBP_01976	CDS		5.1.3.30	D-psicose 3-epimerase
+IFCPCJBP_01977	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+IFCPCJBP_01978	CDS	ycjP		Inner membrane ABC transporter permease protein YcjP
+IFCPCJBP_01979	CDS	ycjO		Inner membrane ABC transporter permease protein YcjO
+IFCPCJBP_01980	CDS	msmE		Multiple sugar-binding protein
+IFCPCJBP_01981	CDS		2.4.1.329	Sucrose 6(F)-phosphate phosphorylase
+IFCPCJBP_01982	CDS	purR_2		HTH-type transcriptional repressor PurR
+IFCPCJBP_01983	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+IFCPCJBP_01984	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+IFCPCJBP_01985	CDS			hypothetical protein
+IFCPCJBP_01986	CDS	lsrC_2		Autoinducer 2 import system permease protein LsrC
+IFCPCJBP_01987	CDS	yxdL_3		ABC transporter ATP-binding protein YxdL
+IFCPCJBP_01988	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+IFCPCJBP_01989	CDS			hypothetical protein
+IFCPCJBP_01990	CDS			hypothetical protein
+IFCPCJBP_01991	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+IFCPCJBP_01992	CDS			hypothetical protein
+IFCPCJBP_01993	CDS			hypothetical protein
+IFCPCJBP_01994	CDS	yjlD	1.6.99.-	NADH dehydrogenase-like protein YjlD
+IFCPCJBP_01995	CDS			hypothetical protein
+IFCPCJBP_01996	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+IFCPCJBP_01997	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IFCPCJBP_01998	CDS	gor	1.8.1.7	Glutathione reductase
+IFCPCJBP_01999	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+IFCPCJBP_02000	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+IFCPCJBP_02001	CDS	clpC		Negative regulator of genetic competence ClpC/MecB
+IFCPCJBP_02002	CDS	ctsR		Transcriptional regulator CtsR
+IFCPCJBP_02003	tRNA			tRNA-Arg(acg)
+IFCPCJBP_02004	tRNA			tRNA-Pro(tgg)
+IFCPCJBP_02005	tRNA			tRNA-Arg(acg)
+IFCPCJBP_02006	tRNA			tRNA-Leu(taa)
+IFCPCJBP_02007	tRNA			tRNA-Gly(gcc)
+IFCPCJBP_02008	tRNA			tRNA-Thr(tgt)
+IFCPCJBP_02009	tRNA			tRNA-Leu(tag)
+IFCPCJBP_02010	tRNA			tRNA-Lys(ttt)
+IFCPCJBP_02011	tRNA			tRNA-Val(tac)
+IFCPCJBP_02012	rRNA			5S ribosomal RNA
+IFCPCJBP_02013	rRNA			23S ribosomal RNA
+IFCPCJBP_02014	rRNA			16S ribosomal RNA
+IFCPCJBP_02015	CDS	srrA_2		Transcriptional regulatory protein SrrA
+IFCPCJBP_02016	CDS	walK_4	2.7.13.3	Sensor protein kinase WalK
+IFCPCJBP_02017	CDS	serS	6.1.1.11	Serine--tRNA ligase
+IFCPCJBP_02018	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFCPCJBP_02019	CDS			hypothetical protein
+IFCPCJBP_02020	CDS	ychF		Ribosome-binding ATPase YchF
+IFCPCJBP_02021	CDS			hypothetical protein
+IFCPCJBP_02022	CDS	parB		putative chromosome-partitioning protein ParB
+IFCPCJBP_02023	CDS	soj_5	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_02024	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+IFCPCJBP_02025	CDS	mnmG_2		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IFCPCJBP_02026	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+IFCPCJBP_02027	CDS			hypothetical protein
+IFCPCJBP_02028	CDS			hypothetical protein
+IFCPCJBP_02029	CDS	misCA		Membrane protein insertase MisCA
+IFCPCJBP_02030	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+IFCPCJBP_02031	CDS	rpmH		50S ribosomal protein L34
+IFCPCJBP_02032	CDS	dnaA		Chromosomal replication initiator protein DnaA
+IFCPCJBP_02033	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+IFCPCJBP_02034	CDS			hypothetical protein
+IFCPCJBP_02035	CDS	recF		DNA replication and repair protein RecF
+IFCPCJBP_02036	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+IFCPCJBP_02037	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+IFCPCJBP_02038	CDS	rpsF		30S ribosomal protein S6
+IFCPCJBP_02039	CDS	ssb_2		Single-stranded DNA-binding protein
+IFCPCJBP_02040	CDS	rpsR		30S ribosomal protein S18
+IFCPCJBP_02041	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+IFCPCJBP_02042	CDS	rplI		50S ribosomal protein L9
+IFCPCJBP_02043	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+IFCPCJBP_02044	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+IFCPCJBP_02045	CDS			DegV domain-containing protein
+IFCPCJBP_02046	CDS	ybiT_3		putative ABC transporter ATP-binding protein YbiT
+IFCPCJBP_02047	CDS			hypothetical protein
+IFCPCJBP_02048	CDS	pox5	1.2.3.3	Pyruvate oxidase
+IFCPCJBP_02049	CDS	zupT		Zinc transporter ZupT
+IFCPCJBP_02050	CDS			hypothetical protein
+IFCPCJBP_02051	CDS			hypothetical protein
+IFCPCJBP_02052	CDS			hypothetical protein
+IFCPCJBP_02053	CDS			hypothetical protein
+IFCPCJBP_02054	CDS			hypothetical protein
+IFCPCJBP_02055	CDS			hypothetical protein
+IFCPCJBP_02056	CDS			hypothetical protein
+IFCPCJBP_02057	CDS			hypothetical protein
+IFCPCJBP_02058	CDS			hypothetical protein
+IFCPCJBP_02059	CDS			hypothetical protein
+IFCPCJBP_02060	CDS	yvdM_2	5.4.2.6	Beta-phosphoglucomutase
+IFCPCJBP_02061	CDS	lacR_3		Lactose phosphotransferase system repressor
+IFCPCJBP_02062	CDS	lacG_3	3.2.1.85	6-phospho-beta-galactosidase
+IFCPCJBP_02063	CDS	lacF_4	2.7.1.207	PTS system lactose-specific EIIA component
+IFCPCJBP_02064	CDS	lacE_2		PTS system lactose-specific EIICB component
+IFCPCJBP_02065	CDS	ganB	3.2.1.89	Arabinogalactan endo-beta-1,4-galactanase
+IFCPCJBP_02066	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+IFCPCJBP_02067	CDS	coaA	2.7.1.33	Pantothenate kinase
+IFCPCJBP_02068	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+IFCPCJBP_02069	CDS	degA_2		HTH-type transcriptional regulator DegA
+IFCPCJBP_02070	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+IFCPCJBP_02071	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+IFCPCJBP_02072	CDS	cdd	3.5.4.5	Cytidine deaminase
+IFCPCJBP_02073	CDS	tmpC		Membrane lipoprotein TmpC
+IFCPCJBP_02074	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+IFCPCJBP_02075	CDS			hypothetical protein
+IFCPCJBP_02076	CDS			hypothetical protein
+IFCPCJBP_02077	CDS	deoB	5.4.2.7	Phosphopentomutase
+IFCPCJBP_02078	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+IFCPCJBP_02079	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+IFCPCJBP_02080	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IFCPCJBP_02081	CDS	hin		DNA-invertase hin
+IFCPCJBP_02082	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+IFCPCJBP_02083	CDS	rpsL		30S ribosomal protein S12
+IFCPCJBP_02084	CDS	rpsG		30S ribosomal protein S7
+IFCPCJBP_02085	CDS	fus		Elongation factor G
+IFCPCJBP_02086	CDS	tuf_2		Elongation factor Tu
+IFCPCJBP_02087	CDS	rpsJ		30S ribosomal protein S10
+IFCPCJBP_02088	CDS	rplC		50S ribosomal protein L3
+IFCPCJBP_02089	CDS	rplD		50S ribosomal protein L4
+IFCPCJBP_02090	CDS	rplW		50S ribosomal protein L23
+IFCPCJBP_02091	CDS	rplB		50S ribosomal protein L2
+IFCPCJBP_02092	CDS	rpsS		30S ribosomal protein S19
+IFCPCJBP_02093	CDS	rplV		50S ribosomal protein L22
+IFCPCJBP_02094	CDS	rpsC		30S ribosomal protein S3
+IFCPCJBP_02095	CDS	rplP		50S ribosomal protein L16
+IFCPCJBP_02096	CDS	rpmC		50S ribosomal protein L29
+IFCPCJBP_02097	CDS	rpsQ		30S ribosomal protein S17
+IFCPCJBP_02098	CDS	rplN		50S ribosomal protein L14
+IFCPCJBP_02099	CDS	rplX		50S ribosomal protein L24
+IFCPCJBP_02100	CDS	rplE		50S ribosomal protein L5
+IFCPCJBP_02101	CDS	rpsN1		30S ribosomal protein S14
+IFCPCJBP_02102	CDS	rpsH		30S ribosomal protein S8
+IFCPCJBP_02103	CDS	rplF		50S ribosomal protein L6
+IFCPCJBP_02104	CDS	rplR		50S ribosomal protein L18
+IFCPCJBP_02105	CDS	rpsE		30S ribosomal protein S5
+IFCPCJBP_02106	CDS	rpmD		50S ribosomal protein L30
+IFCPCJBP_02107	CDS	rplO		50S ribosomal protein L15
+IFCPCJBP_02108	CDS	secY		Protein translocase subunit SecY
+IFCPCJBP_02109	CDS	adk	2.7.4.3	Adenylate kinase
+IFCPCJBP_02110	CDS	infA		Translation initiation factor IF-1
+IFCPCJBP_02111	CDS	rpmJ		50S ribosomal protein L36
+IFCPCJBP_02112	CDS	rpsM		30S ribosomal protein S13
+IFCPCJBP_02113	CDS	rpsK		30S ribosomal protein S11
+IFCPCJBP_02114	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+IFCPCJBP_02115	CDS	rplQ		50S ribosomal protein L17
+IFCPCJBP_02116	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+IFCPCJBP_02117	CDS	ecfA2_2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+IFCPCJBP_02118	CDS	ecfT		Energy-coupling factor transporter transmembrane protein EcfT
+IFCPCJBP_02119	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+IFCPCJBP_02120	CDS			hypothetical protein
+IFCPCJBP_02121	CDS	lrpC		HTH-type transcriptional regulator LrpC
+IFCPCJBP_02122	CDS			hypothetical protein
+IFCPCJBP_02123	CDS			hypothetical protein
+IFCPCJBP_02124	CDS			hypothetical protein
+IFCPCJBP_02125	CDS			hypothetical protein
+IFCPCJBP_02126	CDS			hypothetical protein
+IFCPCJBP_02127	CDS			hypothetical protein
+IFCPCJBP_02128	CDS			hypothetical protein
+IFCPCJBP_02129	CDS	rpmB		50S ribosomal protein L28
+IFCPCJBP_02130	CDS			hypothetical protein
+IFCPCJBP_02131	CDS			hypothetical protein
+IFCPCJBP_02132	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+IFCPCJBP_02133	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+IFCPCJBP_02134	CDS	acpP		Acyl carrier protein
+IFCPCJBP_02135	CDS			hypothetical protein
+IFCPCJBP_02136	CDS	oppD_1		Oligopeptide transport ATP-binding protein OppD
+IFCPCJBP_02137	CDS	oppF_1		Oligopeptide transport ATP-binding protein OppF
+IFCPCJBP_02138	CDS	gsiC		Glutathione transport system permease protein GsiC
+IFCPCJBP_02139	CDS			Putative peptide transport permease protein
+IFCPCJBP_02140	CDS	appA		Oligopeptide-binding protein AppA
+IFCPCJBP_02141	CDS	rnc	3.1.26.3	Ribonuclease 3
+IFCPCJBP_02142	CDS	smc_4		Chromosome partition protein Smc
+IFCPCJBP_02143	CDS	yidA_3	3.1.3.23	Sugar phosphatase YidA
+IFCPCJBP_02144	CDS	ftsY		Signal recognition particle receptor FtsY
+IFCPCJBP_02145	CDS	gshAB		Glutathione biosynthesis bifunctional protein GshAB
+IFCPCJBP_02146	CDS			hypothetical protein
+IFCPCJBP_02147	CDS	feuB_2		Iron-uptake system permease protein FeuB
+IFCPCJBP_02148	CDS	hmuU		Hemin transport system permease protein HmuU
+IFCPCJBP_02149	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+IFCPCJBP_02150	CDS	yclQ		putative ABC transporter solute-binding protein YclQ
+IFCPCJBP_02151	CDS			hypothetical protein
+IFCPCJBP_02152	CDS			hypothetical protein
+IFCPCJBP_02153	CDS			hypothetical protein
+IFCPCJBP_02154	CDS			hypothetical protein
+IFCPCJBP_02155	CDS			hypothetical protein
+IFCPCJBP_02156	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFCPCJBP_02157	CDS			hypothetical protein
+IFCPCJBP_02158	CDS			hypothetical protein
+IFCPCJBP_02159	CDS			Pesticidal crystal protein Cry22Aa
+IFCPCJBP_02160	CDS			hypothetical protein
+IFCPCJBP_02161	CDS	gla		Glycerol facilitator-aquaporin gla
+IFCPCJBP_02162	CDS	lrgA		Antiholin-like protein LrgA
+IFCPCJBP_02163	CDS	yohK		Inner membrane protein YohK
+IFCPCJBP_02164	CDS			hypothetical protein
+IFCPCJBP_02165	CDS			hypothetical protein
+IFCPCJBP_02166	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+IFCPCJBP_02167	CDS	queT_2		Queuosine precursor transporter QueT
+IFCPCJBP_02168	CDS	bioY2		Biotin transporter BioY2
+IFCPCJBP_02169	CDS	rpsD		30S ribosomal protein S4
+IFCPCJBP_02170	CDS	nirC		Nitrite transporter NirC
+IFCPCJBP_02171	CDS			hypothetical protein
+IFCPCJBP_02172	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IFCPCJBP_02173	CDS			hypothetical protein
+IFCPCJBP_02174	CDS			hypothetical protein
+IFCPCJBP_02175	CDS	mutS_2		DNA mismatch repair protein MutS
+IFCPCJBP_02176	CDS	mutL		DNA mismatch repair protein MutL
+IFCPCJBP_02177	CDS	maf		Septum formation protein Maf
+IFCPCJBP_02178	CDS	treB		PTS system trehalose-specific EIIBC component
+IFCPCJBP_02179	CDS	treR		HTH-type transcriptional regulator TreR
+IFCPCJBP_02180	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+IFCPCJBP_02181	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+IFCPCJBP_02182	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+IFCPCJBP_02183	CDS	dhaS		HTH-type dhaKLM operon transcriptional activator DhaS
+IFCPCJBP_02184	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+IFCPCJBP_02185	CDS			hypothetical protein
+IFCPCJBP_02186	CDS			hypothetical protein
+IFCPCJBP_02187	CDS	brnQ_2		Branched-chain amino acid transport system 2 carrier protein
+IFCPCJBP_02188	CDS			hypothetical protein
+IFCPCJBP_02189	CDS	cycA		D-serine/D-alanine/glycine transporter
+IFCPCJBP_02190	CDS	artM_2		Arginine transport ATP-binding protein ArtM
+IFCPCJBP_02191	CDS	glnP_2		Glutamine transport system permease protein GlnP
+IFCPCJBP_02192	CDS			hypothetical protein
+IFCPCJBP_02193	CDS			hypothetical protein
+IFCPCJBP_02194	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+IFCPCJBP_02195	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+IFCPCJBP_02196	CDS	nadR		Transcription repressor NadR
+IFCPCJBP_02197	CDS	def_2	3.5.1.88	Peptide deformylase
+IFCPCJBP_02198	CDS	rpsO		30S ribosomal protein S15
+IFCPCJBP_02199	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+IFCPCJBP_02200	CDS			hypothetical protein
+IFCPCJBP_02201	CDS	kup		Low affinity potassium transport system protein kup
+IFCPCJBP_02202	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+IFCPCJBP_02203	CDS	dinF		DNA damage-inducible protein F
+IFCPCJBP_02204	CDS			hypothetical protein
+IFCPCJBP_02205	CDS	ctc		General stress protein CTC
+IFCPCJBP_02206	CDS	rsuA	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+IFCPCJBP_02207	CDS	yfnB_2	3.-.-.-	Putative HAD-hydrolase YfnB
+IFCPCJBP_02208	CDS	udk	2.7.1.48	Uridine kinase
+IFCPCJBP_02209	CDS			hypothetical protein
+IFCPCJBP_02210	CDS			hypothetical protein
+IFCPCJBP_02211	CDS	ydjZ		TVP38/TMEM64 family inner membrane protein YdjZ
+IFCPCJBP_02212	CDS		2.3.1.-	putative N-acetyltransferase
+IFCPCJBP_02213	CDS			hypothetical protein
+IFCPCJBP_02214	CDS			hypothetical protein
+IFCPCJBP_02215	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+IFCPCJBP_02216	CDS	ddl_2	6.3.2.4	D-alanine--D-alanine ligase
+IFCPCJBP_02217	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IFCPCJBP_02218	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+IFCPCJBP_02219	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+IFCPCJBP_02220	CDS	alr	5.1.1.1	Alanine racemase
+IFCPCJBP_02221	CDS	ndoA	3.1.27.-	Endoribonuclease EndoA
+IFCPCJBP_02222	CDS	rpsN2_2		Alternate 30S ribosomal protein S14
+IFCPCJBP_02223	CDS			Zinc-type alcohol dehydrogenase-like protein
+IFCPCJBP_02224	CDS	smc_5		Chromosome partition protein Smc
+IFCPCJBP_02225	CDS			hypothetical protein
+IFCPCJBP_02226	CDS			hypothetical protein
+IFCPCJBP_02227	CDS			hypothetical protein
+IFCPCJBP_02228	CDS			hypothetical protein
+IFCPCJBP_02229	CDS			hypothetical protein
+IFCPCJBP_02230	CDS	opuCD		Glycine betaine/carnitine/choline transport system permease protein OpuCD
+IFCPCJBP_02231	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+IFCPCJBP_02232	CDS	opuCB		Carnitine transport permease protein OpuCB
+IFCPCJBP_02233	CDS	opuCA_2	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+IFCPCJBP_02234	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IFCPCJBP_02235	CDS	yoaB	3.6.3.8	Calcium-transporting ATPase 1
+IFCPCJBP_02236	CDS		3.6.3.8	Calcium-transporting ATPase 1
+IFCPCJBP_02237	CDS			hypothetical protein
+IFCPCJBP_02238	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+IFCPCJBP_02239	CDS			hypothetical protein
+IFCPCJBP_02240	CDS			hypothetical protein
+IFCPCJBP_02241	CDS	adhE		Aldehyde-alcohol dehydrogenase
+IFCPCJBP_02242	CDS			hypothetical protein
+IFCPCJBP_02243	CDS			hypothetical protein
+IFCPCJBP_02244	CDS	rhaB	2.7.1.5	Rhamnulokinase
+IFCPCJBP_02245	CDS	rhaA	5.3.1.14	L-rhamnose isomerase
+IFCPCJBP_02246	CDS	rhaD	4.1.2.19	Rhamnulose-1-phosphate aldolase
+IFCPCJBP_02247	CDS	rhaM	5.1.3.32	L-rhamnose mutarotase
+IFCPCJBP_02248	CDS	fucO	1.1.1.77	Lactaldehyde reductase
+IFCPCJBP_02249	CDS	iclR		Transcriptional repressor IclR
+IFCPCJBP_02250	CDS	kdgA		KHG/KDPG aldolase
+IFCPCJBP_02251	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+IFCPCJBP_02252	CDS	kduI1	5.3.1.17	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+IFCPCJBP_02253	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+IFCPCJBP_02254	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+IFCPCJBP_02255	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+IFCPCJBP_02256	CDS		2.7.4.2	Phosphomevalonate kinase
+IFCPCJBP_02257	CDS	thrB	2.7.1.39	Homoserine kinase
+IFCPCJBP_02258	CDS	galK_1	2.7.1.6	Galactokinase
+IFCPCJBP_02259	CDS		2.7.1.113	Deoxyguanosine kinase
+IFCPCJBP_02260	CDS	corA_2		Cobalt/magnesium transport protein CorA
+IFCPCJBP_02261	CDS	mfpA		Pentapeptide repeat protein MfpA
+IFCPCJBP_02262	CDS	infC		Translation initiation factor IF-3
+IFCPCJBP_02263	CDS	rpmI		50S ribosomal protein L35
+IFCPCJBP_02264	CDS	rplT		50S ribosomal protein L20
+IFCPCJBP_02265	CDS			hypothetical protein
+IFCPCJBP_02266	CDS	apc1	6.4.1.8	Acetophenone carboxylase alpha subunit
+IFCPCJBP_02267	CDS			hypothetical protein
+IFCPCJBP_02268	CDS	rspR_2		HTH-type transcriptional repressor RspR
+IFCPCJBP_02269	CDS			hypothetical protein
+IFCPCJBP_02270	CDS		3.1.-.-	Putative esterase
+IFCPCJBP_02271	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+IFCPCJBP_02272	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+IFCPCJBP_02273	CDS			hypothetical protein
+IFCPCJBP_02274	CDS		1.2.1.97	3-sulfolactaldehyde dehydrogenase
+IFCPCJBP_02275	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+IFCPCJBP_02276	CDS			hypothetical protein
+IFCPCJBP_02277	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+IFCPCJBP_02278	CDS	ytpP		Thioredoxin-like protein YtpP
+IFCPCJBP_02279	CDS			Putative universal stress protein
+IFCPCJBP_02280	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+IFCPCJBP_02281	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+IFCPCJBP_02282	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+IFCPCJBP_02283	CDS			hypothetical protein
+IFCPCJBP_02284	CDS			hypothetical protein
+IFCPCJBP_02285	CDS			hypothetical protein
+IFCPCJBP_02286	CDS			hypothetical protein
+IFCPCJBP_02287	CDS	melR		Melibiose operon regulatory protein
+IFCPCJBP_02288	CDS	agaSK_2		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+IFCPCJBP_02289	CDS	ymfD		Bacillibactin exporter
+IFCPCJBP_02290	CDS			hypothetical protein
+IFCPCJBP_02291	CDS			hypothetical protein
+IFCPCJBP_02292	CDS			hypothetical protein
+IFCPCJBP_02293	CDS			hypothetical protein
+IFCPCJBP_02294	CDS			hypothetical protein
+IFCPCJBP_02295	CDS			hypothetical protein
+IFCPCJBP_02296	CDS			hypothetical protein
+IFCPCJBP_02297	CDS			hypothetical protein
+IFCPCJBP_02298	CDS			hypothetical protein
+IFCPCJBP_02299	CDS			hypothetical protein
+IFCPCJBP_02300	CDS			hypothetical protein
+IFCPCJBP_02301	CDS			hypothetical protein
+IFCPCJBP_02302	CDS			hypothetical protein
+IFCPCJBP_02303	CDS			hypothetical protein
+IFCPCJBP_02304	CDS	pinR	3.1.22.-	Serine recombinase PinR
+IFCPCJBP_02305	CDS			hypothetical protein
+IFCPCJBP_02306	CDS			hypothetical protein
+IFCPCJBP_02307	CDS			hypothetical protein
+IFCPCJBP_02308	CDS			hypothetical protein
+IFCPCJBP_02309	CDS	dgaR_2		Transcriptional regulatory protein DagR
+IFCPCJBP_02310	CDS	sorB_2	2.7.1.206	PTS system sorbose-specific EIIB component
+IFCPCJBP_02311	CDS	agaC		N-acetylgalactosamine permease IIC component 1
+IFCPCJBP_02312	CDS	manZ_3		PTS system mannose-specific EIID component
+IFCPCJBP_02313	CDS			hypothetical protein
+IFCPCJBP_02314	CDS			hypothetical protein
+IFCPCJBP_02315	CDS	gmuE_3	2.7.1.4	Putative fructokinase
+IFCPCJBP_02316	CDS			hypothetical protein
+IFCPCJBP_02317	CDS			hypothetical protein
+IFCPCJBP_02318	CDS			hypothetical protein
+IFCPCJBP_02319	CDS			hypothetical protein
+IFCPCJBP_02320	CDS			hypothetical protein
+IFCPCJBP_02321	CDS	sstT		Serine/threonine transporter SstT
+IFCPCJBP_02322	CDS			hypothetical protein
+IFCPCJBP_02323	CDS	manR_2		Transcriptional regulator ManR
+IFCPCJBP_02324	CDS	cmtB_2	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+IFCPCJBP_02325	CDS	ulaB_2	2.7.1.194	Ascorbate-specific PTS system EIIB component
+IFCPCJBP_02326	CDS			hypothetical protein
+IFCPCJBP_02327	CDS	hosA		Transcriptional regulator HosA
+IFCPCJBP_02328	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+IFCPCJBP_02329	CDS			hypothetical protein
+IFCPCJBP_02330	CDS			hypothetical protein
+IFCPCJBP_02331	CDS			hypothetical protein
+IFCPCJBP_02332	CDS			hypothetical protein
+IFCPCJBP_02333	CDS	pbuG		Guanine/hypoxanthine permease PbuG
+IFCPCJBP_02334	CDS	malL_2	3.2.1.10	Oligo-1,6-glucosidase
+IFCPCJBP_02335	CDS			hypothetical protein
+IFCPCJBP_02336	CDS		1.-.-.-	putative oxidoreductase
+IFCPCJBP_02337	CDS	hchA	4.2.1.130	Molecular chaperone Hsp31 and glyoxalase 3
+IFCPCJBP_02338	CDS	npr_1	1.11.1.1	NADH peroxidase
+IFCPCJBP_02339	CDS			hypothetical protein
+IFCPCJBP_02340	CDS	glpK	2.7.1.30	Glycerol kinase
+IFCPCJBP_02341	CDS	glpO	1.1.3.21	Alpha-glycerophosphate oxidase
+IFCPCJBP_02342	CDS	glpF		Glycerol uptake facilitator protein
+IFCPCJBP_02343	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+IFCPCJBP_02344	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+IFCPCJBP_02345	CDS			hypothetical protein
+IFCPCJBP_02346	CDS	ricR		Copper-sensing transcriptional repressor RicR
+IFCPCJBP_02347	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+IFCPCJBP_02348	CDS	cdr_2	1.8.1.14	Coenzyme A disulfide reductase
+IFCPCJBP_02349	CDS	helD_2	3.6.4.12	DNA helicase IV
+IFCPCJBP_02350	CDS			hypothetical protein
+IFCPCJBP_02351	CDS			hypothetical protein
+IFCPCJBP_02352	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+IFCPCJBP_02353	CDS			hypothetical protein
+IFCPCJBP_02354	CDS			hypothetical protein
+IFCPCJBP_02355	CDS	dhaM	3.5.1.-	Protein-lysine deacetylase
+IFCPCJBP_02356	CDS	dhaK	2.7.-.-	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+IFCPCJBP_02357	CDS	dhaL	2.7.-.-	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+IFCPCJBP_02358	CDS			hypothetical protein
+IFCPCJBP_02359	CDS	anr		Transcriptional activator protein Anr
+IFCPCJBP_02360	CDS			hypothetical protein
+IFCPCJBP_02361	CDS	natA_3		ABC transporter ATP-binding protein NatA
+IFCPCJBP_02362	CDS			hypothetical protein
+IFCPCJBP_02363	CDS	artM_3		Arginine transport ATP-binding protein ArtM
+IFCPCJBP_02364	CDS	betI		HTH-type transcriptional regulator BetI
+IFCPCJBP_02365	CDS			hypothetical protein
+IFCPCJBP_02366	CDS	tyrS1	6.1.1.1	Tyrosine--tRNA ligase 1
+IFCPCJBP_02367	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+IFCPCJBP_02368	CDS	gadC_2		putative glutamate/gamma-aminobutyrate antiporter
+IFCPCJBP_02369	CDS	nhaC_1		Na(+)/H(+) antiporter NhaC
+IFCPCJBP_02370	CDS	nhaC_2		Na(+)/H(+) antiporter NhaC
+IFCPCJBP_02371	CDS	ccpA_2		Catabolite control protein A
+IFCPCJBP_02372	CDS	mro_1	5.1.3.3	Aldose 1-epimerase
+IFCPCJBP_02373	CDS	pgmB	5.4.2.6	Beta-phosphoglucomutase
+IFCPCJBP_02374	CDS	malP	2.4.1.8	Maltose phosphorylase
+IFCPCJBP_02375	CDS	ptsG_3	2.7.1.199	PTS system glucose-specific EIICBA component
+IFCPCJBP_02376	CDS	mapP	3.1.3.90	Maltose 6'-phosphate phosphatase
+IFCPCJBP_02377	CDS			hypothetical protein
+IFCPCJBP_02378	CDS			hypothetical protein
+IFCPCJBP_02379	CDS			hypothetical protein
+IFCPCJBP_02380	CDS	yjaB	2.3.1.-	putative N-acetyltransferase YjaB
+IFCPCJBP_02381	CDS	padC	4.1.1.-	Phenolic acid decarboxylase PadC
+IFCPCJBP_02382	CDS			hypothetical protein
+IFCPCJBP_02383	CDS			hypothetical protein
+IFCPCJBP_02384	CDS	emrB		Multidrug export protein EmrB
+IFCPCJBP_02385	CDS			hypothetical protein
+IFCPCJBP_02386	CDS			hypothetical protein
+IFCPCJBP_02387	CDS			hypothetical protein
+IFCPCJBP_02388	CDS	ecdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+IFCPCJBP_02389	CDS	bsdC	4.1.1.-	Phenolic acid decarboxylase subunit C
+IFCPCJBP_02390	CDS			hypothetical protein
+IFCPCJBP_02391	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+IFCPCJBP_02392	CDS	hssR		Heme response regulator HssR
+IFCPCJBP_02393	CDS	phoR_4	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IFCPCJBP_02394	CDS	gltC_2		HTH-type transcriptional regulator GltC
+IFCPCJBP_02395	CDS	ydfK		putative membrane protein YdfK
+IFCPCJBP_02396	CDS			hypothetical protein
+IFCPCJBP_02397	CDS			hypothetical protein
+IFCPCJBP_02398	CDS			hypothetical protein
+IFCPCJBP_02399	CDS			hypothetical protein
+IFCPCJBP_02400	CDS			hypothetical protein
+IFCPCJBP_02401	CDS			hypothetical protein
+IFCPCJBP_02402	CDS	bceA_1		Bacitracin export ATP-binding protein BceA
+IFCPCJBP_02403	CDS	bceB_1		Bacitracin export permease protein BceB
+IFCPCJBP_02404	CDS	mro_2	5.1.3.3	Aldose 1-epimerase
+IFCPCJBP_02405	CDS			N-acetylmuramoyl-L-alanine amidase domain-containing protein
+IFCPCJBP_02406	CDS	bglF_2		PTS system beta-glucoside-specific EIIBCA component
+IFCPCJBP_02407	CDS	rbsD	5.4.99.62	D-ribose pyranase
+IFCPCJBP_02408	CDS	rbsK/rbiA		Bifunctional ribokinase/ribose-5-phosphate isomerase A
+IFCPCJBP_02409	CDS	degA_3		HTH-type transcriptional regulator DegA
+IFCPCJBP_02410	CDS	yecD_1	3.-.-.-	Isochorismatase family protein YecD
+IFCPCJBP_02411	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02412	CDS			hypothetical protein
+IFCPCJBP_02413	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+IFCPCJBP_02414	CDS	tqsA_3		AI-2 transport protein TqsA
+IFCPCJBP_02415	CDS	znuA_3		High-affinity zinc uptake system binding-protein ZnuA
+IFCPCJBP_02416	CDS	agrA_2		Accessory gene regulator A
+IFCPCJBP_02417	CDS			hypothetical protein
+IFCPCJBP_02418	CDS			hypothetical protein
+IFCPCJBP_02419	CDS	agrB	3.4.-.-	Accessory gene regulator protein B
+IFCPCJBP_02420	CDS			hypothetical protein
+IFCPCJBP_02421	CDS		2.7.1.113	Deoxyguanosine kinase
+IFCPCJBP_02422	CDS			hypothetical protein
+IFCPCJBP_02423	CDS	yjcD	3.6.4.12	Putative ATP-dependent DNA helicase YjcD
+IFCPCJBP_02424	CDS	spxA_4		Regulatory protein Spx
+IFCPCJBP_02425	CDS	spxA_5		Regulatory protein Spx
+IFCPCJBP_02426	rRNA			16S ribosomal RNA
+IFCPCJBP_02427	rRNA			23S ribosomal RNA
+IFCPCJBP_02428	rRNA			5S ribosomal RNA
+IFCPCJBP_02429	CDS	bsaA		Glutathione peroxidase BsaA
+IFCPCJBP_02430	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+IFCPCJBP_02431	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+IFCPCJBP_02432	CDS	cysM	2.5.1.47	Cysteine synthase
+IFCPCJBP_02433	CDS	efp		Elongation factor P
+IFCPCJBP_02434	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+IFCPCJBP_02435	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+IFCPCJBP_02436	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+IFCPCJBP_02437	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+IFCPCJBP_02438	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IFCPCJBP_02439	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+IFCPCJBP_02440	CDS	yclM	2.7.2.4	Aspartokinase 3
+IFCPCJBP_02441	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+IFCPCJBP_02442	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+IFCPCJBP_02443	CDS	npr_2	1.11.1.1	NADH peroxidase
+IFCPCJBP_02444	CDS			hypothetical protein
+IFCPCJBP_02445	CDS			hypothetical protein
+IFCPCJBP_02446	CDS			hypothetical protein
+IFCPCJBP_02447	CDS			hypothetical protein
+IFCPCJBP_02448	CDS	dinB_5	2.7.7.7	DNA polymerase IV
+IFCPCJBP_02449	CDS	galK_2	2.7.1.6	Galactokinase
+IFCPCJBP_02450	CDS	galM_2	5.1.3.3	Aldose 1-epimerase
+IFCPCJBP_02451	CDS	lacS		Lactose permease
+IFCPCJBP_02452	CDS	araC_3		Arabinose operon regulatory protein
+IFCPCJBP_02453	CDS	ywrO	1.6.99.-	General stress protein 14
+IFCPCJBP_02454	CDS			hypothetical protein
+IFCPCJBP_02455	CDS			hypothetical protein
+IFCPCJBP_02456	CDS	yifK		putative transport protein YifK
+IFCPCJBP_02457	CDS	znuC_3	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+IFCPCJBP_02458	CDS	mntB_2		Manganese transport system membrane protein MntB
+IFCPCJBP_02459	CDS	ssaB_2		Manganese ABC transporter substrate-binding lipoprotein
+IFCPCJBP_02460	CDS			hypothetical protein
+IFCPCJBP_02461	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+IFCPCJBP_02462	CDS			hypothetical protein
+IFCPCJBP_02463	CDS			hypothetical protein
+IFCPCJBP_02464	CDS	thiO	1.4.3.19	Glycine oxidase
+IFCPCJBP_02465	CDS	ribZ_2		Riboflavin transporter RibZ
+IFCPCJBP_02466	CDS			hypothetical protein
+IFCPCJBP_02467	CDS	argR_2		Arginine repressor
+IFCPCJBP_02468	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+IFCPCJBP_02469	CDS			hypothetical protein
+IFCPCJBP_02470	CDS	ohrB_1		Organic hydroperoxide resistance protein OhrB
+IFCPCJBP_02471	CDS	rclA		putative pyridine nucleotide-disulfide oxidoreductase RclA
+IFCPCJBP_02472	CDS	yecD_2	3.-.-.-	Isochorismatase family protein YecD
+IFCPCJBP_02473	CDS	acuR		Transcriptional regulator AcuR
+IFCPCJBP_02474	CDS			hypothetical protein
+IFCPCJBP_02475	CDS			hypothetical protein
+IFCPCJBP_02476	CDS			hypothetical protein
+IFCPCJBP_02477	CDS			hypothetical protein
+IFCPCJBP_02478	CDS	mazF	3.1.27.-	Endoribonuclease MazF
+IFCPCJBP_02479	CDS			hypothetical protein
+IFCPCJBP_02480	CDS			hypothetical protein
+IFCPCJBP_02481	CDS	ydbD	1.11.1.6	putative manganese catalase
+IFCPCJBP_02482	CDS	araN_2		putative arabinose-binding protein
+IFCPCJBP_02483	CDS	lacF_5		Lactose transport system permease protein LacF
+IFCPCJBP_02484	CDS	araQ_5		L-arabinose transport system permease protein AraQ
+IFCPCJBP_02485	CDS			hypothetical protein
+IFCPCJBP_02486	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+IFCPCJBP_02487	CDS			hypothetical protein
+IFCPCJBP_02488	CDS			hypothetical protein
+IFCPCJBP_02489	CDS			hypothetical protein
+IFCPCJBP_02490	CDS			hypothetical protein
+IFCPCJBP_02491	CDS			hypothetical protein
+IFCPCJBP_02492	CDS	graR		Response regulator protein GraR
+IFCPCJBP_02493	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+IFCPCJBP_02494	CDS	glcU_2		putative glucose uptake protein GlcU
+IFCPCJBP_02495	CDS	yhdG		putative amino acid permease YhdG
+IFCPCJBP_02496	CDS			TelA-like protein
+IFCPCJBP_02497	CDS			hypothetical protein
+IFCPCJBP_02498	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+IFCPCJBP_02499	CDS			hypothetical protein
+IFCPCJBP_02500	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IFCPCJBP_02501	CDS	yecD_3	3.-.-.-	Isochorismatase family protein YecD
+IFCPCJBP_02502	CDS	pelX	4.2.2.9	Pectate disaccharide-lyase
+IFCPCJBP_02503	CDS	pepO	3.4.24.-	Neutral endopeptidase
+IFCPCJBP_02504	CDS			hypothetical protein
+IFCPCJBP_02505	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+IFCPCJBP_02506	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+IFCPCJBP_02507	CDS			hypothetical protein
+IFCPCJBP_02508	CDS			hypothetical protein
+IFCPCJBP_02509	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFCPCJBP_02510	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+IFCPCJBP_02511	CDS	arcD1_1		Arginine/ornithine antiporter ArcD1
+IFCPCJBP_02512	CDS	vioD	4.2.1.145	Capreomycidine synthase
+IFCPCJBP_02513	CDS	yjhB_3		Putative metabolite transport protein YjhB
+IFCPCJBP_02514	CDS			hypothetical protein
+IFCPCJBP_02515	CDS			hypothetical protein
+IFCPCJBP_02516	CDS	topB_4	5.99.1.2	DNA topoisomerase 3
+IFCPCJBP_02517	CDS	yfdH	2.4.1.-	Prophage bactoprenol glucosyl transferase 
+IFCPCJBP_02518	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+IFCPCJBP_02519	CDS			hypothetical protein
+IFCPCJBP_02520	CDS			hypothetical protein
+IFCPCJBP_02521	CDS	cysL		HTH-type transcriptional regulator CysL
+IFCPCJBP_02522	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+IFCPCJBP_02523	CDS	mgsR		Regulatory protein MgsR
+IFCPCJBP_02524	CDS	gcvH		Glycine cleavage system H protein
+IFCPCJBP_02525	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+IFCPCJBP_02526	CDS	metP_1		Methionine import system permease protein MetP
+IFCPCJBP_02527	CDS	metQ_1		Methionine-binding lipoprotein MetQ
+IFCPCJBP_02528	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02529	CDS	sufB_1		FeS cluster assembly protein SufB
+IFCPCJBP_02530	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+IFCPCJBP_02531	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+IFCPCJBP_02532	CDS	sufB_2		FeS cluster assembly protein SufB
+IFCPCJBP_02533	CDS	Int-Tn_2		Transposase from transposon Tn916
+IFCPCJBP_02534	CDS			hypothetical protein
+IFCPCJBP_02535	CDS			hypothetical protein
+IFCPCJBP_02536	CDS			hypothetical protein
+IFCPCJBP_02537	CDS			hypothetical protein
+IFCPCJBP_02538	CDS			hypothetical protein
+IFCPCJBP_02539	CDS			hypothetical protein
+IFCPCJBP_02540	CDS			hypothetical protein
+IFCPCJBP_02541	CDS			hypothetical protein
+IFCPCJBP_02542	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+IFCPCJBP_02543	CDS			hypothetical protein
+IFCPCJBP_02544	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+IFCPCJBP_02545	CDS			hypothetical protein
+IFCPCJBP_02546	CDS			hypothetical protein
+IFCPCJBP_02547	CDS			hypothetical protein
+IFCPCJBP_02548	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+IFCPCJBP_02549	CDS			hypothetical protein
+IFCPCJBP_02550	CDS	prsA_3	5.2.1.8	Foldase protein PrsA
+IFCPCJBP_02551	CDS			hypothetical protein
+IFCPCJBP_02552	CDS		2.7.1.-	Putative lipid kinase
+IFCPCJBP_02553	CDS			hypothetical protein
+IFCPCJBP_02554	CDS			hypothetical protein
+IFCPCJBP_02555	CDS			hypothetical protein
+IFCPCJBP_02556	CDS			hypothetical protein
+IFCPCJBP_02557	CDS			hypothetical protein
+IFCPCJBP_02558	CDS			hypothetical protein
+IFCPCJBP_02559	CDS	ytcD		putative HTH-type transcriptional regulator YtcD
+IFCPCJBP_02560	CDS			hypothetical protein
+IFCPCJBP_02561	CDS			hypothetical protein
+IFCPCJBP_02562	CDS	licT_3		Transcription antiterminator LicT
+IFCPCJBP_02563	CDS			hypothetical protein
+IFCPCJBP_02564	CDS	bglF_3		PTS system beta-glucoside-specific EIIBCA component
+IFCPCJBP_02565	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+IFCPCJBP_02566	CDS	mngR		Mannosyl-D-glycerate transport/metabolism system repressor MngR
+IFCPCJBP_02567	CDS	fruA_3		PTS system fructose-specific EIIB'BC component
+IFCPCJBP_02568	CDS			hypothetical protein
+IFCPCJBP_02569	CDS	yvdD		LOG family protein YvdD
+IFCPCJBP_02570	CDS	DNPH1	3.2.2.-	2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+IFCPCJBP_02571	CDS		2.7.1.113	Deoxyguanosine kinase
+IFCPCJBP_02572	CDS			hypothetical protein
+IFCPCJBP_02573	CDS			hypothetical protein
+IFCPCJBP_02574	CDS	rbsR		Ribose operon repressor
+IFCPCJBP_02575	CDS	gmuD_2	3.2.1.86	6-phospho-beta-glucosidase GmuD
+IFCPCJBP_02576	CDS			hypothetical protein
+IFCPCJBP_02577	CDS	ltaS1_2		Lipoteichoic acid synthase 1
+IFCPCJBP_02578	CDS			hypothetical protein
+IFCPCJBP_02579	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+IFCPCJBP_02580	CDS	mgtA	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+IFCPCJBP_02581	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+IFCPCJBP_02582	CDS			hypothetical protein
+IFCPCJBP_02583	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+IFCPCJBP_02584	CDS	metP_2		Methionine import system permease protein MetP
+IFCPCJBP_02585	CDS	metQ_2		D-methionine-binding lipoprotein MetQ
+IFCPCJBP_02586	CDS	abgB	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+IFCPCJBP_02587	CDS	nhaC_3		Na(+)/H(+) antiporter NhaC
+IFCPCJBP_02588	CDS			hypothetical protein
+IFCPCJBP_02589	CDS	yvbW		putative amino acid permease YvbW
+IFCPCJBP_02590	CDS			hypothetical protein
+IFCPCJBP_02591	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+IFCPCJBP_02592	CDS	garK	2.7.1.165	Glycerate 2-kinase
+IFCPCJBP_02593	CDS	yheS_2		putative ABC transporter ATP-binding protein YheS
+IFCPCJBP_02594	CDS	pspB_3	3.1.3.3	Putative phosphoserine phosphatase 2
+IFCPCJBP_02595	CDS			hypothetical protein
+IFCPCJBP_02596	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+IFCPCJBP_02597	CDS			PTS system EIIBC component
+IFCPCJBP_02598	CDS			Putative NrdI-like protein
+IFCPCJBP_02599	CDS	arcD1_2		Arginine/ornithine antiporter ArcD1
+IFCPCJBP_02600	CDS			hypothetical protein
+IFCPCJBP_02601	CDS	ecsA_2		ABC-type transporter ATP-binding protein EcsA
+IFCPCJBP_02602	CDS	sugE		Quaternary ammonium compound-resistance protein SugE
+IFCPCJBP_02603	CDS			hypothetical protein
+IFCPCJBP_02604	CDS			hypothetical protein
+IFCPCJBP_02605	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+IFCPCJBP_02606	CDS			hypothetical protein
+IFCPCJBP_02607	CDS	pnuC		Nicotinamide riboside transporter PnuC
+IFCPCJBP_02608	CDS			hypothetical protein
+IFCPCJBP_02609	CDS			hypothetical protein
+IFCPCJBP_02610	CDS			hypothetical protein
+IFCPCJBP_02611	CDS			hypothetical protein
+IFCPCJBP_02612	CDS			hypothetical protein
+IFCPCJBP_02613	CDS	ywpJ_2	3.1.3.-	Phosphatase YwpJ
+IFCPCJBP_02614	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+IFCPCJBP_02615	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+IFCPCJBP_02616	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+IFCPCJBP_02617	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+IFCPCJBP_02618	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+IFCPCJBP_02619	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+IFCPCJBP_02620	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+IFCPCJBP_02621	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+IFCPCJBP_02622	CDS			hypothetical protein
+IFCPCJBP_02623	CDS			hypothetical protein
+IFCPCJBP_02624	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+IFCPCJBP_02625	CDS			hypothetical protein
+IFCPCJBP_02626	CDS		1.3.5.4	Fumarate reductase flavoprotein subunit
+IFCPCJBP_02627	CDS		1.3.1.103	2-haloacrylate reductase
+IFCPCJBP_02628	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+IFCPCJBP_02629	CDS	panT_2		Pantothenic acid transporter PanT
+IFCPCJBP_02630	CDS	coaBC_1		Coenzyme A biosynthesis bifunctional protein CoaBC
+IFCPCJBP_02631	CDS	coaBC_2		Coenzyme A biosynthesis bifunctional protein CoaBC
+IFCPCJBP_02632	CDS	acuI	1.3.1.84	putative acrylyl-CoA reductase AcuI
+IFCPCJBP_02633	CDS	puuR		HTH-type transcriptional regulator PuuR
+IFCPCJBP_02634	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+IFCPCJBP_02635	CDS	potB		Spermidine/putrescine transport system permease protein PotB
+IFCPCJBP_02636	CDS	ydcV		Inner membrane ABC transporter permease protein YdcV
+IFCPCJBP_02637	CDS	potD		Spermidine/putrescine-binding periplasmic protein
+IFCPCJBP_02638	CDS	dgaR_3		Transcriptional regulatory protein DagR
+IFCPCJBP_02639	CDS			hypothetical protein
+IFCPCJBP_02640	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+IFCPCJBP_02641	CDS	sorC_2		PTS system sorbose-specific EIIC component
+IFCPCJBP_02642	CDS	manZ_4		PTS system mannose-specific EIID component
+IFCPCJBP_02643	CDS			hypothetical protein
+IFCPCJBP_02644	CDS			hypothetical protein
+IFCPCJBP_02645	CDS	gmuE_4	2.7.1.4	Putative fructokinase
+IFCPCJBP_02646	CDS			hypothetical protein
+IFCPCJBP_02647	CDS			hypothetical protein
+IFCPCJBP_02648	CDS			hypothetical protein
+IFCPCJBP_02649	CDS			hypothetical protein
+IFCPCJBP_02650	CDS	intQ_2		Putative defective protein IntQ
+IFCPCJBP_02651	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+IFCPCJBP_02652	CDS			hypothetical protein
+IFCPCJBP_02653	CDS	glnR		HTH-type transcriptional regulator GlnR
+IFCPCJBP_02654	CDS	glnA	6.3.1.2	Glutamine synthetase
+IFCPCJBP_02655	CDS			hypothetical protein
+IFCPCJBP_02656	CDS	pyrG	6.3.4.2	CTP synthase
+IFCPCJBP_02657	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+IFCPCJBP_02658	CDS	murA1_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IFCPCJBP_02659	CDS	rho	3.6.4.-	Transcription termination factor Rho
+IFCPCJBP_02660	CDS	rpmE2		50S ribosomal protein L31 type B
+IFCPCJBP_02661	CDS	fruA_4		PTS system fructose-specific EIIABC component
+IFCPCJBP_02662	CDS	fruA_5		PTS system fructose-specific EIIABC component
+IFCPCJBP_02663	CDS	kbaY	4.1.2.40	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+IFCPCJBP_02664	CDS	glcR_2		HTH-type transcriptional repressor GlcR
+IFCPCJBP_02665	CDS			hypothetical protein
+IFCPCJBP_02666	CDS	bcr		Bicyclomycin resistance protein
+IFCPCJBP_02667	CDS			hypothetical protein
+IFCPCJBP_02668	CDS	fnr		Anaerobic regulatory protein
+IFCPCJBP_02669	CDS			hypothetical protein
+IFCPCJBP_02670	CDS			hypothetical protein
+IFCPCJBP_02671	CDS			hypothetical protein
+IFCPCJBP_02672	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+IFCPCJBP_02673	CDS			Nucleoid-associated protein
+IFCPCJBP_02674	CDS	recR		Recombination protein RecR
+IFCPCJBP_02675	CDS	tmk	2.7.4.9	Thymidylate kinase
+IFCPCJBP_02676	CDS			hypothetical protein
+IFCPCJBP_02677	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+IFCPCJBP_02678	CDS			hypothetical protein
+IFCPCJBP_02679	CDS	yabA		Initiation-control protein YabA
+IFCPCJBP_02680	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+IFCPCJBP_02681	CDS	dinB_6	2.7.7.7	DNA polymerase IV
+IFCPCJBP_02682	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+IFCPCJBP_02683	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+IFCPCJBP_02684	CDS	bceA_2		Bacitracin export ATP-binding protein BceA
+IFCPCJBP_02685	CDS	bceB_2		Bacitracin export permease protein BceB
+IFCPCJBP_02686	CDS			hypothetical protein
+IFCPCJBP_02687	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+IFCPCJBP_02688	CDS	patA_2	2.3.1.-	Peptidoglycan O-acetyltransferase
+IFCPCJBP_02689	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+IFCPCJBP_02690	CDS			hypothetical protein
+IFCPCJBP_02691	CDS	ysdC	3.4.11.-	Putative aminopeptidase YsdC
+IFCPCJBP_02692	CDS			hypothetical protein
+IFCPCJBP_02693	CDS	rbn_1	3.1.26.11	Ribonuclease BN
+IFCPCJBP_02694	CDS	lplJ	6.3.1.20	Lipoate-protein ligase LplJ
+IFCPCJBP_02695	CDS			hypothetical protein
+IFCPCJBP_02696	CDS			hypothetical protein
+IFCPCJBP_02697	CDS		2.1.1.-	Putative O-methyltransferase
+IFCPCJBP_02698	tRNA			tRNA-Arg(tct)
+IFCPCJBP_02699	CDS			hypothetical protein
+IFCPCJBP_02700	CDS	dauA		C4-dicarboxylic acid transporter DauA
+IFCPCJBP_02701	CDS			hypothetical protein
+IFCPCJBP_02702	CDS	rplU		50S ribosomal protein L21
+IFCPCJBP_02703	CDS			hypothetical protein
+IFCPCJBP_02704	CDS	rpmA		50S ribosomal protein L27
+IFCPCJBP_02705	CDS	dgaR_4		Transcriptional regulatory protein DagR
+IFCPCJBP_02706	CDS	manX_3	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_02707	CDS	manX_4	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_02708	CDS	sorA_2		PTS system sorbose-specific EIIC component
+IFCPCJBP_02709	CDS	manZ_5		PTS system mannose-specific EIID component
+IFCPCJBP_02710	CDS			hypothetical protein
+IFCPCJBP_02711	CDS			hypothetical protein
+IFCPCJBP_02712	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+IFCPCJBP_02713	CDS			Alkaline shock protein 23
+IFCPCJBP_02714	CDS	nusB		N utilization substance protein B 
+IFCPCJBP_02715	CDS	folD		Bifunctional protein FolD protein
+IFCPCJBP_02716	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+IFCPCJBP_02717	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+IFCPCJBP_02718	CDS		2.5.1.10	Farnesyl diphosphate synthase
+IFCPCJBP_02719	CDS	tlyA		Hemolysin A
+IFCPCJBP_02720	CDS	argR_3		Arginine repressor
+IFCPCJBP_02721	CDS	recN		DNA repair protein RecN
+IFCPCJBP_02722	CDS			hypothetical protein
+IFCPCJBP_02723	CDS			hypothetical protein
+IFCPCJBP_02724	CDS			hypothetical protein
+IFCPCJBP_02725	CDS	mraZ		Transcriptional regulator MraZ
+IFCPCJBP_02726	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+IFCPCJBP_02727	CDS	ftsL_3		Cell division protein FtsL
+IFCPCJBP_02728	CDS	pbpX_2		Penicillin-binding protein 2x
+IFCPCJBP_02729	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IFCPCJBP_02730	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IFCPCJBP_02731	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IFCPCJBP_02732	CDS	divIB		Cell division protein DivIB
+IFCPCJBP_02733	CDS	ftsA		Cell division protein FtsA
+IFCPCJBP_02734	CDS	ftsZ		Cell division protein FtsZ
+IFCPCJBP_02735	CDS			hypothetical protein
+IFCPCJBP_02736	CDS	sepF		Cell division protein SepF
+IFCPCJBP_02737	CDS			hypothetical protein
+IFCPCJBP_02738	CDS	divIVA		Cell division protein DivIVA
+IFCPCJBP_02739	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+IFCPCJBP_02740	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+IFCPCJBP_02741	CDS	dtxR		Diphtheria toxin repressor
+IFCPCJBP_02742	CDS			hypothetical protein
+IFCPCJBP_02743	CDS	sfsA		Sugar fermentation stimulation protein A
+IFCPCJBP_02744	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+IFCPCJBP_02745	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+IFCPCJBP_02746	CDS	dgaR_5		Transcriptional regulatory protein DagR
+IFCPCJBP_02747	CDS	celA_3	2.7.1.205	PTS system cellobiose-specific EIIB component
+IFCPCJBP_02748	CDS	licA_2	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+IFCPCJBP_02749	CDS	chbC		PTS system N,N'-diacetylchitobiose-specific EIIC component
+IFCPCJBP_02750	CDS			hypothetical protein
+IFCPCJBP_02751	CDS			hypothetical protein
+IFCPCJBP_02752	CDS			hypothetical protein
+IFCPCJBP_02753	CDS			hypothetical protein
+IFCPCJBP_02754	CDS			hypothetical protein
+IFCPCJBP_02755	tRNA			tRNA-Arg(cct)
+IFCPCJBP_02756	CDS	xerC_4		Tyrosine recombinase XerC
+IFCPCJBP_02757	CDS			hypothetical protein
+IFCPCJBP_02758	CDS			hypothetical protein
+IFCPCJBP_02759	CDS			hypothetical protein
+IFCPCJBP_02760	CDS			hypothetical protein
+IFCPCJBP_02761	CDS			hypothetical protein
+IFCPCJBP_02762	CDS			hypothetical protein
+IFCPCJBP_02763	CDS			hypothetical protein
+IFCPCJBP_02764	CDS			hypothetical protein
+IFCPCJBP_02765	CDS			hypothetical protein
+IFCPCJBP_02766	CDS			hypothetical protein
+IFCPCJBP_02767	CDS			hypothetical protein
+IFCPCJBP_02768	CDS			hypothetical protein
+IFCPCJBP_02769	CDS			hypothetical protein
+IFCPCJBP_02770	CDS			hypothetical protein
+IFCPCJBP_02771	CDS			hypothetical protein
+IFCPCJBP_02772	CDS			hypothetical protein
+IFCPCJBP_02773	CDS			hypothetical protein
+IFCPCJBP_02774	CDS			hypothetical protein
+IFCPCJBP_02775	CDS			hypothetical protein
+IFCPCJBP_02776	CDS			hypothetical protein
+IFCPCJBP_02777	CDS			hypothetical protein
+IFCPCJBP_02778	CDS			hypothetical protein
+IFCPCJBP_02779	CDS			hypothetical protein
+IFCPCJBP_02780	CDS			hypothetical protein
+IFCPCJBP_02781	CDS			hypothetical protein
+IFCPCJBP_02782	CDS			hypothetical protein
+IFCPCJBP_02783	CDS			hypothetical protein
+IFCPCJBP_02784	CDS			hypothetical protein
+IFCPCJBP_02785	CDS	cas2_2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+IFCPCJBP_02786	CDS			hypothetical protein
+IFCPCJBP_02787	CDS			hypothetical protein
+IFCPCJBP_02788	CDS			hypothetical protein
+IFCPCJBP_02789	CDS			hypothetical protein
+IFCPCJBP_02790	CDS			hypothetical protein
+IFCPCJBP_02791	CDS			hypothetical protein
+IFCPCJBP_02792	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+IFCPCJBP_02793	CDS			hypothetical protein
+IFCPCJBP_02794	CDS			hypothetical protein
+IFCPCJBP_02795	CDS			hypothetical protein
+IFCPCJBP_02796	CDS			hypothetical protein
+IFCPCJBP_02797	CDS			hypothetical protein
+IFCPCJBP_02798	CDS			hypothetical protein
+IFCPCJBP_02799	CDS			hypothetical protein
+IFCPCJBP_02800	CDS			hypothetical protein
+IFCPCJBP_02801	CDS	smc_6		Chromosome partition protein Smc
+IFCPCJBP_02802	CDS			hypothetical protein
+IFCPCJBP_02803	CDS			hypothetical protein
+IFCPCJBP_02804	CDS			hypothetical protein
+IFCPCJBP_02805	CDS			hypothetical protein
+IFCPCJBP_02806	CDS			hypothetical protein
+IFCPCJBP_02807	CDS			hypothetical protein
+IFCPCJBP_02808	CDS			hypothetical protein
+IFCPCJBP_02809	CDS			hypothetical protein
+IFCPCJBP_02810	CDS	lytA_4	3.5.1.28	Autolysin
+IFCPCJBP_02811	tRNA			tRNA-Met(cat)
+IFCPCJBP_02812	CDS			hypothetical protein
+IFCPCJBP_02813	CDS			hypothetical protein
+IFCPCJBP_02814	CDS			hypothetical protein
+IFCPCJBP_02815	CDS			hypothetical protein
+IFCPCJBP_02816	CDS			hypothetical protein
+IFCPCJBP_02817	CDS			hypothetical protein
+IFCPCJBP_02818	CDS			hypothetical protein
+IFCPCJBP_02819	CDS			hypothetical protein
+IFCPCJBP_02820	CDS			hypothetical protein
+IFCPCJBP_02821	CDS			hypothetical protein
+IFCPCJBP_02822	CDS	ccpB		Catabolite control protein B
+IFCPCJBP_02823	CDS	mta		HTH-type transcriptional activator mta
+IFCPCJBP_02824	CDS			hypothetical protein
+IFCPCJBP_02825	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+IFCPCJBP_02826	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+IFCPCJBP_02827	CDS			hypothetical protein
+IFCPCJBP_02828	CDS	abfA_1	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+IFCPCJBP_02829	CDS	ugpB		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+IFCPCJBP_02830	CDS	lacF_6		Lactose transport system permease protein LacF
+IFCPCJBP_02831	CDS	araQ_6		L-arabinose transport system permease protein AraQ
+IFCPCJBP_02832	CDS			hypothetical protein
+IFCPCJBP_02833	CDS	abfA_2	3.2.1.55	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+IFCPCJBP_02834	CDS		3.2.1.55	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+IFCPCJBP_02835	CDS	araR_2		Arabinose metabolism transcriptional repressor
+IFCPCJBP_02836	CDS	csbC		putative metabolite transport protein CsbC
+IFCPCJBP_02837	CDS	araB	2.7.1.16	Ribulokinase
+IFCPCJBP_02838	CDS	sgbE	5.1.3.4	L-ribulose-5-phosphate 4-epimerase SgbE
+IFCPCJBP_02839	CDS	araA	5.3.1.4	L-arabinose isomerase
+IFCPCJBP_02840	CDS		1.1.1.81	Hydroxypyruvate reductase
+IFCPCJBP_02841	CDS	ltaS1_3		Lipoteichoic acid synthase 1
+IFCPCJBP_02842	CDS			hypothetical protein
+IFCPCJBP_02843	CDS			hypothetical protein
+IFCPCJBP_02844	CDS	pgl_2	3.1.1.31	6-phosphogluconolactonase
+IFCPCJBP_02845	CDS			hypothetical protein
+IFCPCJBP_02846	CDS	tqsA_4		AI-2 transport protein TqsA
+IFCPCJBP_02847	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+IFCPCJBP_02848	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IFCPCJBP_02849	CDS			hypothetical protein
+IFCPCJBP_02850	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02851	CDS			hypothetical protein
+IFCPCJBP_02852	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02853	CDS	catE	1.13.11.2	Catechol-2,3-dioxygenase
+IFCPCJBP_02854	CDS	ampH	3.4.-.-	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH
+IFCPCJBP_02855	CDS	gmuF	5.3.1.8	putative mannose-6-phosphate isomerase GmuF
+IFCPCJBP_02856	CDS	mtlA_1		PTS system mannitol-specific EIICB component
+IFCPCJBP_02857	CDS	mtlA_2		PTS system mannitol-specific EIICB component
+IFCPCJBP_02858	CDS	mtlR_2		Transcriptional regulator MtlR
+IFCPCJBP_02859	CDS	mtlF_1	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+IFCPCJBP_02860	CDS			hypothetical protein
+IFCPCJBP_02861	CDS	natA_4		ABC transporter ATP-binding protein NatA
+IFCPCJBP_02862	CDS	mtlA_3		PTS system mannitol-specific EIICB component
+IFCPCJBP_02863	CDS	mtlF_2	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+IFCPCJBP_02864	CDS	mtlD	1.1.1.17	Mannitol-1-phosphate 5-dehydrogenase
+IFCPCJBP_02865	CDS	cobQ		Cobyric acid synthase
+IFCPCJBP_02866	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IFCPCJBP_02867	CDS	ntpJ_2		Potassium/sodium uptake protein NtpJ
+IFCPCJBP_02868	CDS			hypothetical protein
+IFCPCJBP_02869	CDS			hypothetical protein
+IFCPCJBP_02870	CDS			hypothetical protein
+IFCPCJBP_02871	CDS	spsB	3.4.21.89	Signal peptidase IB
+IFCPCJBP_02872	CDS	ubiE_2	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+IFCPCJBP_02873	CDS			hypothetical protein
+IFCPCJBP_02874	CDS			hypothetical protein
+IFCPCJBP_02875	CDS	tdk	2.7.1.21	Thymidine kinase
+IFCPCJBP_02876	CDS	prfA		Peptide chain release factor 1
+IFCPCJBP_02877	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+IFCPCJBP_02878	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+IFCPCJBP_02879	CDS			hypothetical protein
+IFCPCJBP_02880	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+IFCPCJBP_02881	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+IFCPCJBP_02882	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+IFCPCJBP_02883	CDS			hypothetical protein
+IFCPCJBP_02884	tRNA			tRNA-Thr(cgt)
+IFCPCJBP_02885	CDS			hypothetical protein
+IFCPCJBP_02886	CDS			hypothetical protein
+IFCPCJBP_02887	CDS	lciA		Lactococcin-A immunity protein
+IFCPCJBP_02888	CDS	cna		Collagen adhesin
+IFCPCJBP_02889	CDS	proX_2		Prolyl-tRNA editing protein ProX
+IFCPCJBP_02890	CDS	yecS_2		L-cystine transport system permease protein YecS
+IFCPCJBP_02891	CDS	glnQ_2		Glutamine transport ATP-binding protein GlnQ
+IFCPCJBP_02892	CDS	fliY		L-cystine-binding protein FliY
+IFCPCJBP_02893	CDS	bglC	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+IFCPCJBP_02894	CDS	spoIIIE		DNA translocase SpoIIIE
+IFCPCJBP_02895	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+IFCPCJBP_02896	CDS	gldA	1.1.1.6	Glycerol dehydrogenase
+IFCPCJBP_02897	CDS			hypothetical protein
+IFCPCJBP_02898	CDS	dppE		Dipeptide-binding protein DppE
+IFCPCJBP_02899	CDS			hypothetical protein
+IFCPCJBP_02900	CDS	oppB		Oligopeptide transport system permease protein OppB
+IFCPCJBP_02901	CDS	dppC		Dipeptide transport system permease protein DppC
+IFCPCJBP_02902	CDS	oppD_2		Oligopeptide transport ATP-binding protein OppD
+IFCPCJBP_02903	CDS	oppF_2		Oligopeptide transport ATP-binding protein OppF
+IFCPCJBP_02904	CDS			hypothetical protein
+IFCPCJBP_02905	CDS			Bifunctional NMN adenylyltransferase/Nudix hydrolase
+IFCPCJBP_02906	CDS			hypothetical protein
+IFCPCJBP_02907	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+IFCPCJBP_02908	CDS			hypothetical protein
+IFCPCJBP_02909	CDS	steT_2		Serine/threonine exchanger SteT
+IFCPCJBP_02910	CDS	dtd3_2	3.1.1.96	D-aminoacyl-tRNA deacylase
+IFCPCJBP_02911	CDS	rnmV	3.1.26.8	Ribonuclease M5
+IFCPCJBP_02912	CDS	rsmA_2	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+IFCPCJBP_02913	CDS	niaX		Niacin transporter NiaX
+IFCPCJBP_02914	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+IFCPCJBP_02915	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+IFCPCJBP_02916	CDS	folT_2		Folate transporter FolT
+IFCPCJBP_02917	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02918	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_02919	CDS			hypothetical protein
+IFCPCJBP_02920	CDS	dgaR_6		Transcriptional regulatory protein DagR
+IFCPCJBP_02921	CDS	manX_5	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_02922	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+IFCPCJBP_02923	CDS	sorA_3		PTS system sorbose-specific EIIC component
+IFCPCJBP_02924	CDS	manZ_6		PTS system mannose-specific EIID component
+IFCPCJBP_02925	CDS	nodM	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFCPCJBP_02926	CDS	frlB_1	3.5.-.-	Fructosamine deglycase FrlB
+IFCPCJBP_02927	CDS	gpsA_2	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+IFCPCJBP_02928	CDS			hypothetical protein
+IFCPCJBP_02929	CDS	gtaB_2	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+IFCPCJBP_02930	CDS			hypothetical protein
+IFCPCJBP_02931	CDS			hypothetical protein
+IFCPCJBP_02932	CDS			hypothetical protein
+IFCPCJBP_02933	CDS	iadA_4	3.4.19.-	Isoaspartyl dipeptidase
+IFCPCJBP_02934	CDS			hypothetical protein
+IFCPCJBP_02935	CDS	lolD_2	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IFCPCJBP_02936	CDS			hypothetical protein
+IFCPCJBP_02937	CDS	rnj2_3	3.1.-.-	Ribonuclease J 2
+IFCPCJBP_02938	CDS	ybaK_4	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IFCPCJBP_02939	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+IFCPCJBP_02940	CDS			hypothetical protein
+IFCPCJBP_02941	CDS			hypothetical protein
+IFCPCJBP_02942	CDS			hypothetical protein
+IFCPCJBP_02943	CDS	soj_6	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IFCPCJBP_02944	CDS			hypothetical protein
+IFCPCJBP_02945	CDS			hypothetical protein
+IFCPCJBP_02946	CDS			hypothetical protein
+IFCPCJBP_02947	CDS			hypothetical protein
+IFCPCJBP_02948	CDS			Insertion sequence IS5376 putative ATP-binding protein
+IFCPCJBP_02949	CDS			hypothetical protein
+IFCPCJBP_02950	CDS			hypothetical protein
+IFCPCJBP_02951	CDS			hypothetical protein
+IFCPCJBP_02952	CDS	rbn_2	3.1.26.11	Ribonuclease BN
+IFCPCJBP_02953	CDS	levD_1	2.7.1.202	PTS system fructose-specific EIIA component
+IFCPCJBP_02954	CDS	manX_6	2.7.1.191	PTS system mannose-specific EIIAB component
+IFCPCJBP_02955	CDS	sorA_4		PTS system sorbose-specific EIIC component
+IFCPCJBP_02956	CDS	manZ_7		PTS system mannose-specific EIID component
+IFCPCJBP_02957	CDS	frlB_2	3.5.-.-	Fructosamine deglycase FrlB
+IFCPCJBP_02958	CDS	dgaR_7		Transcriptional regulatory protein DagR
+IFCPCJBP_02959	CDS	yniC	3.1.3.68	2-deoxyglucose-6-phosphate phosphatase
+IFCPCJBP_02960	CDS	acpA_2		Capsule synthesis positive regulator AcpA
+IFCPCJBP_02961	CDS			hypothetical protein
+IFCPCJBP_02962	CDS			hypothetical protein
+IFCPCJBP_02963	CDS	yvoA_2		HTH-type transcriptional repressor YvoA
+IFCPCJBP_02964	CDS	yurK		putative HTH-type transcriptional regulator YurK
+IFCPCJBP_02965	CDS	frlB_3	3.5.-.-	Fructosamine deglycase FrlB
+IFCPCJBP_02966	CDS	levD_2	2.7.1.202	PTS system fructose-specific EIIA component
+IFCPCJBP_02967	CDS		2.7.1.-	putative phosphotransferase enzyme IIB component
+IFCPCJBP_02968	CDS	sorA_5		PTS system sorbose-specific EIIC component
+IFCPCJBP_02969	CDS	manZ_8		PTS system mannose-specific EIID component
+IFCPCJBP_02970	CDS			hypothetical protein
+IFCPCJBP_02971	CDS	bglF_4		PTS system beta-glucoside-specific EIIBCA component
+IFCPCJBP_02972	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+IFCPCJBP_02973	CDS	licT_4		Transcription antiterminator LicT
+IFCPCJBP_02974	CDS			hypothetical protein
+IFCPCJBP_02975	CDS	bglF_5		PTS system beta-glucoside-specific EIIBCA component
+IFCPCJBP_02976	CDS			hypothetical protein
+IFCPCJBP_02977	CDS			hypothetical protein
+IFCPCJBP_02978	CDS			hypothetical protein
+IFCPCJBP_02979	CDS			hypothetical protein
+IFCPCJBP_02980	CDS			hypothetical protein
+IFCPCJBP_02981	CDS			hypothetical protein
+IFCPCJBP_02982	CDS			hypothetical protein
+IFCPCJBP_02983	CDS			hypothetical protein
+IFCPCJBP_02984	CDS	ohrB_2		Organic hydroperoxide resistance protein OhrB
+IFCPCJBP_02985	CDS			hypothetical protein
+IFCPCJBP_02986	CDS	hsdS		Type-1 restriction enzyme EcoKI specificity protein
+IFCPCJBP_02987	CDS			hypothetical protein
+IFCPCJBP_02988	CDS			hypothetical protein
+IFCPCJBP_02989	CDS			hypothetical protein
+IFCPCJBP_02990	CDS			hypothetical protein
+IFCPCJBP_02991	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+IFCPCJBP_02992	CDS			hypothetical protein
+IFCPCJBP_02993	CDS	xerD_4		Tyrosine recombinase XerD
+IFCPCJBP_02994	CDS			hypothetical protein
+IFCPCJBP_02995	CDS			hypothetical protein
+IFCPCJBP_02996	CDS			hypothetical protein
+IFCPCJBP_02997	CDS			hypothetical protein
+IFCPCJBP_02998	CDS			hypothetical protein
+IFCPCJBP_02999	CDS			hypothetical protein
+IFCPCJBP_03000	CDS			hypothetical protein
+IFCPCJBP_03001	CDS			hypothetical protein
+IFCPCJBP_03002	CDS	resA		Thiol-disulfide oxidoreductase ResA
+IFCPCJBP_03003	CDS			hypothetical protein
+IFCPCJBP_03004	CDS			hypothetical protein
+IFCPCJBP_03005	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+IFCPCJBP_03006	CDS			putative ABC transporter ATP-binding protein
+IFCPCJBP_03007	CDS			hypothetical protein
+IFCPCJBP_03008	CDS			hypothetical protein
+IFCPCJBP_03009	CDS			hypothetical protein
+IFCPCJBP_03010	CDS			hypothetical protein
+IFCPCJBP_03011	CDS			hypothetical protein
+IFCPCJBP_03012	CDS			hypothetical protein
+IFCPCJBP_03013	CDS			hypothetical protein
+IFCPCJBP_03014	CDS	hpdA	1.97.1.-	4-hydroxyphenylacetate decarboxylase activating enzyme
+IFCPCJBP_03015	CDS			Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+IFCPCJBP_03016	CDS			hypothetical protein
+IFCPCJBP_03017	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+IFCPCJBP_03018	CDS			hypothetical protein
+IFCPCJBP_03019	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+IFCPCJBP_03020	CDS			hypothetical protein
+IFCPCJBP_03021	CDS			hypothetical protein
+IFCPCJBP_03022	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+IFCPCJBP_03023	CDS			hypothetical protein
+IFCPCJBP_03024	CDS			putative response regulatory protein
+IFCPCJBP_03025	CDS	ypdA_2	2.7.13.3	Sensor histidine kinase YpdA
+IFCPCJBP_03026	CDS	yteP_3		putative multiple-sugar transport system permease YteP
+IFCPCJBP_03027	CDS	araQ_7		L-arabinose transport system permease protein AraQ
+IFCPCJBP_03028	CDS	lipO_2		Lipoprotein LipO
+IFCPCJBP_03029	CDS			hypothetical protein
+IFCPCJBP_03030	CDS			hypothetical protein
+IFCPCJBP_03031	CDS	ebgA	3.2.1.23	Evolved beta-galactosidase subunit alpha
+IFCPCJBP_03032	CDS	nagJ	3.2.1.169	O-GlcNAcase NagJ
+IFCPCJBP_03033	CDS			hypothetical protein
+IFCPCJBP_03034	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+IFCPCJBP_03035	CDS			hypothetical protein
+IFCPCJBP_03036	CDS	qseB		Transcriptional regulatory protein QseB
+IFCPCJBP_03037	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+IFCPCJBP_03038	CDS			hypothetical protein
+IFCPCJBP_03039	CDS			hypothetical protein
+IFCPCJBP_03040	CDS			hypothetical protein
+IFCPCJBP_03041	CDS			hypothetical protein
+IFCPCJBP_03042	CDS			hypothetical protein
+IFCPCJBP_03043	CDS			hypothetical protein
+IFCPCJBP_03044	CDS			hypothetical protein
+IFCPCJBP_03045	CDS			hypothetical protein
+IFCPCJBP_03046	CDS			hypothetical protein
+IFCPCJBP_03047	CDS			hypothetical protein
+IFCPCJBP_03048	CDS			hypothetical protein
+IFCPCJBP_03049	CDS	crr_2	2.7.1.199	PTS system glucose-specific EIIA component
+IFCPCJBP_03050	CDS	agaSK_3		Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+IFCPCJBP_03051	CDS	araC_4		Arabinose operon regulatory protein
+IFCPCJBP_03052	CDS	scrB_1	3.2.1.26	Sucrose-6-phosphate hydrolase
+IFCPCJBP_03053	CDS	treP_2		PTS system trehalose-specific EIIBC component
+IFCPCJBP_03054	CDS			hypothetical protein
+IFCPCJBP_03055	CDS			hypothetical protein
+IFCPCJBP_03056	CDS			hypothetical protein
+IFCPCJBP_03057	CDS			hypothetical protein
+IFCPCJBP_03058	CDS	yvoA_3		HTH-type transcriptional repressor YvoA
+IFCPCJBP_03059	CDS	agaS	5.3.1.-	Putative tagatose-6-phosphate ketose/aldose isomerase
+IFCPCJBP_03060	CDS	lacD	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+IFCPCJBP_03061	CDS			hypothetical protein
+IFCPCJBP_03062	CDS	licC_3		Lichenan permease IIC component
+IFCPCJBP_03063	CDS			hypothetical protein
+IFCPCJBP_03064	CDS	xerS_2		Tyrosine recombinase XerS
+IFCPCJBP_03065	CDS			hypothetical protein
+IFCPCJBP_03066	CDS			hypothetical protein
+IFCPCJBP_03067	CDS	crr_3	2.7.1.199	PTS system glucose-specific EIIA component
+IFCPCJBP_03068	CDS			hypothetical protein
+IFCPCJBP_03069	CDS	glcB		PTS system glucoside-specific EIICBA component
+IFCPCJBP_03070	CDS	nanE_2	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+IFCPCJBP_03071	CDS	rpiR		HTH-type transcriptional regulator RpiR
+IFCPCJBP_03072	CDS	bin3_7		Putative transposon Tn552 DNA-invertase bin3
+IFCPCJBP_03073	CDS			hypothetical protein
+IFCPCJBP_03074	CDS			hypothetical protein
+IFCPCJBP_03075	CDS			hypothetical protein
+IFCPCJBP_03076	CDS			hypothetical protein
+IFCPCJBP_03077	CDS			hypothetical protein
+IFCPCJBP_03078	CDS	degA_4		HTH-type transcriptional regulator DegA
+IFCPCJBP_03079	CDS	scrB_2	3.2.1.26	Sucrose-6-phosphate hydrolase
+IFCPCJBP_03080	CDS	treP_3		PTS system trehalose-specific EIIBC component
+IFCPCJBP_03081	CDS			hypothetical protein
+IFCPCJBP_03082	CDS	gmuE_5	2.7.1.4	Putative fructokinase
+IFCPCJBP_03083	CDS			hypothetical protein
+IFCPCJBP_03084	CDS			hypothetical protein
+IFCPCJBP_03085	CDS			hypothetical protein
+IFCPCJBP_03086	CDS	xerD_5		Tyrosine recombinase XerD
+IFCPCJBP_03087	CDS			hypothetical protein
+IFCPCJBP_03088	CDS			hypothetical protein
+IFCPCJBP_03089	CDS			hypothetical protein
+IFCPCJBP_03090	CDS	hxlB	5.3.1.27	3-hexulose-6-phosphate isomerase
+IFCPCJBP_03091	CDS	rpe_2	5.1.3.1	Ribulose-phosphate 3-epimerase
+IFCPCJBP_03092	CDS			hypothetical protein
+IFCPCJBP_03093	CDS			hypothetical protein
+IFCPCJBP_03094	CDS	gatC_3		PTS system galactitol-specific EIIC component
+IFCPCJBP_03095	CDS	gatA_3	2.7.1.200	PTS system galactitol-specific EIIA component
+IFCPCJBP_03096	CDS	manR_3		Transcriptional regulator ManR
+IFCPCJBP_03097	CDS			hypothetical protein
+IFCPCJBP_03098	CDS			hypothetical protein
+IFCPCJBP_03099	CDS			hypothetical protein
+IFCPCJBP_03100	CDS			hypothetical protein
+IFCPCJBP_03101	CDS			hypothetical protein
+IFCPCJBP_03102	CDS			hypothetical protein
+IFCPCJBP_03103	CDS			hypothetical protein
+IFCPCJBP_03104	CDS			hypothetical protein
+IFCPCJBP_03105	CDS			hypothetical protein
+IFCPCJBP_03106	CDS			hypothetical protein
+IFCPCJBP_03107	CDS			hypothetical protein
+IFCPCJBP_03108	CDS			hypothetical protein
+IFCPCJBP_03109	CDS	ssb_3		Single-stranded DNA-binding protein
+IFCPCJBP_03110	CDS	ssbA		Single-stranded DNA-binding protein A
+IFCPCJBP_03111	CDS			hypothetical protein
+IFCPCJBP_03112	CDS			hypothetical protein
+IFCPCJBP_03113	CDS			hypothetical protein
+IFCPCJBP_03114	CDS	topB_5	5.99.1.2	DNA topoisomerase 3
+IFCPCJBP_03115	CDS			hypothetical protein
+IFCPCJBP_03116	CDS			hypothetical protein
+IFCPCJBP_03117	CDS			hypothetical protein
+IFCPCJBP_03118	CDS			hypothetical protein
+IFCPCJBP_03119	CDS			hypothetical protein
+IFCPCJBP_03120	CDS			hypothetical protein
+IFCPCJBP_03121	CDS			hypothetical protein
+IFCPCJBP_03122	CDS			hypothetical protein
+IFCPCJBP_03123	CDS			hypothetical protein
+IFCPCJBP_03124	CDS			hypothetical protein
+IFCPCJBP_03125	CDS			hypothetical protein
+IFCPCJBP_03126	CDS			hypothetical protein
+IFCPCJBP_03127	CDS			hypothetical protein
+IFCPCJBP_03128	CDS			hypothetical protein
+IFCPCJBP_03129	CDS			hypothetical protein
+IFCPCJBP_03130	CDS			hypothetical protein
+IFCPCJBP_03131	CDS			hypothetical protein
+IFCPCJBP_03132	CDS			hypothetical protein
+IFCPCJBP_03133	CDS			hypothetical protein
+IFCPCJBP_03134	CDS			hypothetical protein
+IFCPCJBP_03135	CDS	ltrA_6		Group II intron-encoded protein LtrA
+IFCPCJBP_03136	CDS			hypothetical protein
+IFCPCJBP_03137	CDS			hypothetical protein
+IFCPCJBP_03138	CDS			hypothetical protein
+IFCPCJBP_03139	CDS			hypothetical protein
+IFCPCJBP_03140	CDS			hypothetical protein
+IFCPCJBP_03141	CDS			hypothetical protein
+IFCPCJBP_03142	CDS			hypothetical protein
+IFCPCJBP_03143	CDS			hypothetical protein
+IFCPCJBP_03144	CDS			hypothetical protein
+IFCPCJBP_03145	CDS			hypothetical protein
+IFCPCJBP_03146	CDS			hypothetical protein
+IFCPCJBP_03147	CDS			hypothetical protein
+IFCPCJBP_03148	CDS			hypothetical protein
+IFCPCJBP_03149	CDS			hypothetical protein
+IFCPCJBP_03150	CDS			hypothetical protein
+IFCPCJBP_03151	CDS			hypothetical protein
+IFCPCJBP_03152	CDS			hypothetical protein
+IFCPCJBP_03153	CDS			hypothetical protein
+IFCPCJBP_03154	CDS			hypothetical protein
+IFCPCJBP_03155	CDS			hypothetical protein
+IFCPCJBP_03156	CDS			hypothetical protein
+IFCPCJBP_03157	CDS			hypothetical protein
+IFCPCJBP_03158	CDS			hypothetical protein
+IFCPCJBP_03159	CDS			hypothetical protein
+IFCPCJBP_03160	CDS			hypothetical protein
+IFCPCJBP_03161	CDS			hypothetical protein
+IFCPCJBP_03162	CDS			hypothetical protein
+IFCPCJBP_03163	CDS			hypothetical protein
+IFCPCJBP_03164	CDS			hypothetical protein

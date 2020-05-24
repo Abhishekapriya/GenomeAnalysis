@@ -1,0 +1,14 @@
+Assembly	EF.contigs	contigs
+# misassemblies	5	1
+    # relocations	3	0
+    # translocations	2	1
+    # inversions	0	0
+# misassembled contigs	4	1
+Misassembled contigs length	287004	19277
+# local misassemblies	1	0
+# unaligned mis. contigs	0	0
+# mismatches	61	329
+# indels	489	139
+    # indels (<= 5 bp)	481	131
+    # indels (> 5 bp)	8	8
+Indels length	636	268
