@@ -22,7 +22,7 @@ library("RColorBrewer")
 library("ggplot2")
 library("ashr")
 
-directory <- "E:/MS/Sem_2/Period_4/Genome_Analysis/Report/HtSeq"
+directory <- "E:/MS/Sem_2/Period_4/Genome_Analysis/GenomeAnalysis/Reports/HtSeq"
 sampleFiles<-c('RNA_BH_72_counts.txt', 'RNA_BH_73_counts.txt', 'RNA_BH_74_counts.txt', 'RNA_Serum_69_counts.txt', 'RNA_Serum_70_counts.txt', 'RNA_Serum_71_counts.txt')
 sampleCondition<- c('BHI', 'BHI', 'BHI', 'Serum', 'Serum', 'Serum')
 sampleTable <- data.frame(sampleName = sampleFiles, fileName = sampleFiles, condition = sampleCondition)
@@ -54,15 +54,15 @@ resLFC <- lfcShrink(dds, coef="condition_Serum_vs_BHI", type="apeglm")
 resOrdered <- res[order(res$pvalue),]
 
 # Filtering and identifying number of genes with P-adjusted value less than 0.001: 
-filterL2FCG2L05 <- (abs(resOrdered$log2FoldChange) > 2) | (abs(resOrdered$log2FoldChange) < 0.5)
-filtered_res <- resOrdered[filterL2FCG2L05,]
+filterLFCG2L5 <- (abs(resOrdered$log2FoldChange) > 2) | (abs(resOrdered$log2FoldChange) < 0.5)
+filtered_res <- resOrdered[filterLFCG2L5,]
 sum(filtered_res$padj < 0.001, na.rm=TRUE)
 
 
 # Identifying and Ordering the top 100 genes genes with most significant expression by adjusted p-value for each sequencing run of RNA from human serum
 n = 100
-topResults <- rbind( resOrdered[ abs(resOrdered[,'log2FoldChange']) > 2,][1:n,])
-topResults[c(60:100), c('baseMean','log2FoldChange','padj')]
+TopResults <- rbind( resOrdered[ abs(resOrdered[,'log2FoldChange']) > 2,][1:n,])
+TopResults[c(60:100), c('baseMean','log2FoldChange','padj')]
 
 
 # Obtaining MA plot for normalized DEseq results
@@ -108,10 +108,10 @@ ggplot(data, aes(PC1, PC2, color=condition)) +
 # Obtaining heat map of top results
 hmcol <- brewer.pal(11,'RdBu')
 nCounts <- counts(dds, normalized=TRUE)
-heatmap(as.matrix(nCounts[ row.names(topResults), ]), Rowv = NA, col = hmcol, mar = c(8,2))
+heatmap(as.matrix(nCounts[ row.names(TopResults), ]), Rowv = NA, col = hmcol, mar = c(10,2), cexCol = 0.8, cexRow = 0.6)
 
 # Loading merged counts data for a full heatmap display
-count.table <- read.table(file="merged.tmp", sep="\t", header=FALSE, row.names = 1)
+count.table <- read.table(file="E:/MS/Sem_2/Period_4/Genome_Analysis/GenomeAnalysis/Reports/HtSeq/merged.tmp", sep="\t", header=FALSE, row.names = 1)
 epsilon <- 1 # pseudo-count to avoid problems with log(0)
 hist(as.matrix(log2(count.table + epsilon)), breaks=100, col="lightblue", border="white",
      main="Log2-transformed counts per gene", xlab="log2(counts+1)", ylab="Number of genes", 
