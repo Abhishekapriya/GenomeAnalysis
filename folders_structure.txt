@@ -1,6 +1,7 @@
 The folders included are : Codes, Images and Reports
 
-* The file "Codes" contains all the shell script files which were run as batch jobs.
+* The file "Codes" contains all the shell script files which were run as batch jobs and the R script used for DEseq.
+	The codes used for other steps which were run as individual commands, have been included in the "Methods and Inference" page of the wiki.
 
 * The file "Images" contains all the images and snapshots taken at various stages in the project. 
 	These have been used to descirbe the differnet steps in the analysis process in the various wiki pages of this repository.
